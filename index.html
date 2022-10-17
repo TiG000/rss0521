@@ -22,6 +22,176 @@
             data-action="toggle-accordions"
             title="Click to toggle the day, Ctrl + click to toggle all."
           >
+            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2022-10-16 datetime="2022-10-16T14:09:43.000Z">2022-10-16</time>
+            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2022-10-16 datetime="2022-10-16T14:09:43.000Z"></time>
+          </button>
+        </h2>
+        <ul class="sources card">
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >月光博客</button>
+                  <a class="source-heading__link" href="https://www.williamlong.info/">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://www.williamlong.info/archives/6962.html"
+                        open
+                      >
+                        <summary class="article-expander__title">关于Z-Blog的网址的瑕疵及解决</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://www.williamlong.info/archives/6962.html">
+                          <div class="article-summary-box-inner media-object">
+                            <span class="media-object__text">
+                              <span>如果，首页分页、分类分页、作者分页、标签分页、日期分页统一采用【*/2/default.html】式网址，URL配置如下。
+
+
+首页分页【{%host%}/page/{%page%}/default.html】
+
+
+分类页【{%host%}/category/{%alias%}/default.html】
+
+
+作者页【{%host%}/author/{%alias%}/default.html】
+
+
+标签页【{%host%}/tags/{%alias%}/default.html】
+
+
+日期页【{%host%}/date/{%date%}/default.html】
+
+
+那么，建议将《c_system_lib.asp》文件的【t&#x3D;Replace(t,&quot;/default.html&quot;,&quot;_%n/default.html&quot;)】修改为【t&#x3D;Replace(t,&quot;/default.html&quot;,&quot;/%n/default.html&quot;)】，方可实现统一第2页为【*/2/default.html】式网址。
+
+
+——按Z-Blog现有的规则生成的【*/alias_2/default.html】式网址不够完美；风觉得完美的网址应该是要么【*/alias/2/default.html】，要么【*/alias/default_2.html】。
+
+
+但是，上述修改也会导致一个bug：如果首页分页URL配置采用【{%host%}/default.html】，而分类页、作者页、标签页、日期页仍然采用上述配置就会导致页面链接为【*/2/default.html】而实际却是【*_2/default.html】式从而使得链接错误，而这个错误基本不会出现，原因如下文。
+
+
+经过再三测试：只要首页分页URL配置为【{%host%}/page/{%page%}/default.html】，不管其它页面如何配置，都是正确的；只要首页分页的URL配置与其它分页配置同步（也就是都不采用上述URL配置），也是正确的。所以，建议下一版本将《c_system_lib.asp》修改了吧，没有哪个人将分类页、标签页、作者页、日期页均采用【*/2/default.html】式，而唯独放过首页，不讲武德吧？？
+
+
+《YTBuild》的lib文件的语句也是将【_】改为【/】也就是【Url&#x3D;StaticUrlRules(&quot;(\/default\.html)&quot;,Url,&quot;/&quot;&amp;Index&amp;&quot;$1&quot;)】，测试也没问题。
+
+
+总之，Z-Blog的生成的网址，建议采用【*/2/default.html】式或【*_2.html】式，摒弃那种【*/alias_2/default.html】式。
+
+
+如果按上述修改lib文件：
+
+
+那么一个非常完美的网址也是可以实现的，只是切记定好分类，不要随意更改文章的分类，切记！301定向比较麻烦！
+
+
+1、父类页面：域名/父类别名/
+
+
+2、子类页面：域名/父类别名/子类别名/
+
+
+3、文章页面：域名/父类别名/子类别名/文章别名.html
+
+
+感谢Z-Blog团队，2.3asp确实比2.2修正了很多细节和错误页面。
+
+
+来源：读者投稿，作者：风，原文链接。</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >左岸读书</button>
+                  <a class="source-heading__link" href="https://www.zreading.cn">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="http://www.zreading.cn/?p&#x3D;8793"
+                        open
+                      >
+                        <summary class="article-expander__title">风物长宜放眼量</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://www.zreading.cn/archives/8793.html">
+                          <div class="article-summary-box-inner media-object">
+                            <span class="media-object__text">
+                              <span>文/德鲁伊 前段时间，老爷子病了住院，陪了几天院。老爷子八十多了，六十年代大学生，旧社会、新社会都经历了。难得 […]</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;1
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="http://www.zreading.cn/?p&#x3D;8791"
+                        open
+                      >
+                        <summary class="article-expander__title">受教的爱</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://www.zreading.cn/archives/8791.html">
+                          <div class="article-summary-box-inner media-object">
+                            <span class="media-object__text">
+                              <span>文/赵紫生 初秋的一天下午，风和日丽，阳光明媚。阿明在花店里专心致志地挑花，准备送给心爱的女朋友。不知何时，一 […]</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;1
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="http://www.zreading.cn/?p&#x3D;8789"
+                        open
+                      >
+                        <summary class="article-expander__title">当人们在说很难的时候到底是在说什么？</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://www.zreading.cn/archives/8789.html">
+                          <div class="article-summary-box-inner media-object">
+                            <span class="media-object__text">
+                              <span>文/秋水 有些人似乎是中华民族第五十七个民族的：畏难族。 你说这个事情可以这样做，他说，你不知道这事有多难。  […]</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;1
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
+        </ul>
+      </section>
+      <section class="daily-content js-toggle-accordions-scope">
+        <h2 class="daily-heading">
+          <button
+            class="daily-heading-toggle"
+            data-action="toggle-accordions"
+            title="Click to toggle the day, Ctrl + click to toggle all."
+          >
             <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2022-10-14 datetime="2022-10-14T16:22:57.000Z">2022-10-14</time>
             <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2022-10-14 datetime="2022-10-14T16:22:57.000Z"></time>
           </button>
@@ -440,7 +610,7 @@ V2N车辆与云端服务器通讯。比如导航路径规划或者高精度地�
 来源：知乎 www.zhihu.com
 辣笔小星
 点击下载
-18 个回答，查看全部。
+20 个回答，查看全部。
 你家的车用上“车联网”了吗？跟你期待的车联网还差多远？
 你家的车用上“车联网”了吗？你期待的“车联网”是什么样的？</span>
                                 &ensp;<span class="article-reading-time">(&hairsp;4
@@ -892,7 +1062,7 @@ QuestMobile数据显示，截至2021年12月末，京东金融活跃用户人数
                         <summary class="article-expander__title">iPhone 14 Pro Max两周体验，除了灵动岛，还有哪些惊喜？</summary>
                         <a class="article-summary-link article-summary-box-outer" href="http://zhuanlan.zhihu.com/p/572846308?utm_campaign&#x3D;rss&amp;utm_medium&#x3D;rss&amp;utm_source&#x3D;rss&amp;utm_content&#x3D;title">
                           <div class="article-summary-box-inner media-object">
-                              <img src="https://pic2.zhimg.com/v2-18028835fc670bacf4e9fa984e7a081b_720w.jpg?source&#x3D;172ae18b" loading="lazy" class="media-object__media article-image" />
+                              <img src="https://pica.zhimg.com/v2-18028835fc670bacf4e9fa984e7a081b_720w.jpg?source&#x3D;172ae18b" loading="lazy" class="media-object__media article-image" />
                             <span class="media-object__text">
                               <span>“你这是iPhone 14？”在老家玩iPhone 14 Pro Max时，旁边的侄女看着我手上的手机问了我。她是一位上六年级的小学生，虽然不太清楚我手上的iPhone具体是哪个型号，但是却依旧一眼就看出我手中的是最新款的iPhone手机，可能这也是部分人入手iPhone 14 Pro系列的原因之一。
 
@@ -940,7 +1110,7 @@ QuestMobile数据显示，截至2021年12月末，京东金融活跃用户人数
 
 西山无眠
 点击下载
-721 个回答，查看全部。
+722 个回答，查看全部。
 你写过哪些奇诡的脑洞故事？
 你能想到哪些奇奇怪怪的脑洞故事？</span>
                                 &ensp;<span class="article-reading-time">(&hairsp;3
@@ -1718,61 +1888,6 @@ QuestMobile数据显示，截至2021年12月末，京东金融活跃用户人数
                         </a>
                       </details>
                     </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://www.williamlong.info/archives/6952.html"
-                        open
-                      >
-                        <summary class="article-expander__title">苹果电脑MacBook使用谷歌浏览器翻译的方法</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://www.williamlong.info/archives/6952.html">
-                          <div class="article-summary-box-inner media-object">
-                            <span class="media-object__text">
-                              <span>自从上次写了《解决Chrome浏览器翻译无法使用》，有不少苹果MacBook电脑的用户加我微信，咨询我怎么在MacBook上正常使用谷歌翻译的方法，下面就详细说明一下。
-
-
-谷歌翻译终于退出中国，访问原本谷歌翻译的本地化域名，会提示收藏新的网址，新网址为谷歌翻译香港的地址。不过，该新网址无法从国内访问。这一变化也影响了中国用户曾经可以使用的Chrome内置翻译功能。
-
-
-由于谷歌翻译退出中国，目前，谷歌浏览器的翻译功能也无法使用，继续使用谷歌浏览器内置的翻译的方法是，通过修改Hosts文件的方法，将谷歌翻译API的域名解析到能正常访问的IP地址。
-
-
-Hosts是一个没有扩展名的系统文件，可以用记事本等工具打开，其作用就是将一些常用的网址域名与其对应的IP地址建立一个关联“数据库”，当用户在浏览器中输入一个需要登录的网址时，系统会首先自动从Hosts文件中寻找对应的IP地址，一旦找到，系统会立即打开对应网页，如果没有找到，则系统会再将网址提交DNS域名解析服务器进行IP地址的解析。
-
-
-对于MacBook来说，Hosts文件位于/etc/hosts。
-
-
-在应用程序里面打开终端(terminal),输入 sudo vi /etc/hosts ，然后使用vi编辑器添加下面一行，修改保存文件。
-
-
-
-203.208.39.226 translate.googleapis.com
-
-
-
-保存完成后，可在终端下，输入 ping translate.googleapis.com 这条命令来验证是否生效。
-
-
-之后，通过浏览器访问 www.google.cn/chrome ，下载并安装谷歌Chrome浏览器，访问英文网页，点右键，选择“翻译中文（简体）”即可进行中英文翻译。
-
-
-
-
-
-需要注意的是，这种修改只能恢复Chrome浏览器的内置翻译功能，并不能恢复Web版谷歌翻译（ translate.google.com ）的访问​。
-
-
-附录：vi的使用说明
-
-
-进入vi后，默认是“命令行模式（command mode）”，在“命令行模式（command mode）”下按一下字母“i”就可以进入“插入模式（Insert mode）”，这时候你就可以开始输入文字了。 按一下“ESC”键可返回“命令行模式（command mode）”。在“命令行模式（command mode）”下，按一下“：”冒号键进入“Last line mode”，输入“wq”，存盘并退出vi，输入q!， 不存盘强制退出vi。</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
                 </section>
               </section>
             </li>
@@ -1937,7 +2052,7 @@ Sharpless完全可以在自己60岁获奖后退休安享晚年，但因为获奖
                         <summary class="article-expander__title">你错了，爱因斯坦先生！【诺贝尔物理学奖预测——贝尔不等式】</summary>
                         <a class="article-summary-link article-summary-box-outer" href="http://zhuanlan.zhihu.com/p/570522549?utm_campaign&#x3D;rss&amp;utm_medium&#x3D;rss&amp;utm_source&#x3D;rss&amp;utm_content&#x3D;title">
                           <div class="article-summary-box-inner media-object">
-                              <img src="https://pic1.zhimg.com/v2-819b8e725e81b59a7c35250f93fd700d_720w.jpg?source&#x3D;172ae18b" loading="lazy" class="media-object__media article-image" />
+                              <img src="https://pica.zhimg.com/v2-819b8e725e81b59a7c35250f93fd700d_720w.jpg?source&#x3D;172ae18b" loading="lazy" class="media-object__media article-image" />
                             <span class="media-object__text">
                               <span>还有几个小时，诺贝尔物理学奖就要公布了。在此我来做一个小小的预言。我认为今年的诺贝尔奖会颁发给Aspect、Clauser和Zeikinger，因为他们对于贝尔不等式验证的贡献——他们的工作真的很重要。他们的工作向爱因斯坦宣告——对不起爱因斯坦先生，在量子力学方面，您真的错了！
 爱因斯坦虽然提出了“光量子”的概念，打响了量子力学革命的发令枪；但是他并不支持玻尔所创立的哥本哈根学派关于量子力学的诠释，所以他一直在寻找哥本哈根学派理论的漏洞。在哥本哈根学派的量子力学诠释中，有一个叫做不确定性关系的奇怪的东西。根据不确定关系，一个微观粒子的位置和动量无法同时准确确定。如果该粒子的动量确定得准确，则位置完全无法确定；而如果位置能准确确定，则动量完全无法确定。这一次，爱因斯坦对不确定性关系进行了攻击。
@@ -2365,63 +2480,11 @@ Ruixue Jia
             data-action="toggle-accordions"
             title="Click to toggle the day, Ctrl + click to toggle all."
           >
-            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2022-09-27 datetime="2022-09-27T11:16:22.000Z">2022-09-27</time>
-            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2022-09-27 datetime="2022-09-27T11:16:22.000Z"></time>
+            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2022-09-27 datetime="2022-09-27T09:57:54.000Z">2022-09-27</time>
+            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2022-09-27 datetime="2022-09-27T09:57:54.000Z"></time>
           </button>
         </h2>
         <ul class="sources card">
-            <li class="card__section">
-              <section class="js-toggle-accordions-scope">
-                <h3 class="source-heading">
-                  <button
-                    class="source-heading__name"
-                    data-action="toggle-accordions"
-                    title="Click to toggle the source, Ctrl + click to toggle all."
-                  >左岸读书</button>
-                  <a class="source-heading__link" href="https://www.zreading.cn">Open</a>
-                </h3>
-                <section class="articles-per-source">
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="http://www.zreading.cn/?p&#x3D;8771"
-                        open
-                      >
-                        <summary class="article-expander__title">完美是完成的敌人</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://www.zreading.cn/archives/8771.html">
-                          <div class="article-summary-box-inner media-object">
-                            <span class="media-object__text">
-                              <span>文/阿正 前几天一位投资者说过一句话，让我受益匪浅，特来分享给大家。 他说，“完成比完美重要”。 　完成投资  […]</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;1
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="http://www.zreading.cn/?p&#x3D;8769"
-                        open
-                      >
-                        <summary class="article-expander__title">破除妄心：离苦之道，在于求真。</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://www.zreading.cn/archives/8769.html">
-                          <div class="article-summary-box-inner media-object">
-                            <span class="media-object__text">
-                              <span>文/风墟 众生所以不得真道者，为有妄心；既有妄心，即惊其神；既惊其神，即著万物；既著万物，即生贪求；既生贪求， […]</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;1
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                </section>
-              </section>
-            </li>
             <li class="card__section">
               <section class="js-toggle-accordions-scope">
                 <h3 class="source-heading">
@@ -2731,44 +2794,11 @@ Will.liu
             data-action="toggle-accordions"
             title="Click to toggle the day, Ctrl + click to toggle all."
           >
-            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2022-09-22 datetime="2022-09-22T11:38:56.000Z">2022-09-22</time>
-            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2022-09-22 datetime="2022-09-22T11:38:56.000Z"></time>
+            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2022-09-22 datetime="2022-09-22T06:15:55.000Z">2022-09-22</time>
+            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2022-09-22 datetime="2022-09-22T06:15:55.000Z"></time>
           </button>
         </h2>
         <ul class="sources card">
-            <li class="card__section">
-              <section class="js-toggle-accordions-scope">
-                <h3 class="source-heading">
-                  <button
-                    class="source-heading__name"
-                    data-action="toggle-accordions"
-                    title="Click to toggle the source, Ctrl + click to toggle all."
-                  >左岸读书</button>
-                  <a class="source-heading__link" href="https://www.zreading.cn">Open</a>
-                </h3>
-                <section class="articles-per-source">
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="http://www.zreading.cn/?p&#x3D;8767"
-                        open
-                      >
-                        <summary class="article-expander__title">人的一生，都是有命数</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://www.zreading.cn/archives/8767.html">
-                          <div class="article-summary-box-inner media-object">
-                            <span class="media-object__text">
-                              <span>推荐马未都先生的这篇演讲，讲到命数，大多数人会以为命数天定，其实不然，命数由你怎么看自己，看他人，看这个世界， […]</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;1
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                </section>
-              </section>
-            </li>
             <li class="card__section">
               <section class="js-toggle-accordions-scope">
                 <h3 class="source-heading">
@@ -2856,7 +2886,7 @@ Will.liu
                         <summary class="article-expander__title">【机器学习】逻辑回归（非常详细）</summary>
                         <a class="article-summary-link article-summary-box-outer" href="http://zhuanlan.zhihu.com/p/74874291?utm_campaign&#x3D;rss&amp;utm_medium&#x3D;rss&amp;utm_source&#x3D;rss&amp;utm_content&#x3D;title">
                           <div class="article-summary-box-inner media-object">
-                              <img src="https://pic3.zhimg.com/v2-35393b75f51c81bb3c09774e76a7d91c_720w.jpg?source&#x3D;172ae18b" loading="lazy" class="media-object__media article-image" />
+                              <img src="https://pic2.zhimg.com/v2-35393b75f51c81bb3c09774e76a7d91c_720w.jpg?source&#x3D;172ae18b" loading="lazy" class="media-object__media article-image" />
                             <span class="media-object__text">
                               <span>逻辑回归是一个非常经典的算法，其中也包含了非常多的细节，曾看到一句话：如果面试官问你熟悉哪个机器学习模型，可以说 SVM，但千万别说 LR，因为细节真的太多了。
 秉持着精益求精的工匠精神不断对笔记进行修改和改进，本着开源精神帮助大家一起学习。欢迎大家在阅读的过程中提出修改建议，我会非常感激。如果文章有帮助的话，希望能点个赞。
@@ -3335,145 +3365,10 @@ L5级别就是终极自动驾驶模式了，这个模式下已经取消了原本
             </li>
         </ul>
       </section>
-      <section class="daily-content js-toggle-accordions-scope">
-        <h2 class="daily-heading">
-          <button
-            class="daily-heading-toggle"
-            data-action="toggle-accordions"
-            title="Click to toggle the day, Ctrl + click to toggle all."
-          >
-            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2022-09-17 datetime="2022-09-17T04:25:58.000Z">2022-09-17</time>
-            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2022-09-17 datetime="2022-09-17T04:25:58.000Z"></time>
-          </button>
-        </h2>
-        <ul class="sources card">
-            <li class="card__section">
-              <section class="js-toggle-accordions-scope">
-                <h3 class="source-heading">
-                  <button
-                    class="source-heading__name"
-                    data-action="toggle-accordions"
-                    title="Click to toggle the source, Ctrl + click to toggle all."
-                  >知乎每日精选</button>
-                  <a class="source-heading__link" href="http://www.zhihu.com">Open</a>
-                </h3>
-                <section class="articles-per-source">
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="http://www.zhihu.com/question/547658854/answer/2638992010"
-                        open
-                      >
-                        <summary class="article-expander__title">如何评价 7 月新番动画《契约之吻》第八集？</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="http://www.zhihu.com/question/547658854/answer/2638992010?utm_campaign&#x3D;rss&amp;utm_medium&#x3D;rss&amp;utm_source&#x3D;rss&amp;utm_content&#x3D;title">
-                          <div class="article-summary-box-inner media-object">
-                            <span class="media-object__text">
-                              <span>久等了，这里是本周的侦探已死（笑）
-
-上图为贝隆市地图.能一眼看出的港口位置在东部/南部
-莎朗：那么我给你一点提示。纵火犯通常都在火灾现场附近。想烧光整座城市的人，不一定会出现在每个火灾现场。但是，一间一间纵火烧房子的人，本人肯定会在现场。因为对那个人来说，纵火的地点才是最重要的
-修：地点？这是什么意思？
-莎朗既然提到了地点，那么以防万一我们把现有涉及到地点的内容列出来：
-
-下面是涉及到地点的其他剧情
-三上 花村纯也，根据两人的证词，再用脸部认证系统搜索，出来的结果就是他。
-摩根 我刚才看过资料了，他主要在西区活动，是个不红的牛郎吧？这种人竟然跟恶魔联手？
-三上 恶魔附身者仍然有很多谜团。总之先朝这条线索进行调查
-
-
-三上 昨晚因恶魔灾害逮捕归案的嫌犯，嫌犯名叫托尼.罗西。是犯罪组织“奥迦斯”的一员
-木更 我记得这个组织是盘踞在市中心，意大利裔住宅区的黑手党
-补充：第一话的酒店在城市南边的小岛
-
-
-那么接下来是剧情进度
-蓝字是前期内容，红字是更新部分
-主线：
-
-就像上话我们说的，故事主线在往摩根身上引。摩根这颗熟透的果子熟了
-之前关于警察厅长官的描写只有四五行内容。随着这一话的并线，这一条线瞬间也变得丰满起来了。
-欢迎一下米海尔同学加入主角组。按手游最新放出的设定，玩家位置在星天教会这一侧。此处还有道道。
-进行调查的绫乃这条线明面上暂时跟主线稍稍拉开了一点距离。这几集几个关键剧情点绫乃都不在场。
-副市长姐姐们被米海尔摘出去了，可是与修的矛盾冲突依然还在。同理夕桐母女被修和观众摘出去了，侦探的怀疑还在。
-此处木更加私货的行为，如果不是私货而是真的，这段戏两处洗白都能翻转。那这戏剧张力拉满，我会非常嗨（笑）
-真恶魔代理人：
-
-欧尔贡矿
-
-绫乃的探案
-
-感情线：
-修的记忆
-
-不被理解的修
-
-木更的过去
-
-想要被需要的木更
-
-猫咪吊环的钥匙扣确认将会是个伏笔。
-第二话木更开门时的钥…</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;6
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="http://www.zhihu.com/question/549035440/answer/2676256330"
-                        open
-                      >
-                        <summary class="article-expander__title">漫画家鸟山明为什么没有培养出一些好弟子传承衣钵？</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="http://www.zhihu.com/question/549035440/answer/2676256330?utm_campaign&#x3D;rss&amp;utm_medium&#x3D;rss&amp;utm_source&#x3D;rss&amp;utm_content&#x3D;title">
-                          <div class="article-summary-box-inner media-object">
-                            <span class="media-object__text">
-                              <span>考虑到日本漫画家带徒弟的方式主要是依靠助手制度这一点，那“鸟山明为什么没有特别出名的弟子”这个问题就等于“鸟山明为什么没有特别出名的助手”。
-那答案可能意外地非常简单——因为鸟山明，他不在东京。
-
-因为日本漫画的几大龙头杂志的本部都在东京，所以漫画家为了工作方便也大多会在出道后搬到东京居住。在各个漫画家的生平履历中基本都能见到“xx年上京”的记述。
-进而，有志成为漫画家的年轻人也会选择前往东京寻找在漫画家手底下锻炼的机会。题目里提到的井上雄彦就是在上京后才获得了给北条司当助手的机会[1]。
-换句话说，漫画是一个产业，而基于种种原因这个产业的资源和人才大都聚集在日本的东京都。
-但众所周知鸟山明作为一名乡巴佬漫画家，最不适应的就是大都市的生活。所以他和鸟岛和彦特别约定了留在老家创作，“除非没按时交稿”否则不去东京。
-不仅如此，自己没做过助手、直接出道的鸟山明起初甚至都不知道漫画行业还有助手制度这件事。
-根据鸟山明与井上雄彦的黄金对谈，鸟山明在得知自己要开始连载阿拉蕾的时候，第一反应不是开心，而是犯愁——“我画一话都要花这么多时间，那做连载可咋整？”
-不知道雇用助手为何物的鸟山明，在连载起初所有的作画都由自己一个人完成。后来是经鸟岛和彦的提醒，才招了“住在附近比较会画画的年轻人”当助手。
-
-实际上鸟山明在创作《阿拉蕾》和《龙珠》的期间一共只有过两任助手——田中久志（负责到《阿拉蕾》前半段）和松山孝司（负责《阿拉蕾》后半段到《龙珠》中后期）。
-
-
-两部长篇作品，前后只换过两个助手，这个数量是非常之少的（访谈中井上雄彦对此表示不可思议）。
-由此可见，鸟山明招募助手的出发点真的就只是“尽量不影响自己生活的前提下给自己帮忙”，主观上就没有栽培新人的意思。客观上，留在爱知县的年轻人恐怕本来也没什么做漫画家的野心和才能，否则肯定还是会选择上京历练（田中久治后来在集英社旗下推出过一些连载但都不太成功，松山孝司则专注于插画事业）。
-退一步讲，就算编辑部有意让鸟山明带带新人，但工作地点远在名古屋估计也不太好安排。
-在东京工作的漫画家千千万，但喜提梅泽春人和井上雄彦的也就北条司一个。
-在高手成群的东京，助手混出名堂的概率尚且如此之低，远在名古屋“能用就行”的鸟山明助手没啥名气实在是非常正常的事情。
-
-来源：知乎 www.zhihu.com
-许多的小兵器
-点击下载
-33 个回答，查看全部。
-知乎龙珠迷为何说鸟山明抄袭超次元乱战？
-想要了解山中鹿之助的生平，有哪些推荐的书籍？</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;3
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                </section>
-              </section>
-            </li>
-        </ul>
-      </section>
 
     <footer>
-      <a class="footer-link" href="https://github.com/TiG000/rss0521/actions/runs/3257721333">
-        <time id="build-timestamp" datetime="2022-10-16T00:44:21.708Z">2022-10-16T00:44:21.708Z</time>
+      <a class="footer-link" href="https://github.com/TiG000/rss0521/actions/runs/3261565704">
+        <time id="build-timestamp" datetime="2022-10-17T00:48:33.460Z">2022-10-17T00:48:33.460Z</time>
       </a>
       <a class="footer-link" href="https://github.com/osmoscraft/osmosfeed">osmosfeed 1.15.1</a>
     </footer>
