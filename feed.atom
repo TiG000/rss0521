@@ -1,10 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-10-22T00:45:24.390Z</id>
+    <id>urn:2022-10-23T00:44:02.250Z</id>
     <title>osmos::feed</title>
-    <updated>2022-10-22T00:45:24.390Z</updated>
+    <updated>2022-10-23T00:44:02.250Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[如何辨认身边的聪明人]]></title>
+        <id>http://www.zreading.cn/?p=8801</id>
+        <link href="https://www.zreading.cn/archives/8801.html"/>
+        <updated>2022-10-22T12:06:31.000Z</updated>
+        <summary type="html"><![CDATA[文/谢熊猫君 我来谈一下个人分辨周围聪明人的一些主要标准。 首先要明确的是一些基本原则。 首先，具有特定领域的 […]]]></summary>
+        <author>
+            <name>左岸</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[每个人的生活该是属于自己的感受，不是属于别人的看法！]]></title>
+        <id>http://www.zreading.cn/?p=8799</id>
+        <link href="https://www.zreading.cn/archives/8799.html"/>
+        <updated>2022-10-22T12:04:46.000Z</updated>
+        <summary type="html"><![CDATA[文/念晓暖 余华在创造小说《活着》的时候，刚开始用的是第三人称的手法来叙述故事。后来，他改变了思路，用第一人称 […]]]></summary>
+        <author>
+            <name>左岸</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[懂我的妈妈]]></title>
+        <id>http://www.zreading.cn/?p=8797</id>
+        <link href="https://www.zreading.cn/archives/8797.html"/>
+        <updated>2022-10-22T12:02:14.000Z</updated>
+        <summary type="html"><![CDATA[文/林鹏 我的妈妈，娇小的身躯，微胖，中等个头。一头乌黑的头发下，藏着一张圆圆的脸蛋，白白的皮肤让人好想上手捏 […]]]></summary>
+        <author>
+            <name>左岸</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[马斯克称将裁掉推特75%的员工]]></title>
         <id>https://www.williamlong.info/archives/6967.html</id>
@@ -121,7 +151,7 @@
 来源：知乎 www.zhihu.com
 姚仙
 点击下载
-28 个回答，查看全部。
+37 个回答，查看全部。
 如何评价游戏《大富翁 4》？
 如何评价游戏《大富翁10》？]]></summary>
         <author>
@@ -1002,7 +1032,7 @@ QuestMobile数据显示，截至2021年12月末，京东金融活跃用户人数
 
 西山无眠
 点击下载
-750 个回答，查看全部。
+748 个回答，查看全部。
 你写过哪些奇诡的脑洞故事？
 你能想到哪些奇奇怪怪的脑洞故事？]]></summary>
         <author>
@@ -1331,36 +1361,6 @@ Phosphates
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[让我们开始冥想之旅吧]]></title>
-        <id>http://www.zreading.cn/?p=8779</id>
-        <link href="https://www.zreading.cn/archives/8779.html"/>
-        <updated>2022-10-01T01:27:32.000Z</updated>
-        <summary type="html"><![CDATA[接上篇：《今天，你精神内耗了吗？》 文/德鲁伊 有个有意思的事情是，“止思”是先于“精神内耗”之前，就流行起来 […]]]></summary>
-        <author>
-            <name>左岸</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[生活也要会自娱自乐]]></title>
-        <id>http://www.zreading.cn/?p=8777</id>
-        <link href="https://www.zreading.cn/archives/8777.html"/>
-        <updated>2022-10-01T01:25:44.000Z</updated>
-        <summary type="html"><![CDATA[文/若水 144个小时，读完了《牧神记》。相当于六天不眠不休，但是实际上这个时间，分布了差不多两个多月，等于一 […]]]></summary>
-        <author>
-            <name>左岸</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[7年前，写下“世界那么大，我想去看看”的女教师，后来，她看到世界了吗？]]></title>
-        <id>http://www.zreading.cn/?p=8775</id>
-        <link href="https://www.zreading.cn/archives/8775.html"/>
-        <updated>2022-10-01T01:22:31.000Z</updated>
-        <summary type="html"><![CDATA[文/念晓暖 有人说，每个人的一生都有不下100次的辞职念头： 离家太远，交通不方便；孩子太小，无法照顾家庭；食 […]]]></summary>
-        <author>
-            <name>左岸</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[如何看待国内经济学研究中reduced form的应用微观实证研究泛滥？]]></title>
         <id>http://www.zhihu.com/question/264825623/answer/2687447623</id>
         <link href="http://www.zhihu.com/question/264825623/answer/2687447623?utm_campaign=rss&amp;utm_medium=rss&amp;utm_source=rss&amp;utm_content=title"/>
@@ -1617,31 +1617,6 @@ Will.liu
         <summary type="html"><![CDATA[最近看了一本书《安乐死现场》和一部电影《深海长眠》。前者是日本记者宫下洋一所著，他在安乐死合法及不合法的国家分别采访了很多患者、家属和医生，并亲自见证了部分安乐死的现场。是非常好的一手资料，可以...]]></summary>
         <author>
             <name>SKYue</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如果让你设计十年后的家，你觉得会长成什么样子？]]></title>
-        <id>http://www.zhihu.com/question/555159612/answer/2686421336</id>
-        <link href="http://www.zhihu.com/question/555159612/answer/2686421336?utm_campaign=rss&amp;utm_medium=rss&amp;utm_source=rss&amp;utm_content=title"/>
-        <updated>2022-09-23T07:50:44.000Z</updated>
-        <summary type="html"><![CDATA[有时候设计师和艺术家一样，有灵感乍现的机会，也有痛苦万分的时刻，更少不了疯狂的时候。当马奈疯狂地使用各种鲜明的，高饱和的色调，抛弃传统绘画的立体感，成就印象派新的传奇；当马蒂斯打破画面的传统审美，建立全新的秩序，用儿童般的技巧去构思深沉的题材，让野兽派成为那个著名的又奇奇怪怪的风格。
-
-家具设计师也渴望着疯狂和变化，同样存在着许许多多有意思的设计流派，也创造了很多匪夷所思的家具设计，这些作品有的至今无法被理解，有的设计却神奇得走入了千家万户。
-如果你有印象，十年前的理发店，伴随着洗剪吹和一些网络歌曲，你可能就是坐在这样的沙发里在等着叫号。它成了中国某个时间，某种文化的代表性符号，代表了那一代人的叛逆，打破自我，拥抱全新世界的渴望。
-
-
-尽管这不是原版的设计，也不是原版的造型工艺，但是它的设计宗旨却十分明显，就是反对传统家具设计中所倡导的功能，比例，造型优美，等等所有早已被世俗制定好的设计规则。
-这就是曾经风靡世界的设计新潮流——反设计主义。
-“极致的感官享受，完全的快乐至上”是反设计主义的名言，这是因为在二战结束，美苏冷战时期，敏锐的艺术家，设计师再一次对人类的理性感到不适，对无论是现代主义，还是包豪斯都产生了疲乏，更加热爱生活，崇尚感受。
-
-
-
-设计师把一个一人高的仙人掌以家具的形式搬进家的时候，就意味着，家具设计的历史打开了一个新的格局——创造愉悦。设计师Guido Drocco和Franco Mello一起在1972年创造了它，在这个设计你之前，不管以前的洛可可有多么繁复优美，也不管明式家具的结构有多精巧严谨，不管包豪斯的设计多么简约，都是有标准的风格流派来作为设计的指导。
-而这个设计告诉了全世界，也告诉了广大的设计师，你可能并不需要专业的设计知识和理论，只要你感受到了这棵仙人掌给你带来的新奇感和愉悦感，你就明白了一种全新的设计能力！
-
-这样的设计流派在后来其实影响了…]]></summary>
-        <author>
-            <name>王昊诚</name>
         </author>
     </entry>
 </feed>
