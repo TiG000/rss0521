@@ -1,10 +1,150 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-11-07T00:30:52.843Z</id>
+    <id>urn:2022-11-08T00:32:13.098Z</id>
     <title>osmos::feed</title>
-    <updated>2022-11-07T00:30:52.843Z</updated>
+    <updated>2022-11-08T00:32:13.098Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[语不惊人死不休（312）星光落在睫毛上，满心都是温暖的充盈。]]></title>
+        <id>http://www.zreading.cn/?p=8824</id>
+        <link href="https://www.zreading.cn/archives/8824.html"/>
+        <updated>2022-11-07T11:32:51.000Z</updated>
+        <summary type="html"><![CDATA[生活： 1. 燕子在空中飞过，旋即消失不见，她没有留下痕迹，但不意味着改变不会发生.... 2. 岁月蹉跎，逝 […]]]></summary>
+        <author>
+            <name>左岸</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[耐心才是时间真正的朋友]]></title>
+        <id>http://www.zreading.cn/?p=8822</id>
+        <link href="https://www.zreading.cn/archives/8822.html"/>
+        <updated>2022-11-07T11:29:14.000Z</updated>
+        <summary type="html"><![CDATA[文/雨令 01 有一次和读者聊天，我问他人生的愿景和目标是什么。 他说自己想当知识网红，像薛兆丰那样的。 在这 […]]]></summary>
+        <author>
+            <name>左岸</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[关于友情的9门学问]]></title>
+        <id>http://www.zreading.cn/?p=8820</id>
+        <link href="https://www.zreading.cn/archives/8820.html"/>
+        <updated>2022-11-07T11:27:06.000Z</updated>
+        <summary type="html"><![CDATA[这是友情的9门学问：不要开朋友介意的玩笑，快乐和哀伤都要分享，认真考虑朋友对你恋情的评价，在朋友需要的时候无条 […]]]></summary>
+        <author>
+            <name>左岸</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[十分钟之内，如何通过细节来判断一家咖啡馆是好是坏？]]></title>
+        <id>http://www.zhihu.com/question/31130090/answer/2741095384</id>
+        <link href="http://www.zhihu.com/question/31130090/answer/2741095384?utm_campaign=rss&amp;utm_medium=rss&amp;utm_source=rss&amp;utm_content=title"/>
+        <updated>2022-11-07T08:12:36.000Z</updated>
+        <summary type="html"><![CDATA[身边的精品咖啡店越开越多，水平却参差不齐，随随便便一杯都要卖到 2、30 块，加上交通等成本，不好喝的话实在很糟心。
+「 如何迅速判断一家咖啡店是否靠谱，尽可能降低试错成本呢？」
+最近接触到一个咖啡的项目，带着这个问题，跟几位从业人士闲聊，其中包括每年打卡不下100家咖啡店的美食编辑，新锐咖啡品牌的主理人，结合个人实践整理成了这份「咖啡馆不踩雷指南」，祝我们都能少花一点冤枉钱。
+
+看菜单
+
+打开大众点评，挑选咖啡店时一般就先看菜单，豆子选的都是什么产区，什么处理法：
+⭕ 菜单除了美式、拿铁这些传统品类之外，还有 SOE（单一产区）的美式
+⭕ 豆子的处理认准传统的水洗、日晒、蜜处理，不太容易遇到香精豆
+⭕ 产区比较常见就是哥伦比亚、埃塞俄比亚、肯尼亚，产量大且稳定
+⭕ 如果有些比较少见产区，比如玻利维亚、萨尔瓦多，值得关注一下
+
+
+2. 买家秀出品图
+重点看它的奶咖的出品图，多看几个买家秀，看看是不是稳定。比如奶泡看起来显得特别厚、硬、起泡，就说明咖啡师基本功可能是不行的，如果每次奶泡都打得很好，起码基本功过关了。
+主要是看跟口味直接相关的融合度，不是看拉花哦，拉花好不好看，跟咖啡好不好喝真的没关系！
+就像看底妆一样看，平整细腻有光泽的就是好的，像这样 （手机实拍无磨皮和滤镜）
+
+就跟在咖啡上作画一样，纹路越清晰融合度也越好，咖啡和牛奶相拥相抱，喝起来才会更顺口香醇。​
+类似这种的就不OK：
+
+
+
+
+
+是不是突然感觉，有点看明白了？！
+
+3. 磨豆机的数量
+一家店至少要配备2台以上磨豆机，这个细节很容易被忽略。
+
+如果菜单上出了美式、拿铁这些传统品类之外，还有 SOE（单一产区）的美式这类产品的话，一般都需要2台以上的磨豆机，一台是用来做日常的美式咖啡，另一台做SOE。
+因为不同的咖啡豆、不同的烘焙度，需要的研磨度是不一样的，切换不同的豆子去出品咖啡，一般都需要重新调整一下研磨度（一般需要10-20分钟来调整到立项状态），这个对于一个出品杯数比较多的咖啡店来说是不太现实的，所以至少需要两台。
+
+
+4. 奶咖是一家咖啡馆的试金石
+
+主要是不容易踩雷……万一很难喝就当喝牛奶了
+拿铁是好喝的试金石，如果觉得对方有点东西，可以点澳白和Dirty考验一下，澳白主要看奶泡是不是打厚了（应该要比拿铁薄很多），跟咖啡融合得怎么样。
+
+Dirty 这个虽然看似不用打奶泡，其实蛮考验咖啡师理解的，dirty是冷牛奶打底，然后加上一层浓缩萃取咖啡液，外观上首先要看咖啡液和牛奶是否有明显分层。
+口感上主要看平衡度，第一口的咖啡喝起来怎么样，咖啡和牛奶的比例是否平衡。它的第一口咖啡味会非常浓，相当于在喝浓缩了，萃取得好或者不好非常明显，能喝出咖啡师萃取功底。
+如果你觉得焦苦的话，就是萃得不好。如果第一口喝的全是奶味，那也不好，说明咖啡师没控制好比例。
+
+
+5. 其他
+如果是WBC、CBC、WBrC、CBrC获奖选手（冠亚季军），可以关注下。
+咖啡师傅的交流意愿，他的理念和你是否投缘，这种比较玄学，看个人在意程度吧。
+现在大多数咖啡店的硬件都已经上去了，明治、唯品、必如大多都是标配了，极少数会用娟姗、水牛奶啥的，但牛奶好并不等于好喝，最终还是看咖啡师的理解和操作。
+ 在跟专业人士请教的时候，虽然大家分享的角度都有所不同，但有一点是共识：这些经验和规律，能够帮你找到那些60分以上靠谱的咖啡馆，至于是否真正符合你的喜好达到「好喝」的程度，最终还是要交给舌头哟。
+
+来源：知乎 www.zhihu.com
+小堵车
+点击下载
+89 个回答，查看全部。
+如何区分一个咖啡馆是不是精品咖啡馆？
+一家咖啡馆你最看重什么？]]></summary>
+        <author>
+            <name>小堵车</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[雪球基金评审团第二期成团！固收基金评测征文颁奖]]></title>
+        <id>https://xueqiu.com/8152922548/234725878</id>
+        <link href="https://xueqiu.com/8152922548/234725878"/>
+        <updated>2022-11-07T07:43:58.000Z</updated>
+        <summary type="html"><![CDATA[亲爱的球友们，#老司基硬核测评#12只固收基金 征文活动完美收官了。感谢大家的积极参与！经过评选，本次获奖测评帖已经产生！与此同时第二期雪球基金评审团成团！恭喜以下球友：
+一等奖2名（打赏现金2000元）：
+我眼中的优秀固收基金长什么样？ ...]]></summary>
+        <author>
+            <name>今日话题 的雪球全部动态</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[养老压力日渐增加，你为养老感到焦虑吗？应对养老都做了哪些准备？]]></title>
+        <id>https://xueqiu.com/8152922548/234718517</id>
+        <link href="https://xueqiu.com/8152922548/234718517"/>
+        <updated>2022-11-07T06:42:53.000Z</updated>
+        <summary type="html"><![CDATA[#个人养老金新政落地# 近日，国家卫生健康委员会发布了《2021年度国家老龄事业发展公报》。报告显示，截至2021年末，全国60周岁及以上老年人口26736万人，占总人口的18.9%；全国65周岁及以上老年人口20056万人，占总人口的14.2%，人口老...]]></summary>
+        <author>
+            <name>今日话题 的雪球全部动态</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A股自主可控行情火热！可以通过哪些基金布局？]]></title>
+        <id>https://xueqiu.com/8152922548/234715136</id>
+        <link href="https://xueqiu.com/8152922548/234715136"/>
+        <updated>2022-11-07T06:15:35.000Z</updated>
+        <summary type="html"><![CDATA[2022年为多事之秋，除了面临美国的进一步科技打压之外，国际上也发生了一系列的事件，都标志着在涉及国家安全的各个领域，不管是主动的还是被动的、不管是自然的还是人为的，未来都需要向自主可控方向进一步迈进以进行紧急替代，保障国家利益、社会运行、人民生活最大程度的不受影响。
+“十四...]]></summary>
+        <author>
+            <name>今日话题 的雪球全部动态</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【雪球基金调研团】开团啦丨未来该布局哪些板块？快来向逆向价值先锋莫海波提问吧！]]></title>
+        <id>https://xueqiu.com/8152922548/234711782</id>
+        <link href="https://xueqiu.com/8152922548/234711782"/>
+        <updated>2022-11-07T05:48:53.000Z</updated>
+        <summary type="html"><![CDATA[#雪球基金调研团#
+》》》点击报名雪球基金调研团，与逆向价值先锋莫海波云交流《《《
+为了让球友更深入地了解自己喜爱的基金经理，雪球成立了基金调研团！你想与喜欢的基金经理直接对话吗？你想文章被百万雪球用户阅读，成为社区内有影...]]></summary>
+        <author>
+            <name>今日话题 的雪球全部动态</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[推特正式启动“蓝V认证”付费制]]></title>
         <id>https://www.williamlong.info/archives/6983.html</id>
@@ -483,7 +623,7 @@ Two Barrels指的是老式双筒猎枪，也就是片中两把价值连城的古
 来源：知乎 www.zhihu.com
 windchaos
 点击下载
-38 个回答，查看全部。
+43 个回答，查看全部。
 异次元都有哪些好玩免费的游戏？
 国产文字冒险游戏《恋爱绮谭》将于 10 月 28 日登陆 Steam，你对该游戏有哪些期待？]]></summary>
         <author>
@@ -1014,6 +1154,17 @@ UI暗示
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[雪球基金评审团招募！12只固收基金邀你来测评]]></title>
+        <id>https://xueqiu.com/8152922548/234185539</id>
+        <link href="https://xueqiu.com/8152922548/234185539"/>
+        <updated>2022-11-01T02:13:32.000Z</updated>
+        <summary type="html"><![CDATA[#老司基硬核测评#重磅升级，参与形式不变但奖金金额更多了、权益更多了！
+每期的老司基测评征文获奖者将会纳入「雪球基金评审团」，经由雪球的投资者教育计划扶持，参与雪球精选基金的评审打分。你一票，我一票，雪球精选基金要出道！雪球精选是雪球平台即将重磅打造的优选基金名单，旨在通过...]]></summary>
+        <author>
+            <name>今日话题 的雪球全部动态</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[传中信计划组建财团或收购腾讯股票]]></title>
         <id>https://www.williamlong.info/archives/6977.html</id>
         <link href="https://www.williamlong.info/archives/6977.html"/>
@@ -1527,31 +1678,6 @@ kakerukun
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[南下资金持续流入，中概互联网ETF成交额超12亿，如何与主流资金一同“抄底”？]]></title>
-        <id>https://xueqiu.com/8152922548/233527897</id>
-        <link href="https://xueqiu.com/8152922548/233527897"/>
-        <updated>2022-10-25T06:00:46.000Z</updated>
-        <summary type="html"><![CDATA[今日开盘，港股持续震荡。截止发稿，$中概互联网ETF(SZ159607)$成交额超12亿元。以机构投资者为主的南下资金持续增持以互联网为代表的港股科技板块，今年以来南下资金以累计净流入港股市场超2400亿人民币，10月还未结束，单月就以净流入超270亿人民币。
-政策边际改善，产业持续创新发展
-由...]]></summary>
-        <author>
-            <name>今日话题 的雪球全部动态</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[辣条配方里，最重要的是什么？看《进阶吧！投资者》第五话，带你解开食品行业投资逻辑！ #雪球推出首部投资剧情类漫画#进阶吧投资者:&nbsp;【前情提要】#雪球推...]]></title>
-        <id>https://xueqiu.com/8152922548/233525737</id>
-        <link href="https://xueqiu.com/8152922548/233525737"/>
-        <updated>2022-10-25T05:42:19.000Z</updated>
-        <summary type="html"><![CDATA[辣条配方里，最重要的是什么？看《进阶吧！投资者》第五话，带你解开食品行业投资逻辑！ #雪球推出首部投资剧情类漫画#
-进阶吧投资者: 【前情提要】#雪球推出首部投资剧情类漫画# 
-“永远不要投资你不了解的领域”。为了调研嘉心源，甄真和陈丙伸来到辣条发源地——湖南平江，似乎约见了一位重要人士……
-下周二11月1日10点，继续关注《进阶吧！投资者》，一起揭开嘉心源的秘密……]]></summary>
-        <author>
-            <name>今日话题 的雪球全部动态</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[当未来自动驾驶成为常态，汽车会出现哪些「意想不到」的功能、设计？]]></title>
         <id>http://www.zhihu.com/question/50384514/answer/2721415432</id>
         <link href="http://www.zhihu.com/question/50384514/answer/2721415432?utm_campaign=rss&amp;utm_medium=rss&amp;utm_source=rss&amp;utm_content=title"/>
@@ -1573,69 +1699,6 @@ kakerukun
 其次，固态/半固态电池将会取代现在的能源方式，密度将会得到…]]></summary>
         <author>
             <name>Will.liu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[指增ETF新基密集申报，哪些指增基金值得关注？]]></title>
-        <id>https://xueqiu.com/8152922548/233409533</id>
-        <link href="https://xueqiu.com/8152922548/233409533"/>
-        <updated>2022-10-24T06:30:15.000Z</updated>
-        <summary type="html"><![CDATA[10月21日，证监会官网显示，易方达、广发、汇添富等13家头部公募基金公司旗下的增强策略ETF申请注册材料均已被接收，覆盖多类宽基指数。在业内人士看来，此次增强策略ETF产品扩容，为投资者提供了更加丰富的投资工具选择，将有助于促进指数投资多元化与差异化发展，并为资本市场带来增量资金。]]></summary>
-        <author>
-            <name>今日话题 的雪球全部动态</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[明天上午10点，《进阶吧！投资者》第五话更新啦！关注@进阶吧投资者，一起加入甄真和陈丙伸的调研之旅~进阶吧投资者:&nbsp;为了调研嘉心源，甄真和陈丙伸来到了...]]></title>
-        <id>https://xueqiu.com/8152922548/233387364</id>
-        <link href="https://xueqiu.com/8152922548/233387364"/>
-        <updated>2022-10-24T03:42:43.000Z</updated>
-        <summary type="html"><![CDATA[明天上午10点，《进阶吧！投资者》第五话更新啦！关注@进阶吧投资者，一起加入甄真和陈丙伸的调研之旅~
-进阶吧投资者: 为了调研嘉心源，甄真和陈丙伸来到了辣条发源地湖南平江，似乎约见了一位重要人士？接下来将会发生什么故事呢？
-明天上午10点，关注@进阶吧投资者 ，准时追更《进阶吧！投资者》第五话~
-#雪球推出首部投资剧情类漫画#]]></summary>
-        <author>
-            <name>今日话题 的雪球全部动态</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[全市场首只中药ETF联接发售，政策红利持续释放，如何借基上车？]]></title>
-        <id>https://xueqiu.com/8152922548/233362466</id>
-        <link href="https://xueqiu.com/8152922548/233362466"/>
-        <updated>2022-10-24T01:39:54.000Z</updated>
-        <summary type="html"><![CDATA[10月份以来截至10月18日，中药板块持续走强，其整体累计涨12.06%。近期，中药行业政策红利持续释放，为板块上涨提供支撑。长期来看，中药在需求和涨价的双重利好因素驱动下，投资价值凸显。今日，市场上同类规模最大的$中药ETF(SZ159647)$将增加新份额——鹏华中证中药ETF联接 A类（016891）和 C类...]]></summary>
-        <author>
-            <name>今日话题 的雪球全部动态</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何辨认身边的聪明人]]></title>
-        <id>http://www.zreading.cn/?p=8801</id>
-        <link href="https://www.zreading.cn/archives/8801.html"/>
-        <updated>2022-10-22T12:06:31.000Z</updated>
-        <summary type="html"><![CDATA[文/谢熊猫君 我来谈一下个人分辨周围聪明人的一些主要标准。 首先要明确的是一些基本原则。 首先，具有特定领域的 […]]]></summary>
-        <author>
-            <name>左岸</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[每个人的生活该是属于自己的感受，不是属于别人的看法！]]></title>
-        <id>http://www.zreading.cn/?p=8799</id>
-        <link href="https://www.zreading.cn/archives/8799.html"/>
-        <updated>2022-10-22T12:04:46.000Z</updated>
-        <summary type="html"><![CDATA[文/念晓暖 余华在创造小说《活着》的时候，刚开始用的是第三人称的手法来叙述故事。后来，他改变了思路，用第一人称 […]]]></summary>
-        <author>
-            <name>左岸</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[懂我的妈妈]]></title>
-        <id>http://www.zreading.cn/?p=8797</id>
-        <link href="https://www.zreading.cn/archives/8797.html"/>
-        <updated>2022-10-22T12:02:14.000Z</updated>
-        <summary type="html"><![CDATA[文/林鹏 我的妈妈，娇小的身躯，微胖，中等个头。一头乌黑的头发下，藏着一张圆圆的脸蛋，白白的皮肤让人好想上手捏 […]]]></summary>
-        <author>
-            <name>左岸</name>
         </author>
     </entry>
     <entry>
@@ -2161,7 +2224,7 @@ Will.liu
 
 西山无眠
 点击下载
-789 个回答，查看全部。
+797 个回答，查看全部。
 你写过哪些奇诡的脑洞故事？
 你能想到哪些奇奇怪怪的脑洞故事？]]></summary>
         <author>
