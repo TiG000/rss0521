@@ -1,10 +1,64 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-05T00:33:29.267Z</id>
+    <id>urn:2023-03-06T00:30:37.358Z</id>
     <title>osmos::feed</title>
-    <updated>2023-03-05T00:33:29.267Z</updated>
+    <updated>2023-03-06T00:30:37.358Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[拾月周刊（第12期）]]></title>
+        <id>https://www.skyue.com/23030608.html</id>
+        <link href="https://www.skyue.com/23030608.html"/>
+        <updated>2023-03-06T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[这是拾月周刊第12期，包括5篇文章，1个视频和若干工具资源。文章一、消费者花多少钱才能拥有一部在所有终端播放的《狂飙》？ – 虹线爱奇艺们为何会失败？长视频平台收费模式探讨 - 雪球两个都是关于...]]></summary>
+        <author>
+            <name>SKYue</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[谈谈ChatGPT版Bing搜索的体验]]></title>
+        <id>https://www.skyue.com/23030515.html</id>
+        <link href="https://www.skyue.com/23030515.html"/>
+        <updated>2023-03-05T07:26:00.000Z</updated>
+        <summary type="html"><![CDATA[新版Bing发布将近一个月，我在2月13日拿到内测资格，算是比较早的一批用户。作为默认搜索引擎，我已经使用了一段时间，现在来谈谈我的使用体验。有些鸡肋的章节摘要首先还是聊聊搜索体验，Bing在章...]]></summary>
+        <author>
+            <name>SKYue</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[防止网站被黑帽SEO利用]]></title>
+        <id>https://www.williamlong.info/archives/7100.html</id>
+        <link href="https://www.williamlong.info/archives/7100.html"/>
+        <updated>2023-03-03T15:28:29.000Z</updated>
+        <summary type="html"><![CDATA[目前，很多黑帽SEO利用站内搜索功能进行网站推广，并大规模污染了谷歌等常见搜索引擎，这里介绍一下网站站长如何操作，来避免网站的站内搜索被黑帽SEO利用的方法。
+
+
+通常来说，黑帽SEO攻击网站站内搜索的方法是，将推广的内容和网址嵌入到站内搜索的关键字中，然后优化这个搜索路径，用来欺骗搜索引擎排名。
+
+
+实际上，很多建站工具都存在这种问题，例如WordPress和Google Blogger等等，如果不阻止黑帽SEO的滥用，很可能会给网站的搜索排名带来负面影响。
+
+
+如何防止站内搜索被利用？
+
+
+最简单的方法是直接屏蔽搜索引擎收录站内搜索页，但这并不是我们推荐的方法，因为对于Google Blogger等系统来说，标签页也使用同样的地址，因此，最好能过滤出黑帽SEO的网站进行定向屏蔽。
+
+
+如何过滤出黑帽SEO的网站呢？我经过分析发现，黑帽SEO注入的内容大部分都包含网址，只要把网址关键字过滤了，就可以过滤掉黑帽SEO注入的内容。
+
+
+可以使用cloudflare防火墙进行网址过滤，具体方法是，建立一个防火墙规则，当检测到URI路径里同时包含search和.的时候，阻止浏览访问。防火墙规则如下图所示。
+
+
+
+
+
+因为域名必定会包含.这个关键字，而正常搜索或者网站标签通常不会包含这个关键字，因此，可以用这种方法来阻止黑帽SEO往网站索引里注入垃圾信息。]]></summary>
+        <author>
+            <name>williamlong.info@gmail.com (williamlong)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[爱潜水的乌贼笔下的「诡秘」世界怎么样？有哪些奇特的元素？]]></title>
         <id>http://www.zhihu.com/question/586470151/answer/2920134949</id>
@@ -18,7 +72,7 @@
 来源：知乎 www.zhihu.com
 爱潜水的乌贼
 点击下载
-97 个回答，查看全部。
+101 个回答，查看全部。
 「诡秘」官宣新故事，关于诡秘你有哪些意难平？
 爱潜水的乌贼为了写诡秘之主都看了哪些书？]]></summary>
         <author>
@@ -53,7 +107,7 @@
 来源：知乎 www.zhihu.com
 达子
 点击下载
-12 个回答，查看全部。
+13 个回答，查看全部。
 《西游记》究竟是怎么一部小说？
 打听一本《西游记》小说?]]></summary>
         <author>
@@ -219,7 +273,7 @@ Sushil Dhital, Stefan K. Baier, Michael J. Gidley. Microstructural properties of
 
 知乎用户（登录查看详情）
 点击下载
-200 个回答，查看全部。
+201 个回答，查看全部。
 为什么袋装薯片比罐装薯片好吃呢？
 袋装薯片好吃还是桶装薯片好吃？]]></summary>
         <author>
@@ -362,7 +416,7 @@ Sushil Dhital, Stefan K. Baier, Michael J. Gidley. Microstructural properties of
 来源：知乎 www.zhihu.com
 十二楼主人
 点击下载
-82 个回答，查看全部。
+85 个回答，查看全部。
 你听过哪些治愈的诗词？
 有哪些诗词佳句让你感到清新治愈?]]></summary>
         <author>
@@ -407,7 +461,7 @@ Sushil Dhital, Stefan K. Baier, Michael J. Gidley. Microstructural properties of
 来源：知乎 www.zhihu.com
 卷福酱
 点击下载
-28 个回答，查看全部。
+29 个回答，查看全部。
 天天洗脸的你，该如何选择合适的洗面奶？
 你买过哪些清洁力自带补水的洗面奶好？]]></summary>
         <author>
@@ -489,7 +543,7 @@ Sushil Dhital, Stefan K. Baier, Michael J. Gidley. Microstructural properties of
 来源：知乎 www.zhihu.com
 寡人有疾
 点击下载
-2183 个回答，查看全部。
+2238 个回答，查看全部。
 你听过最悲伤的诗句吗?
 最悲伤的诗句有哪些?]]></summary>
         <author>
@@ -1473,7 +1527,7 @@ green 拿到的是完整的计算硬件模块，上图为其拆解后拍摄的 H
 来源：知乎 www.zhihu.com
 福森
 点击下载
-100 个回答，查看全部。
+102 个回答，查看全部。
 单机RPG游戏里的存档是如何保存信息的？
 rpg游戏应不应该设置自动寻路，不设置会有什么影响？]]></summary>
         <author>
@@ -1857,63 +1911,6 @@ TT…]]></summary>
 从这个角度出发，我们来看辅助瞄准的功能，其实是希望将玩家的实际TTK，尽可能向我们的期望TTK上面靠，使整体战斗…]]></summary>
         <author>
             <name>Minke</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[谷歌Chrome浏览器推出内存节省和节能模式]]></title>
-        <id>https://www.williamlong.info/archives/7088.html</id>
-        <link href="https://www.williamlong.info/archives/7088.html"/>
-        <updated>2023-02-18T23:49:47.000Z</updated>
-        <summary type="html"><![CDATA[谷歌此前宣布 Chrome 浏览器将支持内存节省和节能模式，现在这两个功能模式开始面向 Mac、Windows、Linux, 以及 Chromebook 广泛推出。谷歌 Chrome 的内存节省和节能模式默认启用，可以从 Chrome 设置 > 性能（在侧边栏）中打开 / 关闭。
-
-
-内存节省模式会自动“从不活动的标签中释放内存”，以便为电脑上的其他页面和应用程序提供更多资源。不活动的页面将在标签条中保持可见，并在导航到它时立即重新加载。
-
-
-在地址栏中，Chrome 浏览器将用速度表图标显示该标签被冻结，并支持“再次活动”。
-
-
-如果用户遇到内存节省的问题，或者不喜欢在离开设备后等待标签刷新，Chrome 允许用户手动将网页添加到始终保持这些网站活动的列表中。
-
-
-IT之家从谷歌处获知，使用内存节省模式，Chrome 浏览器使用的内存最多可以减少 30%，它可以用来保持活动的视频和游戏标签顺利运行。
-
-
-然后是 Chrome 节能模式，“Chrome 通过限制背景活动和视觉效果来节约电池电量”。这包括动画和平滑滚动，以及降低视频帧率。当激活时，用户可能会“注意到游戏和视频性能的变化”，而它由 Omnibox 右边的叶子图标表示，并能快速禁用。
-
-
-除了开 / 关，还有两个选项支持自动启用。
-
-
-
-	
-
-	
-只在电池处于 20% 或更低时开启
-
-	
-
-	
-
-	
-当电脑被拔掉电源时开启
-
-	
-
-
-
-内存节省模式和节能模式随 Chrome 110 在 Mac、Windows 和 Chromebook 上广泛推出。如果还没有上线，用户可以使用以下 flag 启用。
-
-
-chrome://flags/#battery-saver-mode-available
-
-
-chrome://flags/#high-efficiency-mode-available
-
-
-稿源：IT之家]]></summary>
-        <author>
-            <name>user@gmail.com (guest)</name>
         </author>
     </entry>
     <entry>
@@ -2483,7 +2480,7 @@ https://b23.tv/Nc8dpbw
 来源：知乎 www.zhihu.com
 人民电竞
 点击下载
-1405 个回答，查看全部。
+1406 个回答，查看全部。
 中国选手李培楠夺《星际争霸 2》2023 IEM 卡托维兹总冠军意味着什么？难度堪比哪项体育赛事夺冠？
 李培楠在《星际争霸 2》2023 IEM 总决赛夺冠属于电竞圈神话吗?]]></summary>
         <author>
