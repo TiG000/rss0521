@@ -1,15 +1,102 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-02T00:30:12.179Z</id>
+    <id>urn:2023-04-03T00:28:05.927Z</id>
     <title>osmos::feed</title>
-    <updated>2023-04-02T00:30:12.179Z</updated>
+    <updated>2023-04-03T00:28:05.928Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[拾月周刊（第16期）：时间管理]]></title>
+        <id>https://www.skyue.com/23040307.html</id>
+        <link href="https://www.skyue.com/23040307.html"/>
+        <updated>2023-04-02T23:00:00.000Z</updated>
+        <summary type="html"><![CDATA[这是拾月周刊第16期。最近因为作息不规律而研究「睡眠」，本来计划本周分享，但觉得看的内容还不太够。所以，临时改为分享「时间管理」。时间管理这个话题长期有关注，也没少折腾（如1、2、3、4），属实...]]></summary>
+        <author>
+            <name>SKYue</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[看五年想三年，认认真真干好一两年]]></title>
+        <id>http://www.zreading.cn/?p=9009</id>
+        <link href="https://www.zreading.cn/archives/9009.html"/>
+        <updated>2023-04-02T12:25:28.000Z</updated>
+        <summary type="html"><![CDATA[文/贾刚 杭州这座城市，对于我来说，并不算陌生，因为工作的原因经常到来，也曾经在西湖边上留下过自己的足迹。这次 […]]]></summary>
+        <author>
+            <name>左岸</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[由“友谊衰退”讲起]]></title>
+        <id>http://www.zreading.cn/?p=9007</id>
+        <link href="https://www.zreading.cn/archives/9007.html"/>
+        <updated>2023-04-02T12:22:59.000Z</updated>
+        <summary type="html"><![CDATA[文/德鲁伊 尝试理解世界，是值得每个现代人焦虑的事情。 社会是负责教会人如何做人的，但时移世易，有些事儿，社会 […]]]></summary>
+        <author>
+            <name>左岸</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[让一粒尘土睁开眼睛]]></title>
+        <id>http://www.zreading.cn/?p=9005</id>
+        <link href="https://www.zreading.cn/archives/9005.html"/>
+        <updated>2023-04-02T12:21:05.000Z</updated>
+        <summary type="html"><![CDATA[文/刘亮程 我小时候读过一本中医书，繁体字竖排版的，里面都是能治病救人的方子，是先父20世纪60年代初从甘肃到 […]]]></summary>
+        <author>
+            <name>左岸</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[那些被误解的历史典故]]></title>
+        <id>http://www.zreading.cn/?p=9004</id>
+        <link href="https://www.zreading.cn/archives/9004.html"/>
+        <updated>2023-04-02T12:17:34.000Z</updated>
+        <summary type="html"><![CDATA[读史时，发现一个有趣的现象：许多我们自以为耳熟能详的历史典故，如果细细研究，完全不是我们想的那么回事。 &nb […]]]></summary>
+        <author>
+            <name>左岸</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[匿名制作网站的方法]]></title>
+        <id>https://www.williamlong.info/archives/7122.html</id>
+        <link href="https://www.williamlong.info/archives/7122.html"/>
+        <updated>2023-04-01T14:00:39.000Z</updated>
+        <summary type="html"><![CDATA[如果你想要制作一个网站，但又不想暴露自己的身份和信息，那么你可能需要采用一些匿名制作网站的方法。常见的制作方法和思路是，使用免费邮箱、网站空间和域名，结合起来搭建一个网站。尽可能不要使用手机和支付系统，下面笔者就介绍一下具体的制作步骤。
+
+
+先进行身份隔离，注册一个全新的Gmail邮箱账号，增加APP的两步验证，不要绑定手机号，不要用这个邮箱注册任何国内服务，注册的服务越少越好，这样可以保证这个邮箱不会被轻易追踪或者泄露。
+
+
+用该Gmail邮箱开通一个Google Blogger，即可开通博客网站。Blogger是Google提供的免费博客平台，用户可以在上面发布想要分享的内容，也可以选择不同的模板和主题来美化网站，并且没有广告，是一个非常优秀的免费网站空间。
+
+
+做为网站来说，域名通常不可缺少，免费域名一般不太可靠，因此大多数情况还要购买域名。Cloudflare是一个提供域名和CDN服务的平台，可以使用之前注册的Gmail邮箱在Cloudflare注册和购买域名，然后将域名解析到Blogger网站上，这样你就拥有了一个独立的网址，通过这个独立网址即可访问搭建在Blogger上的网站。
+
+
+使用Gmail箱注册Paypal进行支付。Paypal是一个提供在线支付和转账服务的平台，可以用它来购买或者接收一些付款，而不需要暴露银行卡或者信用卡信息。
+
+
+不要和任何人进行任何合作，对外联系只用Gmail，一切事情自己搞定。这样可以避免被别人利用或者出卖，也可以减少被发现或者被举报的风险。
+
+
+不要在第三方客户端登录Gmail，只在Web端登录，小心木马邮件。这样可以防止邮箱被盗取或者被植入恶意软件，也可以避免被监控或者被拦截。
+
+
+如果网站遇到网络攻击，开启Cloudflare的WAF（Web应用防火墙）进行防御。WAF可以帮助站长抵御一些常见的网络攻击，如SQL注入、跨站脚本、DDoS等。
+
+
+除了上面提到的网络服务之外，不要用该邮箱注册其他网络服务。这样可以减少你在网络上留下的痕迹，也可以避免被其他服务泄露或者出售你的信息。另外，全部服务都不要添加手机号码，也不要使用手机注册、访问和使用，手机是最不安全的设备之一，能不用就不用。手机的唯一作用就是，安装和使用Google Authenticator（Google身份验证器）。
+
+
+以上就是匿名制作网站的思路和方法，供大家参考。]]></summary>
+        <author>
+            <name>williamlong.info@gmail.com (williamlong)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[这不是玩笑，升级typecho 1.2.1]]></title>
         <id>https://www.skyue.com/23040119.html</id>
         <link href="https://www.skyue.com/23040119.html"/>
-        <updated>2023-04-01T03:35:00.000Z</updated>
+        <updated>2023-04-01T11:35:00.000Z</updated>
         <summary type="html"><![CDATA[又是一年愚人节，记得去年今天，Typecho官网突然更新《这不是玩笑，我们回来了：Typecho 1.2.0》。巧了，不是！今天有网友留言提醒我typecho 1.2有bug，于是把本站type...]]></summary>
         <author>
             <name>SKYue</name>
@@ -683,7 +770,7 @@ PS：以下回答基于不氪或者微氪的基础上回答，不包括刚玩游
 来源：知乎 www.zhihu.com
 王潇-潇洒姐
 点击下载
-157 个回答，查看全部。
+158 个回答，查看全部。
 一天当中怎么提高工作效率？
 如何更好的提高工作效率？有哪些方法？]]></summary>
         <author>
@@ -986,47 +1073,6 @@ bank
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[“编程随想”博主被判刑七年]]></title>
-        <id>https://www.williamlong.info/archives/7112.html</id>
-        <link href="https://www.williamlong.info/archives/7112.html"/>
-        <updated>2023-03-22T15:40:10.000Z</updated>
-        <summary type="html"><![CDATA[据“编程随想”博主阮晓寰的妻子贝女士向媒体表示，其丈夫阮晓寰被捕一年九个月后，二月被上海市第二中级人民法院裁定煽动颠覆国家政权罪，判刑七年，剥夺政治权利两年，没收个人财产两万元。
-
-
-不过，上海第二中级法院的判决书并未提及“编程随想”博客，但检方指控阮晓寰在2009年6月至2021年5月期间，“编写百余篇造谣、诽谤的煽动性文章”，“透过境外平台发布攻击、抹黑中国现行政治体制、煽动颠覆国家政权、意图推翻社会主义制定”涉政博客，造成大量网民浏览、评论、转发、效仿等“恶劣后果”。
-
-
-据悉，阮晓寰（1977年6月10日－），福建泉州人，居于上海杨浦，曾任国都兴业信息审计系统技术（北京）有限公司CTO，在2008年北京奥运会期间任职大会信息安全系统总工程师。2009年6月，编程随想的博客开通。2021年5月9日，博客停止更新，他失去网络踪迹，5月11日，被刑事拘留，后于6月17日被正式逮捕。2023年2月10日，阮晓寰被判定为煽动颠覆国家政权罪，刑期七年，剥夺政治权利两年，没收个人财产两万元，其妻子贝女士表示准备上诉二审。
-
-
-据贝女士向媒体透露，她以前一直不知道丈夫的真实网络身份，贝女士在接到判决书后，学会使用VPN，在外网上不断搜索，才发现之前失踪的“编程随想”博客和她丈夫的信息完全吻合。
-
-
-以下为判决书原文：
-
-
-
-上海市第二中级人民法院刑事判决书
-
-
-(2021)沪02刑初67号
-
-
-公诉机关上海市人民检察院第二分院。
-
-
-被告人阮晓寰，男，1977年6月10日出生于福建省泉州市，汉族，大学肆业，无业，住本市杨浦区民京路558号。因本案于2021年5月11日被刑事拘留，同年6月17日被逮捕。现羁押于上海市杨浦区看守所。
-
-
-辩护人陆培煜，上海睿法律师事务所律师。
-
-
-上海市人民检察院第二分院以沪检二分二部刑诉[2021]Z18号起…]]></summary>
-        <author>
-            <name>user@gmail.com (guest)</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[首批主板注册制IPO询价启动，再无23倍PE天花板！你还会积极参加新股申购吗？]]></title>
         <id>https://xueqiu.com/8152922548/245185037</id>
         <link href="https://xueqiu.com/8152922548/245185037"/>
@@ -1121,7 +1167,7 @@ bank
 来源：知乎 www.zhihu.com
 夏释
 点击下载
-25 个回答，查看全部。
+26 个回答，查看全部。
 对于一个创业者需要一些创业的书籍来作为理论知识吗？
 创业需要读哪些方面的书？]]></summary>
         <author>
@@ -1359,16 +1405,6 @@ bank
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[人生的哲理：认清自己的价值]]></title>
-        <id>http://www.zreading.cn/?p=8988</id>
-        <link href="https://www.zreading.cn/archives/8988.html"/>
-        <updated>2023-03-16T11:21:43.000Z</updated>
-        <summary type="html"><![CDATA[文/大伟 几年前，我去拜访一位长辈。 这位长辈是我父亲生前的朋友，父亲去世后，他间接帮过我们一些忙。我这次去， […]]]></summary>
-        <author>
-            <name>左岸</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[八方旅人2职业技能与职业搭配是怎样的？]]></title>
         <id>http://www.zhihu.com/question/587103450/answer/2917953546</id>
         <link href="http://www.zhihu.com/question/587103450/answer/2917953546?utm_campaign=rss&amp;utm_medium=rss&amp;utm_source=rss&amp;utm_content=title"/>
@@ -1556,7 +1592,7 @@ GPT4的技术报告里很明确地指出了三个新的方向：
 来源：知乎 www.zhihu.com
 王潇-潇洒姐
 点击下载
-1766 个回答，查看全部。
+1767 个回答，查看全部。
 什么样的读书方法才能快速榨干一本书的 所有知识，避免低效阅读呢？
 用怎样的方式读书才能获得最大效果？]]></summary>
         <author>
@@ -1685,36 +1721,6 @@ GPT4的技术报告里很明确地指出了三个新的方向：
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[失去的本质是要让我们慢慢地学会接受]]></title>
-        <id>http://www.zreading.cn/?p=8985</id>
-        <link href="https://www.zreading.cn/archives/8985.html"/>
-        <updated>2023-03-11T12:50:55.000Z</updated>
-        <summary type="html"><![CDATA[文/廖超国 人生有很多悖论，比如得到和失去。很多时候，我们往往喜欢得到而害怕失去，总是过于在意得到，而不太愿意 […]]]></summary>
-        <author>
-            <name>左岸</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[若得时光温柔以待]]></title>
-        <id>http://www.zreading.cn/?p=8983</id>
-        <link href="https://www.zreading.cn/archives/8983.html"/>
-        <updated>2023-03-11T12:49:15.000Z</updated>
-        <summary type="html"><![CDATA[文/奶茶不太甜 这几天，小区楼下的花发了芽，有几个枝丫上还鼓出了 。阳光透过窗，洒在身上时，蓦然想起一句话，心 […]]]></summary>
-        <author>
-            <name>左岸</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[糟糕的人生，如何破局重生？]]></title>
-        <id>http://www.zreading.cn/?p=8981</id>
-        <link href="https://www.zreading.cn/archives/8981.html"/>
-        <updated>2023-03-11T12:47:04.000Z</updated>
-        <summary type="html"><![CDATA[文/咸泡饭 你曾奋力追寻梦想，努力实现目标，付出时间、精力和金钱，但最后放弃了。你付出了成本，却没有变现，没有 […]]]></summary>
-        <author>
-            <name>左岸</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[读书时如何做读书笔记？]]></title>
         <id>http://www.zhihu.com/question/20700854/answer/2930378991</id>
         <link href="http://www.zhihu.com/question/20700854/answer/2930378991?utm_campaign=rss&amp;utm_medium=rss&amp;utm_source=rss&amp;utm_content=title"/>
@@ -1763,7 +1769,7 @@ GPT4的技术报告里很明确地指出了三个新的方向：
 来源：知乎 www.zhihu.com
 王潇-潇洒姐
 点击下载
-1070 个回答，查看全部。
+1071 个回答，查看全部。
 读书时怎么做读书笔记？
 读书时该如何做读书笔记？]]></summary>
         <author>
@@ -2060,61 +2066,6 @@ GPT4的技术报告里很明确地指出了三个新的方向：
         <summary type="html"><![CDATA[新版Bing发布将近一个月，我在2月13日拿到内测资格，算是比较早的一批用户。作为默认搜索引擎，我已经使用了一段时间，现在来谈谈我的使用体验。有些鸡肋的章节摘要首先还是聊聊搜索体验，Bing在章...]]></summary>
         <author>
             <name>SKYue</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[爱潜水的乌贼笔下的「诡秘」世界怎么样？有哪些奇特的元素？]]></title>
-        <id>http://www.zhihu.com/question/586470151/answer/2920134949</id>
-        <link href="http://www.zhihu.com/question/586470151/answer/2920134949?utm_campaign=rss&amp;utm_medium=rss&amp;utm_source=rss&amp;utm_content=title"/>
-        <updated>2023-03-03T13:24:36.000Z</updated>
-        <summary type="html"><![CDATA[人在因蒂斯，刚出传送门，周围熟人太多，先匿了。
-我觉得网文作为当代通俗小说，评价其好坏，首先要把可读性、故事性放在第一位，其次才是个人的表达、人文关怀等东西，在诡秘里，我觉得在讲故事上，还是有不少出彩之处的，比如第一部的明暗两重结构，比如，比如，脸皮薄，就不多讲了。
-在诡秘的创作里，其实有借鉴这些年3A游戏大作的一个倾向，那就是真实性，比如荒野大镖客，在尽力地做细节，把一个幻想的世界做的足够真实，让玩游戏的人能够因此沉浸进去，获得更好的体验，所以，我也希望诡秘世界，它的落脚点是扎实的，它的细节是详尽的，让读者在阅读的过程中能够很轻松地去想象这个世界是什么样子，那里的人物又是以什么样的状态生活，然后代入进去，沉浸进去。
-这是一种尝试，也还有别的想法想试试，希望未来能做得更多，尽量做好。
-
-来源：知乎 www.zhihu.com
-爱潜水的乌贼
-点击下载
-103 个回答，查看全部。
-「诡秘」官宣新故事，关于诡秘你有哪些意难平？
-爱潜水的乌贼为了写诡秘之主都看了哪些书？]]></summary>
-        <author>
-            <name>爱潜水的乌贼</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[《西游记》是部什么样的小说?]]></title>
-        <id>http://www.zhihu.com/question/584941331/answer/2920119555</id>
-        <link href="http://www.zhihu.com/question/584941331/answer/2920119555?utm_campaign=rss&amp;utm_medium=rss&amp;utm_source=rss&amp;utm_content=title"/>
-        <updated>2023-03-03T13:02:00.000Z</updated>
-        <summary type="html"><![CDATA[《西游记》是一个小世界，带你见天地、见众生、见自己。
-有两三年的时间，我每天翻来覆去地读《西游记》，写了几百篇解析《西游记》的文章发到了网上。评论区最常见的就是“吴承恩当时都没想这么多”！
-对此，我只想说：说得对！吴承恩当初写《西游记》确实没想这么多，他可能只是想讲一个故事而已。
-
-大家知道，《西游记》的故事不是吴承恩原创，而是取材于民间传说，早在他之前，杨景贤等人就已经完整地整理了《西游记》的故事。
-吴承恩想把这个故事讲得更精彩一些，于是他又写了一版，并且在这本书里加入了他所有的思想、想象、阅历和知识、见闻！
-通俗地说，吴承恩借助《西游记》的故事做框架，用自己的思想、见闻、知识等等做材料，构建了一个幻想中的世界。
-他可能从来没有想过要借助《西游记》表达什么，隐喻什么，讽刺什么，但是当你走进《西游记》世界的时候，你会读到吴承恩的阅历和思考，这些阅历和思考本身就会引发你的思考，启迪你的思维。
-
-吴承恩为了构建一个更加宏伟、更加生动和立体的西游世界，倾尽了全部的思想和阅历，它们就在那里，你进去了，遇到了哪个，引发了哪些思考，那是你的事情。
-所以有的人把《西游记》当作是修仙的指引，有的人把《西游记》当成是处事的哲学，现在还有好多人把《西游记》当成自己在职场奋斗的借鉴和指南，仁者见仁智者见智。
-恐怖就恐怖在，吴承恩的想象太瑰丽、思想太深刻、阅历太丰富，所以他构建的西游世界包罗万象，一千个人读《西游记》会有一千种不同的感悟；一个人读《西游记》一千遍也会有一千种不同的领悟，这也许就是这本名著的魅力所在。
-用现在的观点看，《西游记》里面其实是有许多逻辑漏洞的，比如说它的战斗体系，可以说是崩得一塌糊涂：孙悟空大闹天宫的时候，战力爆表，十万天兵天将都打不过他；在取经的时候，一个奎木狼就能跟孙悟空斗个旗鼓相当——要知道，作为二十八星宿之一的奎木狼，也只是当初捉拿孙悟空的十万天兵天将中的一员。
-
-但是吴承恩构建的这个世界太丰富、太立体了，让人本能地就觉得，这个幻想的世界是不该有漏洞的，于是乎无数人开始脑补，为什么孙悟空大闹天宫的时候战力爆表，到了取经时就谁都打不过了呢？大家给出了各种各样的答案。
-其实吴承恩这样写的原因可能非常简单：故事需要。如果孙悟空大闹天宫时连一个天将都打不过，那这段故事怎么写？
-如果孙悟空到了取经时还是战力爆表，来一个妖怪灭一个，来两个灭一双，直接平推到了西天，那后面的故事还有什么看头？
-只能说，《西游记》的故事本身就包罗万象，吴承恩又是一个渊博如海的人，两者相遇，产生了奇妙的化学反应。
-我们能从中见天地，那是因为《西游记》中本身就有哲学思维、天地至理；我们能从中见众生，是因为《西游记》中描写了人生百态以及各种各样活灵活现的人物；我们能从中见自己，是因为我们生活中所遇到的人物、事情，总能从中找到一些参照，获得一些启迪。
-
-来源：知乎 www.zhihu.com
-达子
-点击下载
-17 个回答，查看全部。
-《西游记》究竟是怎么一部小说？
-打听一本《西游记》小说?]]></summary>
-        <author>
-            <name>达子</name>
         </author>
     </entry>
 </feed>
