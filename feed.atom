@@ -1,10 +1,193 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-26T00:28:17.130Z</id>
+    <id>urn:2023-05-27T00:29:11.118Z</id>
     <title>osmos::feed</title>
-    <updated>2023-05-26T00:28:17.130Z</updated>
+    <updated>2023-05-27T00:29:11.118Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[与神对话：没有什么必须要做的事]]></title>
+        <id>https://www.skyue.com/23052622.html</id>
+        <link href="https://www.skyue.com/23052622.html"/>
+        <updated>2023-05-26T14:24:00.000Z</updated>
+        <summary type="html"><![CDATA[不久前读了《与神对话》第一册，主要谈个人困惑、生命意义，是一碗高端的心灵鸡汤。全书以「对话体」写成，而且谈话对象是「神」，所以读起来难免有些说教，你还不好反驳，毕竟那是神的口吻嘛。但事实上，这里...]]></summary>
+        <author>
+            <name>SKYue</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[忙着羡慕，却忘了自己的生活]]></title>
+        <id>http://www.zreading.cn/?p=9075</id>
+        <link href="https://www.zreading.cn/archives/9075.html"/>
+        <updated>2023-05-26T13:16:20.000Z</updated>
+        <summary type="html"><![CDATA[文/Yisa 我们都很忙 总是忙着看别人年纪轻轻就开着法拉利满大街的跑，然后忙着找个理由搪塞自己，他肯定是个富 […]]]></summary>
+        <author>
+            <name>左岸</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[怎样哄自己开心？]]></title>
+        <id>http://www.zreading.cn/?p=9072</id>
+        <link href="https://www.zreading.cn/archives/9072.html"/>
+        <updated>2023-05-26T13:09:30.000Z</updated>
+        <summary type="html"><![CDATA[文/李泽厚 有人说，要把开心当作一种习惯。 多吃些自己想吃的饭菜，多做些自己想做的闲事，人这一生，总要有松有紧 […]]]></summary>
+        <author>
+            <name>左岸</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[世界的尽头是沟通]]></title>
+        <id>http://www.zreading.cn/?p=9070</id>
+        <link href="https://www.zreading.cn/archives/9070.html"/>
+        <updated>2023-05-26T13:06:18.000Z</updated>
+        <summary type="html"><![CDATA[文/德鲁伊 世界的尽头是玄学，你总要为你的现状找充分的理由去解释吧。先理性不好使，再感性还是不好使，那只好，埋 […]]]></summary>
+        <author>
+            <name>左岸</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如何评价密室逃脱游戏《长安乱》？]]></title>
+        <id>http://www.zhihu.com/question/563950552/answer/3045961312</id>
+        <link href="http://www.zhihu.com/question/563950552/answer/3045961312?utm_campaign=rss&amp;utm_medium=rss&amp;utm_source=rss&amp;utm_content=title"/>
+        <updated>2023-05-26T11:23:08.000Z</updated>
+        <summary type="html"><![CDATA[感谢 @知乎游戏 的邀请，能让更多人了解喜爱我们的行业。我是西安W超级密室剧场的创始人高玮，同时也是《长安乱》的原创作者。宣传片先行奉上
+
+“君不见黄河之水天上来，奔流到海不复还君不见高堂明境悲白发，朝如青丝暮成雪”
+2020年夏，我在《长安乱》的梨树下,中二地摇晃着肥躯念着这首诗，用自己在中戏学生时代学到的技巧，想象自己是这城内的李太真，想像着黄河之水，带着波涛不息的故事，直奔东流。
+
+作为第五届EGA实景游戏年度评选中荣获“全国最佳场景、最佳剧情、最佳主题（演绎类）”等七个奖项的实景游戏作品,《长安乱》是我无比骄傲的作品。如同妈妈口中“邻居家的孩子”，我小心地带着入行的初心，团队的野心，创作落地的决心。将陈桥驿站的往事，剖出来给每个人听。
+
+《长安乱》以“长恨歌”为蓝本，却聚焦在了安史之乱发生前的一段架空的历史。深厚的文化底蕴给了《长安乱》大量艺术创造的空间，我们用时空穿越的手段，不需百转千回的皇城旧事，不要沧海桑田的厚重史书，只一夜，也只讲一事。
+
+疯颠地酒鬼李太真一袭白衣持笔仗剑，到底知晓多少旧梦；
+龙武大将军曹怀恩甲胄在身，他背负了几多家仇与国恨；
+位高权重的丘仙鸣身着穿花大红箭袖，却像是藏着本不该宦官所有的柔情；
+霓裳羽衣下的贵妃，是一人独自梳妆，还是两人镜中互诉凄凉；
+力大无穷的彗果和尚，扔掉木鱼拿起紫电宝剑却是为何；
+还有“苏慕遮”的酒馆老板娘，擂鼓开战的龙武卫士，满嘴天地玄宗的天罡法师。
+这些小人物的儿女情长，大角色的家仇国恨，从你踏进《长安乱》的伊始，亦或在我持笔的一瞬，这幅画卷已徐徐展开……
+
+人物要想鲜活，那么景呢？对！去见仙风道骨的天罡法师，走着去怎行？坐船！要云雾缭绕的水面搬到室内，要豁然开朗的高楼拔地而起；
+穿越怎么能走门草草了事，必须摆阵作法花活儿玩够，曲径通幽的山洞也得像那么回事；
+主题色调得跟着故事走，花萼相辉楼的富丽堂皇，相衬的是水墨一体的肃杀驿站和军营；
+什么？地灯、顶灯，氛围灯是不够，来整几个舞台灯试试；
+音乐怎么说，古筝、二胡定基调，故事节奏和曲风也要适时匹配那还要说。
+
+
+
+
+
+
+
+
+
+想到这些我笔走龙蛇，恨不得贪楚地把创作的激情一股脑全倒出来。
+但我知道不现实，因为我又翻到了长安乱当时的机关列表，其中单纯为效果辅助的机关就列出了80余条，这里面的每一条都凝聚着设计师机关师和现场施工人员的巨额工作量。为了理顺机关配合剧情的前后逻辑，一张思维导图我至今看到都头皮发麻。
+宏大的场景少了机关如同火锅不配蘸料：一场穿越作法，一定是法阵得炫，有风有雨，电闪雷鸣，龙吐珠，卦门开；
+武库宝藏的开启要鬼斧神工，要配合重型机械还要便于操作；
+军营闹鬼传言源出何处，灵异现象还要借用场景该有的道具来做延伸。
+
+你们不知道，那个夏天的工地，充满着冥思苦想和拍案叫绝。
+回看良久，也是从《长安乱》开始，我真正认识到，做好密室剧场，做好一个产品，是将其中每一个点，钻到极致，钻到偏执，钻到大部分人已经不大理解的时候，才算摸到了进场敲门的砖，
+那是一扇发着光的门。
+
+来源：知乎 www.zhihu.com
+W超级密室 Stick
+点击下载
+3 个回答，查看全部。
+雄峰城的密室逃脱有哪些推荐？
+安镇有哪些密室逃脱？]]></summary>
+        <author>
+            <name>W超级密室 Stick</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[万物皆可二次元！华硕天选路由器全面评测（双2.5G）]]></title>
+        <id>http://zhuanlan.zhihu.com/p/632237566</id>
+        <link href="http://zhuanlan.zhihu.com/p/632237566?utm_campaign=rss&amp;utm_medium=rss&amp;utm_source=rss&amp;utm_content=title"/>
+        <updated>2023-05-26T08:04:11.000Z</updated>
+        <summary type="html"><![CDATA[华硕的天选系列是不少二次元爱好者和电竞宅们都中意的潮玩品牌。
+除了笔记本、台式机、外设等产品线之外，华硕在今年618之前终于上市了天选路由器：
+
+联发科Filogic 830平台打造，双2.5G网口，再加上相对亲民的价格，算是很甜点的一款华硕路由器。
+详细的评测，我们一起往下看。
+一、外观与关键配置
+外观速览
+天选路由器的外包装为清新的绿白配色，充满年轻与活力。
+路由器的配件中，除了华硕路由器标配的超6类网线之外，还随机附送了代言人天选姬的海报和贴纸：
+
+贴纸细节满满，质感非常不错：
+
+天选路由器采用6天线设计，机甲造型的机身线条凌厉，搭配RGB天选呼吸灯，充满电竞气息：
+
+背部接口基本与红蜘蛛一致，2个2.5G+4个千兆的有线接口组合之外也配备了USB 3.0接口，可以加个移动硬盘当简易的NAS用：
+
+对于一台路由器来说，良好的散热是保证稳定运营的关键；
+华硕天选的散热用料很厚道，从背面的进气栅格中可以看到铝制散热片覆盖面积还是非常大的：
+
+关键配置
+华硕天选路由器采用了联发科Filogic 830平台的无线解决方案：
+
+知乎@仙鱼型号
+CPUMTK798612纳米工艺，4核2Ghz主频，160Mhz频宽、双2.5G
+射频芯片MT7976AN+7976GN4804+1200Mb
+FEM前端放大未知/
+RAM512MB/
+
+联发科Filogic 830平台的CPU型号为MT7986，四核心A53架构，主频2GHz，集成了2.4G和5G无线基带，并且都支持4x4 MIMO；最大OFDMA用户数24个(2.4GHz 8个，5GHz 16个），有线方面支持2个2.5G以太网口；
+有一说一，MT7986这块CPU在中端WIFI6路由器中算是非常强了，各方面性能表现都远超高通的IPQ5018；
+与MT7986配套的射频放大芯片为MT7976AN（5GHz）和7976GN（2.4Ghz…]]></summary>
+        <author>
+            <name>仙鱼</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[显卡评测第35期｜RTX 4070：我成甜品卡了？]]></title>
+        <id>http://zhuanlan.zhihu.com/p/632365502</id>
+        <link href="http://zhuanlan.zhihu.com/p/632365502?utm_campaign=rss&amp;utm_medium=rss&amp;utm_source=rss&amp;utm_content=title"/>
+        <updated>2023-05-26T08:03:25.000Z</updated>
+        <summary type="html"><![CDATA[【显卡评测第35期】最近刚发布的新卡RTX 4060 / RTX 4060 TI差评如潮，之前发布的RTX 4070价格也累计跌了几百，相比之下似乎没有那么恶臭了，RTX 40系显卡性价比最高的显卡究竟是哪一张呢？刚好有朋友冲动消费了微星RTX 4070，一周后悔，急着出手，我就自掏腰包收来写一期评测了。
+（声明：评测自娱自乐，利益无关，仅代表个人观点，请勿冲动消费。）
+
+1 外观
+今天测试的是微星万图师RTX 4070 OC，三风扇版本。
+
+显卡的厚度2-slot，高情商说法是机箱兼容性优秀，适合紧凑型机箱。
+
+显卡采用塑料背板，背板偏厚一点，并且也有镂空设计，能够吹透鳍片，散热应该还凑合，毕竟一众丐版RTX 4070还有两风扇版本的。
+
+显卡参数：
+
+测试平台
+
+CPU：酷睿i5-13600KF
+主板：微星 Z790 EDGE
+散热：毅铠火力 EK 360水冷
+内存：英睿达 6000 MHz 16 GB*2
+硬盘：铠侠 RC 20 2TB
+显卡：微星 RTX 4070
+电源：微星 MEG 额定850W 
+机箱：追风者 P600S
+
+2 基准测试
+2.1 Time Spy基准测试
+3DMark是一款专门测试硬件三维图形性能的软件，其中3DMark Time Spy测试的是主机在1440P分辨率下的Direct X 12性能，测试得到显卡得分为17245。
+
+2.2 Time Spy Extreme基准测试
+3DMark Time Spy Extreme测试的是主机在2160P分辨率下的Direct X 12性能，测试得到显卡得分为8248。
+
+2.3 Port Loyal基准测试
+Port Royal项目用来测试显卡光线追踪性能，显卡得分为10774。
+
+基准测试对比，参考其他显卡跑分：
+
+3 压力测试
+3.1 Furmark 压力测试
+压力测试软件采用软件Furmark…]]></summary>
+        <author>
+            <name>Wallace</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[半夏封盘，还有哪些稀缺的宏观对冲策略值得投？]]></title>
         <id>https://xueqiu.com/8152922548/251350884</id>
@@ -1676,26 +1859,6 @@ Day 5 回程
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[如何照顾好自己？]]></title>
-        <id>http://www.zreading.cn/?p=9049</id>
-        <link href="https://www.zreading.cn/archives/9049.html"/>
-        <updated>2023-05-06T12:33:31.000Z</updated>
-        <summary type="html"><![CDATA[文/tophkorra 照顾自己是生活的第一课题。因为一生之中始终陪在自己身边的人始终都是自己，唯有学会照顾自 […]]]></summary>
-        <author>
-            <name>左岸</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[毁于热爱，还是持久的去爱]]></title>
-        <id>http://www.zreading.cn/?p=9047</id>
-        <link href="https://www.zreading.cn/archives/9047.html"/>
-        <updated>2023-05-06T12:29:43.000Z</updated>
-        <summary type="html"><![CDATA[文/屋角草 人生的许多美好来自热爱，许多遗憾也来自炙热。遇到心动的事和人，我们要如何行动和相处？没有唯一的答案 […]]]></summary>
-        <author>
-            <name>左岸</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[【PentaQ.LPL十年盘点】万字长文盘点英雄联盟这十年战术与策略演变]]></title>
         <id>http://zhuanlan.zhihu.com/p/626480490</id>
         <link href="http://zhuanlan.zhihu.com/p/626480490?utm_campaign=rss&amp;utm_medium=rss&amp;utm_source=rss&amp;utm_content=title"/>
@@ -1815,16 +1978,6 @@ Day 5 回程
 他不满《烈女传》把贤、孝、贞洁作为评判女子入列的标准，更喜欢多姿多彩…]]></summary>
         <author>
             <name>盐选作者小助手</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何管理来自同事同学的压力？]]></title>
-        <id>http://www.zreading.cn/?p=9045</id>
-        <link href="https://www.zreading.cn/archives/9045.html"/>
-        <updated>2023-05-01T00:41:21.000Z</updated>
-        <summary type="html"><![CDATA[文/冯唐 各位在职场要小心，什么意思？ 你在一个学校，你有同班同学，学校毕业走向社会，你会有在同一年接近一个时 […]]]></summary>
-        <author>
-            <name>左岸</name>
         </author>
     </entry>
     <entry>
