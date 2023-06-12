@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-06-11T00:33:52.469Z</id>
+    <id>urn:2023-06-12T00:33:32.232Z</id>
     <title>osmos::feed</title>
-    <updated>2023-06-11T00:33:52.469Z</updated>
+    <updated>2023-06-12T00:33:32.233Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[拾月周刊（第26期）：南村映雪]]></title>
+        <id>https://www.skyue.com/23061207.html</id>
+        <link href="https://www.skyue.com/23061207.html"/>
+        <updated>2023-06-11T23:30:00.000Z</updated>
+        <summary type="html"><![CDATA[这是拾月周刊第26期，本周刊主要基于我的微博整理，每周挑选一些碎片化阅读和思考片段进行分享，周一邮件推送，欢迎点击订阅、以及分享给朋友。题图是上海泗泾古镇的南村映雪书店，由一座旧宅改建而成，属新...]]></summary>
+        <author>
+            <name>SKYue</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[《邓小平时代》读后]]></title>
+        <id>https://www.skyue.com/23061114.html</id>
+        <link href="https://www.skyue.com/23061114.html"/>
+        <updated>2023-06-11T06:42:00.000Z</updated>
+        <summary type="html"><![CDATA[最近读了《邓小平时代》，三联版本。平时看大历史比较多，比如《全球通史》、《欧洲极简史》之类的，看大历史的过程中，对一些感兴趣的片段，会在网上查些资料稍加了解。但很少看历史的细节，尤其中国近现代史...]]></summary>
+        <author>
+            <name>SKYue</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[语不惊人死不休（319）顶级的捕食者，总是伪装成猎物的形式出现。]]></title>
         <id>http://www.zreading.cn/?p=9090</id>
@@ -1451,7 +1471,7 @@ $油气ETF(SZ159697)$  @油气ETF]]></summary>
 来源：知乎 www.zhihu.com
 知乎汽车
 点击下载
-167 个回答，查看全部。
+168 个回答，查看全部。
 没有儿童安全座椅，孩子乘车安全吗？
 汽车上的儿童安全座椅一般是多大孩子可以坐？5岁孩子还需要安全座椅吗？]]></summary>
         <author>
