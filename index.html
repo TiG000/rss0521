@@ -22,6 +22,121 @@
             data-action="toggle-accordions"
             title="Click to toggle the day, Ctrl + click to toggle all."
           >
+            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2023-07-06 datetime="2023-07-06T10:47:02.000Z">2023-07-06</time>
+            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2023-07-06 datetime="2023-07-06T10:47:02.000Z"></time>
+          </button>
+        </h2>
+        <ul class="sources card">
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >知乎每日精选</button>
+                  <a class="source-heading__link" href="http://www.zhihu.com">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="http://zhuanlan.zhihu.com/p/641894014"
+                        open
+                      >
+                        <summary class="article-expander__title">谁动了我的显存？——深度学习训练过程显存占用分析及优化</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="http://zhuanlan.zhihu.com/p/641894014?utm_campaign&#x3D;rss&amp;utm_medium&#x3D;rss&amp;utm_source&#x3D;rss&amp;utm_content&#x3D;title">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://picx.zhimg.com/v2-18d4329446e676ab099c662539902bd1_720w.jpg?source&#x3D;172ae18b" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>在大语言模型时代，不仅语言模型变得越来越大，而且几乎所有的模型都想变得越来越大，试图在模型变大之后观察到一些涌现出来的能力。
+模型变大之后，最突出的问题就是显存不够用了。本文对深度学习训练过程中的显存占用问题进行一些具体分析，加深我对训练过程的理解，能够进行一些简单的显存优化操作。如果读者们有更多的相关资料、优化技巧，欢迎在评论区补充。
+显存占用概述
+深度学习训练过程中的显存占用，大致可以分为三部分：
+
+框架占用，例如pytorch框架的cuda context会占用大约几百MB显存
+模型参数相关的占用，比如7B的模型以FP16格式要占用14GB显存。此处还包括优化器、梯度相关的参数占用，全量微调的情况下，梯度与参数一样大，优化器状态是梯度的1~2倍（SGD为1倍，Adam为2倍）。如果使用DDP进行多卡训练，则还需要乘以显卡数量；如果使用FSDP进行多卡训练，显存占用与显卡数无关，但是会增加通信开销。
+特征相关的占用，这部分显存占用是最复杂的，因为它与模型的具体计算流程有关。很多地方只会笼统地说这类占用与batchsize成正比，但是具体的比例系数很难分析。
+
+本文希望详细解析特征相关的显存占用到底是多少。
+统计方法
+我们用一个样例程序，来使用不同的方法、在不同的情况下计算这样一个简单的函数。具体程序为：
+
+import torch
+
+# Create two tensors with 1GB memory footprint each, initialized randomly, in fp16 format
+# For a tensor of float16 (2 bytes), 1GB of memory can hold 1GB / 2B &#x3D; 500M elements
+tensor_size &#x3D; 512 * 1024 * 1024 
+x &#x3D; torch.rand…</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;7
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >月光博客</button>
+                  <a class="source-heading__link" href="https://www.williamlong.info/">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://www.williamlong.info/archives/7218.html"
+                        open
+                      >
+                        <summary class="article-expander__title">Meta推出新软件Threads 意欲争夺推特用户</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://www.williamlong.info/archives/7218.html">
+                          <div class="article-summary-box-inner media-object">
+                            <span class="media-object__text">
+                              <span>Meta公司的新社交软件Threads已登陆美国苹果应用程序商店，这款社交应用预计将于7月6日正式发布，其与马斯克旗下的推特（Twitter）软件非常相似。
+
+
+据美国有线电视新闻网（CNN）7月4日报道，Meta公司创始人兼首席执行官扎克伯格，坐拥Facebook和Instagram两款社交软件，其公司预告了一款新的应用程序Threads，该软件将通过提供一个可在线实时对话的平台来与推特竞争。根据苹果应用程序商店的列表，它预计将于7月6日正式上线。根据苹果商店的描述，该应用似乎与推特有许多相似之处。
+
+
+“Threads是一个可以与他人一起讨论从你今天关心的主题到明天的趋势以及所有其他事情的社区。”上述描述写道，“无论你对什么感兴趣，你都可以关注并直接与你最喜欢的创作者和其他喜欢同样事物的人联系——或者建立自己的忠实追随者群体，与世界分享你的想法、观点和创造力。”
+
+
+Meta公司在近日发布Threads这一新软件的决定，可能受推特在7月初出现故障的影响，推特在故障结束后宣布对其用户能够阅读的推文数量进行了临时限制。马斯克说，这些限制是为了 &quot;解决极端程度的数据搜刮和系统操纵&quot;。
+
+
+马斯克7月3日在推特上评论了Threads，他说： &quot;谢天谢地，他们的运作是如此理智。“自2022年10月入主推特以来，马斯克对推特的运作方式进行了巨大的改动，他现在正在寻找让该平台恢复增长的方法。推特于7月3日宣布，用户很快需要为TweetDeck付费，这是一个可以让人们管理关注的账户的工具。
+
+
+另一边，推特也在试图蚕食Meta的领域。今年5月，推特增加了加密信息功能，并表示后续将推出通话功能，这些发展可能使该平台与同样属于Meta的Facebook Messenger和WhatsApp竞争。
+
+
+来源：澎湃新闻</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
+        </ul>
+      </section>
+      <section class="daily-content js-toggle-accordions-scope">
+        <h2 class="daily-heading">
+          <button
+            class="daily-heading-toggle"
+            data-action="toggle-accordions"
+            title="Click to toggle the day, Ctrl + click to toggle all."
+          >
             <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2023-07-04 datetime="2023-07-04T06:10:53.000Z">2023-07-04</time>
             <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2023-07-04 datetime="2023-07-04T06:10:53.000Z"></time>
           </button>
@@ -269,77 +384,6 @@
 
 
 来源：澎湃新闻</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                </section>
-              </section>
-            </li>
-            <li class="card__section">
-              <section class="js-toggle-accordions-scope">
-                <h3 class="source-heading">
-                  <button
-                    class="source-heading__name"
-                    data-action="toggle-accordions"
-                    title="Click to toggle the source, Ctrl + click to toggle all."
-                  >左岸读书</button>
-                  <a class="source-heading__link" href="https://www.zreading.cn">Open</a>
-                </h3>
-                <section class="articles-per-source">
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="http://www.zreading.cn/?p&#x3D;9116"
-                        open
-                      >
-                        <summary class="article-expander__title">看见，听见</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://www.zreading.cn/archives/9116.html">
-                          <div class="article-summary-box-inner media-object">
-                            <span class="media-object__text">
-                              <span>文/奶茶不太甜 梅雨季刚刚开始的第一天，我在凌晨一点四十五分，坐上了从上海浦东飞往西安的飞机。在这之前，我在浦 […]</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;1
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="http://www.zreading.cn/?p&#x3D;9114"
-                        open
-                      >
-                        <summary class="article-expander__title">人生如逆旅，写给当下的你</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://www.zreading.cn/archives/9114.html">
-                          <div class="article-summary-box-inner media-object">
-                            <span class="media-object__text">
-                              <span>文/赵紫生 这是我听来的两则故事，说这故事的人是中科院的博士后。 1. 那年，他在中山大学参会，大家围坐一起吃 […]</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;1
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="http://www.zreading.cn/?p&#x3D;9112"
-                        open
-                      >
-                        <summary class="article-expander__title">爱是一种能力，既要学习也要培养</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://www.zreading.cn/archives/9112.html">
-                          <div class="article-summary-box-inner media-object">
-                            <span class="media-object__text">
-                              <span>文/一品 昨天晚上有幸和老公一起到儿子高中的陈少岳礼堂，现场听了一场“积极心理，幸福教育”的家庭教育公益活动讲 […]</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;1
-                                  min&hairsp;)</span>
                             </span>
                           </div>
                         </a>
@@ -735,7 +779,7 @@
                         <summary class="article-expander__title">妙谈一下｜女生不能写恐怖文？这个靠写文买房的美少女不服！</summary>
                         <a class="article-summary-link article-summary-box-outer" href="http://zhuanlan.zhihu.com/p/639845583?utm_campaign&#x3D;rss&amp;utm_medium&#x3D;rss&amp;utm_source&#x3D;rss&amp;utm_content&#x3D;title">
                           <div class="article-summary-box-inner media-object">
-                              <img src="https://pic1.zhimg.com/v2-2d5df6fca61e36e6f2ea7fcf592b851b_720w.jpg?source&#x3D;172ae18b" loading="lazy" class="media-object__media article-image" />
+                              <img src="https://picx.zhimg.com/v2-2d5df6fca61e36e6f2ea7fcf592b851b_720w.jpg?source&#x3D;172ae18b" loading="lazy" class="media-object__media article-image" />
                             <span class="media-object__text">
                               <span>我被霸凌了，欺负我的混混们不仅扯我头发、扇我耳光，还扬言要去我家，想看看什么样的家庭能生出我这样的「臭虫」。我求他们千万不要去，因为去过我家的人没有一个活着出来的……
 
@@ -775,7 +819,7 @@ Part1  恐怖爽文脑洞大开
                         <summary class="article-expander__title">有没有追妻火葬场但破镜没重圆的故事？| 文末含福利</summary>
                         <a class="article-summary-link article-summary-box-outer" href="http://zhuanlan.zhihu.com/p/639633753?utm_campaign&#x3D;rss&amp;utm_medium&#x3D;rss&amp;utm_source&#x3D;rss&amp;utm_content&#x3D;title">
                           <div class="article-summary-box-inner media-object">
-                              <img src="https://picx.zhimg.com/v2-a54e84e3495705f67dfcd73fbb6c0118_720w.jpg?source&#x3D;172ae18b" loading="lazy" class="media-object__media article-image" />
+                              <img src="https://pic1.zhimg.com/v2-a54e84e3495705f67dfcd73fbb6c0118_720w.jpg?source&#x3D;172ae18b" loading="lazy" class="media-object__media article-image" />
                             <span class="media-object__text">
                               <span>小尘最好的朋友在深夜连刷了 3 篇知乎文后，发了一条盆友圈：
 世间男人千千万，挑选对象别摆烂。
@@ -1239,77 +1283,6 @@ $招商量化精选股票A(F001917)$ $国金量化多因子(F006195)$ $大成景
                     class="source-heading__name"
                     data-action="toggle-accordions"
                     title="Click to toggle the source, Ctrl + click to toggle all."
-                  >左岸读书</button>
-                  <a class="source-heading__link" href="https://www.zreading.cn">Open</a>
-                </h3>
-                <section class="articles-per-source">
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="http://www.zreading.cn/?p&#x3D;9110"
-                        open
-                      >
-                        <summary class="article-expander__title">自己学，向他学</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://www.zreading.cn/archives/9110.html">
-                          <div class="article-summary-box-inner media-object">
-                            <span class="media-object__text">
-                              <span>文/贾刚 近几年，大家的日子都过得好些了，基本的温饱问题解决了之后，借由传统节日来表达一下快乐的祝愿，越来越流 […]</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;1
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="http://www.zreading.cn/?p&#x3D;9108"
-                        open
-                      >
-                        <summary class="article-expander__title">什么是批判性思考？</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://www.zreading.cn/archives/9108.html">
-                          <div class="article-summary-box-inner media-object">
-                            <span class="media-object__text">
-                              <span>- 01 - 什么是批判性思考？ 1. 批判性思考 每当提到批判性思考，我们可能在不知不觉中都会觉得“批判”， […]</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;1
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="http://www.zreading.cn/?p&#x3D;9106"
-                        open
-                      >
-                        <summary class="article-expander__title">爱情，可以另外计较</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://www.zreading.cn/archives/9106.html">
-                          <div class="article-summary-box-inner media-object">
-                            <span class="media-object__text">
-                              <span>文/余秀华 泰国电影《永恒》，当初我怀着对所谓伦理的好奇看了一遍，当时的感受我忘记了。前一段时间想起来又看了一 […]</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;1
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                </section>
-              </section>
-            </li>
-            <li class="card__section">
-              <section class="js-toggle-accordions-scope">
-                <h3 class="source-heading">
-                  <button
-                    class="source-heading__name"
-                    data-action="toggle-accordions"
-                    title="Click to toggle the source, Ctrl + click to toggle all."
                   >知乎每日精选</button>
                   <a class="source-heading__link" href="http://www.zhihu.com">Open</a>
                 </h3>
@@ -1695,156 +1668,11 @@ FTC认为，这笔交易将是微软有史以来最大的一笔交易，也是�
             data-action="toggle-accordions"
             title="Click to toggle the day, Ctrl + click to toggle all."
           >
-            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2023-06-20 datetime="2023-06-20T12:40:13.000Z">2023-06-20</time>
-            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2023-06-20 datetime="2023-06-20T12:40:13.000Z"></time>
+            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2023-06-20 datetime="2023-06-20T06:17:25.000Z">2023-06-20</time>
+            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2023-06-20 datetime="2023-06-20T06:17:25.000Z"></time>
           </button>
         </h2>
         <ul class="sources card">
-            <li class="card__section">
-              <section class="js-toggle-accordions-scope">
-                <h3 class="source-heading">
-                  <button
-                    class="source-heading__name"
-                    data-action="toggle-accordions"
-                    title="Click to toggle the source, Ctrl + click to toggle all."
-                  >月光博客</button>
-                  <a class="source-heading__link" href="https://www.williamlong.info/">Open</a>
-                </h3>
-                <section class="articles-per-source">
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://www.williamlong.info/archives/7202.html"
-                        open
-                      >
-                        <summary class="article-expander__title">张勇将卸任阿里巴巴董事会主席兼CEO</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://www.williamlong.info/archives/7202.html">
-                          <div class="article-summary-box-inner media-object">
-                            <span class="media-object__text">
-                              <span>据阿里巴巴官微消息，6月20日，阿里巴巴控股集团董事会主席兼CEO张勇通过全员信宣布，阿里云智能集团完全分拆已经启动，正处于向上发展的最关键时期，必须全身心投入。同时为了适应未来发展规范和要求，其个人不宜再同时担任两家公司董事长与CEO职务。
-
-
-经阿里巴巴控股集团董事会同意，张勇将于今年9月10日卸任阿里巴巴控股集团董事会主席兼CEO职务。张勇此后将专职担任阿里云智能集团董事长兼CEO，专注阿里云的发展，持续提升阿里云的行业竞争力与全球竞争力，让阿里云为各行业尤其中小企业的数智化升级提供更优质安全便捷的基础服务。同时，经过阿里巴巴控股集团董事会批准，集团执行副主席蔡崇信将出任阿里巴巴控股集团董事会主席；吴泳铭出任阿里巴巴控股集团CEO，同时继续兼任淘天集团董事长。
-
-
-“过去24年间，我们有过很多次这样自我变革的时刻。如今，我们大家又一起站在一个新的起点上，开启一个通过自我变革、开辟未来发展的新阶段。”张勇在全员信中表示。
-
-
-
-附：阿里巴巴集团董事会主席兼CEO张勇6月20日全员信
-
-
-各位阿里人，
-
-
-自从2015年5月担任阿里巴巴集团的CEO以来，我每年总会要给大家写几封信。也许大家已经习惯了，看到我发的全员信的时候，就知道公司又有重要的变化要发生。今天我又给大家写信了，给大家带来的是一个关于我自己的重要变化。
-
-
-自今年3月宣布了集团“1+6+N”组织变革以后，目前各项工作都在平稳有序地推进。我们在上季度财报发布的时候公布了各业务集团董事会的组成，目前各个董事会都已经开始运行。我们也公布了各业务集团和业务单元的多个计划，包括将云智能集团从阿里集团完全分拆上市，以及菜鸟集团和盒马启动上市，海外数字商业集团的独立融资等等。整个阿里巴巴正以全新姿态奔向未来。
-
-
-大家都知道，云计算、大数据和人工智能等核心技术的发展将会给社会带来巨大的变革，战略意义非常重大。目前云智能集团的完全分拆工作已经开始启动，正处于最关键时刻，要求必须全身心投入其中，同时也是考虑到分拆过程中公司规范化治理的要求，我个人不宜再同时担任两家集团的董事长和首席执行官的职责。因此，阿里巴巴集团董事会讨论并接受了我的请求：自2023年9月10日起，我将不再继续担任阿里巴巴集团董事会主席和首席执行官，而专心全职做好阿里云智能集团董事长兼首席执行官的工作。同时，阿里巴巴集团董事会决定，蔡崇信（Joe C. Tsai）将接替我成为阿里巴巴集团董事会主席，吴泳铭（Eddie Yongming Wu）将接替我成为阿里巴巴集团首席执行官。他们两位都是阿里巴巴的创始人和合伙人，都在阿里巴巴集团历史发展中做出了重要贡献，都拥有丰富的经验，相信在他们的领导下，公司能够走向更辉煌的未来。
-
-
-这次的变化不仅对公司、对我个人都是另一个新阶段、新旅程的开始。时光过得真快，今年是我在阿里的第十六个年头。十六年一路同行，尤其是2015年接任集团首席执行官、2019年接任集团董事会主席以来，正是因为大家对我的信任、支持、鼓励和包容，让我在这个自己从未想象到的岗位上全情投入至今，对此我衷心地感激和感谢大家。这十六年来，因为社会进步、市场发展的时代机遇，我有幸和大家一起见证了阿里巴巴高速发展的历史阶段，参与了很多从无到有、从小到大、惠及普通人的生活、惠及企业数字化进程、惠及社会美好的创造；也和大家一起共同经受住了最近三年来新冠疫情的挑战和外部环境变化带来的种种考验。无论顺境还是逆境，我们一起不仅共同成长、共同经历、共同度过，也共同收获了很多比事业更宝贵的友谊和情义。
-
-
-过去24年间，我们有过很多次这样自我变革的时刻。如今，我们大家又一起站在一个新的起点上，开启一个通过自我变革、开辟未来发展的新阶段。我相信大家会支持好Joe和吴泳铭等新一届集团高年级同学的工作，每个人都能够找到属于自己的舞台和属于自己的事业，最终能贡献社会、成就公司，也能够成就自己。我也会和云智能的同学们一起站在一个全新的舞台上，一起去探索利用云计算、大数据、人工智能的全新技术，服务于千行百业数字化、智能化的巨大前景，对此我充满憧憬和期待。
-
-
-青山不改，绿水长流，创造一个新的江湖，再相会，任逍遥！
-
-
-张勇（逍遥子）
-
-
-阿里巴巴集团董事会主席兼首席执行官
-
-
-阿里云智能集团董事长兼首席执行官
-
-
-2023年6月20日</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                </section>
-              </section>
-            </li>
-            <li class="card__section">
-              <section class="js-toggle-accordions-scope">
-                <h3 class="source-heading">
-                  <button
-                    class="source-heading__name"
-                    data-action="toggle-accordions"
-                    title="Click to toggle the source, Ctrl + click to toggle all."
-                  >左岸读书</button>
-                  <a class="source-heading__link" href="https://www.zreading.cn">Open</a>
-                </h3>
-                <section class="articles-per-source">
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="http://www.zreading.cn/?p&#x3D;9103"
-                        open
-                      >
-                        <summary class="article-expander__title">考填志愿，兴趣的指导意义并不大</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://www.zreading.cn/archives/9103.html">
-                          <div class="article-summary-box-inner media-object">
-                            <span class="media-object__text">
-                              <span>文/丁忆坤 前言：高考成绩就要揭晓，现在的头等大事就是填志愿了。 1. 我的经验 现在填志愿，家长，稍微有点见 […]</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;1
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="http://www.zreading.cn/?p&#x3D;9101"
-                        open
-                      >
-                        <summary class="article-expander__title">真正要做的事，连神明都不要讲</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://www.zreading.cn/archives/9101.html">
-                          <div class="article-summary-box-inner media-object">
-                            <span class="media-object__text">
-                              <span>文/千木 你的心很贵，所以一定要去装最美好的东西；你的情绪很贵，一定要接近让你愉快的人；你的时间很贵，一定要留 […]</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;1
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="http://www.zreading.cn/?p&#x3D;9099"
-                        open
-                      >
-                        <summary class="article-expander__title">给未来一条生路</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://www.zreading.cn/archives/9099.html">
-                          <div class="article-summary-box-inner media-object">
-                            <span class="media-object__text">
-                              <span>文/德鲁伊 高考结束，想起去年此时，既有幻为昨日，又有恍若隔世的感觉。 儿子只是牢骚了一下为什么数学简单了，多 […]</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;1
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                </section>
-              </section>
-            </li>
             <li class="card__section">
               <section class="js-toggle-accordions-scope">
                 <h3 class="source-heading">
@@ -2159,53 +1987,6 @@ $招商量化精选股票A(F001917)$ $国金量化多因子(F006195)$ $大成�
             data-action="toggle-accordions"
             title="Click to toggle the day, Ctrl + click to toggle all."
           >
-            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2023-06-15 datetime="2023-06-15T11:46:34.000Z">2023-06-15</time>
-            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2023-06-15 datetime="2023-06-15T11:46:34.000Z"></time>
-          </button>
-        </h2>
-        <ul class="sources card">
-            <li class="card__section">
-              <section class="js-toggle-accordions-scope">
-                <h3 class="source-heading">
-                  <button
-                    class="source-heading__name"
-                    data-action="toggle-accordions"
-                    title="Click to toggle the source, Ctrl + click to toggle all."
-                  >左岸读书</button>
-                  <a class="source-heading__link" href="https://www.zreading.cn">Open</a>
-                </h3>
-                <section class="articles-per-source">
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="http://www.zreading.cn/?p&#x3D;9097"
-                        open
-                      >
-                        <summary class="article-expander__title">心有吊兰</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://www.zreading.cn/archives/9097.html">
-                          <div class="article-summary-box-inner media-object">
-                            <span class="media-object__text">
-                              <span>文/白头翁 余喜欢吊兰，阳台上培植的几钵吊兰，屈指算来已有五六年光景。 吊兰又称垂盆草、挂兰、钓兰、兰草、折鹤 […]</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;1
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                </section>
-              </section>
-            </li>
-        </ul>
-      </section>
-      <section class="daily-content js-toggle-accordions-scope">
-        <h2 class="daily-heading">
-          <button
-            class="daily-heading-toggle"
-            data-action="toggle-accordions"
-            title="Click to toggle the day, Ctrl + click to toggle all."
-          >
             <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2023-06-14 datetime="2023-06-14T10:39:59.000Z">2023-06-14</time>
             <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2023-06-14 datetime="2023-06-14T10:39:59.000Z"></time>
           </button>
@@ -2271,7 +2052,7 @@ $招商量化精选股票A(F001917)$ $国金量化多因子(F006195)$ $大成�
                         <summary class="article-expander__title">谈谈什么才是“真正”的AR眼镜，2023如何选购一款能够真正出街的AR眼镜？拒绝智商税！</summary>
                         <a class="article-summary-link article-summary-box-outer" href="http://zhuanlan.zhihu.com/p/636775891?utm_campaign&#x3D;rss&amp;utm_medium&#x3D;rss&amp;utm_source&#x3D;rss&amp;utm_content&#x3D;title">
                           <div class="article-summary-box-inner media-object">
-                              <img src="https://picx.zhimg.com/v2-1bed64dbe1c34e1b0745866c32843b02_720w.jpg?source&#x3D;172ae18b" loading="lazy" class="media-object__media article-image" />
+                              <img src="https://pica.zhimg.com/v2-1bed64dbe1c34e1b0745866c32843b02_720w.jpg?source&#x3D;172ae18b" loading="lazy" class="media-object__media article-image" />
                             <span class="media-object__text">
                               <span>前言
 作为一名VR从业者，我知道短期的未来一定是AR的，之后随着技术的不断成熟，再逐渐过渡到MR/XR。
@@ -2451,7 +2232,7 @@ $央企科技引领ETF(SH562380)$ 跟踪中证国新央企科技引领指数，�
                         <summary class="article-expander__title">「全面升级」 AMD 7840HS 迷你主机 零刻 GTR7 深度测试</summary>
                         <a class="article-summary-link article-summary-box-outer" href="http://zhuanlan.zhihu.com/p/636603672?utm_campaign&#x3D;rss&amp;utm_medium&#x3D;rss&amp;utm_source&#x3D;rss&amp;utm_content&#x3D;title">
                           <div class="article-summary-box-inner media-object">
-                              <img src="https://picx.zhimg.com/v2-554c11ceee430e40dcfb63b805c4063f_720w.jpg?source&#x3D;172ae18b" loading="lazy" class="media-object__media article-image" />
+                              <img src="https://pic1.zhimg.com/v2-554c11ceee430e40dcfb63b805c4063f_720w.jpg?source&#x3D;172ae18b" loading="lazy" class="media-object__media article-image" />
                             <span class="media-object__text">
                               <span>AMD 7040 系列 APU
 大家好，我是 KC~
@@ -2626,7 +2407,7 @@ $诺安安鑫灵活配置混合(F002291)$ $国投瑞银美丽中国混合(F0006
                         <summary class="article-expander__title">高颜值，又好玩 - Keychron Q1 Pro客制化机械键盘</summary>
                         <a class="article-summary-link article-summary-box-outer" href="http://zhuanlan.zhihu.com/p/636061020?utm_campaign&#x3D;rss&amp;utm_medium&#x3D;rss&amp;utm_source&#x3D;rss&amp;utm_content&#x3D;title">
                           <div class="article-summary-box-inner media-object">
-                              <img src="https://pica.zhimg.com/v2-65ea93fbaab37d7fb17c08f368c4e78c_720w.jpg?source&#x3D;172ae18b" loading="lazy" class="media-object__media article-image" />
+                              <img src="https://picx.zhimg.com/v2-65ea93fbaab37d7fb17c08f368c4e78c_720w.jpg?source&#x3D;172ae18b" loading="lazy" class="media-object__media article-image" />
                             <span class="media-object__text">
                               <span>Hello，大家好！我是沈少，最近我把自己的主力键盘换到了Keychron Q1 Pro。这款双模客制化Gasket结构的75%机械键盘，整体感觉不错，不过也没有完美，具体我们结合优缺点详细聊聊。
 
@@ -2740,7 +2521,7 @@ CPU：酷睿i5-13600KF
                         <summary class="article-expander__title">聊聊苹果历史上的23个One More Thing 时刻</summary>
                         <a class="article-summary-link article-summary-box-outer" href="http://zhuanlan.zhihu.com/p/635186906?utm_campaign&#x3D;rss&amp;utm_medium&#x3D;rss&amp;utm_source&#x3D;rss&amp;utm_content&#x3D;title">
                           <div class="article-summary-box-inner media-object">
-                              <img src="https://picx.zhimg.com/v2-b599f172ae85eb75dfdd4c758c6acbe4_720w.jpg?source&#x3D;172ae18b" loading="lazy" class="media-object__media article-image" />
+                              <img src="https://pic1.zhimg.com/v2-b599f172ae85eb75dfdd4c758c6acbe4_720w.jpg?source&#x3D;172ae18b" loading="lazy" class="media-object__media article-image" />
                             <span class="media-object__text">
                               <span>昨晚苹果WWDC开发者大会『One MOre Thing』时刻再次来临，新推出的Vision Pro令人非常兴奋，好久没有看到这么让人激动的产品了。
 今天就一起来聊一聊历史上的这些「One More  Thing 」|时刻。
@@ -2868,7 +2649,7 @@ Aqua界面是一个极具现代风格的界面，它采用半透明的窗口、�
                         <summary class="article-expander__title">这篇文章带你玩转AI绘画</summary>
                         <a class="article-summary-link article-summary-box-outer" href="http://zhuanlan.zhihu.com/p/560500814?utm_campaign&#x3D;rss&amp;utm_medium&#x3D;rss&amp;utm_source&#x3D;rss&amp;utm_content&#x3D;title">
                           <div class="article-summary-box-inner media-object">
-                              <img src="https://pic1.zhimg.com/v2-be9d2488563facc149def686d1581314_720w.jpg?source&#x3D;172ae18b" loading="lazy" class="media-object__media article-image" />
+                              <img src="https://picx.zhimg.com/v2-be9d2488563facc149def686d1581314_720w.jpg?source&#x3D;172ae18b" loading="lazy" class="media-object__media article-image" />
                             <span class="media-object__text">
                               <span>（本文封面使用AI（ERINE-ViLG）生成制作，使用的文字为：「帮我做一副封面放在知乎，画中有个猫咪用电脑写代码，赛博朋克风格」)
 
@@ -3010,111 +2791,10 @@ GitHub - CompVis/sta…</span>
             </li>
         </ul>
       </section>
-      <section class="daily-content js-toggle-accordions-scope">
-        <h2 class="daily-heading">
-          <button
-            class="daily-heading-toggle"
-            data-action="toggle-accordions"
-            title="Click to toggle the day, Ctrl + click to toggle all."
-          >
-            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2023-06-07 datetime="2023-06-07T11:03:36.000Z">2023-06-07</time>
-            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2023-06-07 datetime="2023-06-07T11:03:36.000Z"></time>
-          </button>
-        </h2>
-        <ul class="sources card">
-            <li class="card__section">
-              <section class="js-toggle-accordions-scope">
-                <h3 class="source-heading">
-                  <button
-                    class="source-heading__name"
-                    data-action="toggle-accordions"
-                    title="Click to toggle the source, Ctrl + click to toggle all."
-                  >知乎每日精选</button>
-                  <a class="source-heading__link" href="http://www.zhihu.com">Open</a>
-                </h3>
-                <section class="articles-per-source">
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="http://www.zhihu.com/question/604992904/answer/3063401238"
-                        open
-                      >
-                        <summary class="article-expander__title">如何看待苹果于 6 月 6 日发布的头显 APPLE Vision Pro，有哪些细节值得关注？</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="http://www.zhihu.com/question/604992904/answer/3063401238?utm_campaign&#x3D;rss&amp;utm_medium&#x3D;rss&amp;utm_source&#x3D;rss&amp;utm_content&#x3D;title">
-                          <div class="article-summary-box-inner media-object">
-                            <span class="media-object__text">
-                              <span>由于 Apple 要求，整个过程不能有任何形式的影音记录，所以我只好通过文字的方式去描述在这 40 分钟我完整的体验感受。
-坦率地说，由于它的体验已经超出了目前的内容呈现方式，我认为已经超出了客观与否，这本身就是一个关乎你主观感受的探索之旅。
-
-00
-中午 12 点，库比蒂诺突然下起了小雨。我在访客中心坐着，等工作人员接我去一街之隔的 Apple Park，体验昨天发布的 Vision Pro。
-访客中心透亮的玻璃幕墙很容易模糊内外之隔，下雨的时候，看到雨滴在不远处落下，反倒有一种不真实感。
-来到 Apple Park 门口，我被引导上了一辆很小的摆渡车。在园区内开了许久，弯弯绕绕，我看了一下 iPhone 上的时间，也不过是十几分钟而已。
-一座白色建筑出现在园区不远处的山坡上，那是 Vision Pro 的体验馆，摆渡车远远停下，工作人员核验身份后，指引我进入白色建筑。
-01
-进门区域有两个相对开放的空间，Apple 的工作人员在这里用一台 iPhone 来采集我的生物信息。
-首先类似于 Face ID 录制，这一部分应该就是发布会上演示的面部扫描。据 Apple 的工作人员介绍，在正式上市之后这一部分可由 Vision Pro 单独完成。
-
-然后是耳朵轮廓信息的录入，这一点应该是空间音频的准备。
-两个步骤的速度都很快，基本上都可以一次完成。
-完成测量后，另一位 Apple 工作人员开始询问我的视力状况。我自己本身是有一定的近视眼，但是一直都没配眼镜。把这个情况告诉工作人员之后，他表示如果我平时不需要戴眼镜，那就不需要任何的测量。
-看来是否需要定制镜片，似乎是根据你是否佩戴眼镜来决定。
-结束以上的步骤后，我就被引导到旁边的沙发坐下。这个时候我正好有机会观察了一下这个神秘的体验区域。整个区域目之所及是由多个独立小房间组成，多组同时在体验。
-等待了大约 10 分钟后，我被带进…</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;8
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="http://zhuanlan.zhihu.com/p/635265864"
-                        open
-                      >
-                        <summary class="article-expander__title">游戏本还是自己DIY装机？618热门游戏本&amp;显卡一网打尽</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="http://zhuanlan.zhihu.com/p/635265864?utm_campaign&#x3D;rss&amp;utm_medium&#x3D;rss&amp;utm_source&#x3D;rss&amp;utm_content&#x3D;title">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://pica.zhimg.com/v2-9d50152b43bf00e3ea0a307a6965ed79_720w.jpg?source&#x3D;172ae18b" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>Hello，大家好！我是沈少！又到了一年一度的618，很多小伙伴都准备升级自己的游戏装备，或是工作、学习的生产力工具。
-首先是选购游戏本/性能本的话，要考虑的细节就更多，除了显卡，还有搭配的CPU，散热系统，屏幕素质、接口的拓展性等等。
-
-而对于使用PC主机的游戏玩家和内容创作者来说，最核心的关键配件就是显卡了。
-
-不过无论是游戏本还是桌面显卡，目前市场的主流选择是NVIDIA Gefore 40系产品，特别是随着DLSS 3技术的加入，由 RTX 40 系列 GPU 所搭载的全新第四代 Tensor Core 和光流加速器提供支持，相比DLSS 2增加了帧生成技术，能够预测中的运动，在保持图像质量的同时实现更高的帧率。
-
-目前已经有超30款游戏和应用支持DLSS 3，支持DLSS的游戏和应用已超300款，其中有不少大家熟悉的大作、佳作。
-
-不过客观来说，目前市场上的选择确实多，再加上还得研究618各款产品的优惠情况确实有点无从下手的感觉。所以本文，就是小弟以过去这些年自己装机和帮亲友选购笔记本电脑的经验，结合今年618的优惠情况，给大家推荐的5款各有特色的高性能游戏本，和6款不同价位的大牌显卡。废话不多说，我们直奔主题。
-游戏本
-不过自己装机毕竟还是需要考虑配件搭配，也需要一定的动手能力。再加上台式机不方便移动，所以省心的话，还是选游戏本。毕竟即使是外星人（Alienware）全新 m18这样的“大家伙”，盖子一关，还是能轻松放进不少双肩包的。
-
-性能上，RTX 4080笔记本电脑GPU和RTX 4090笔记本电脑GPU同样也是比较强悍的，可以搞定目前主流的游戏大作需求。
-
-今年618的游戏本优惠幅度同样不错，各大品牌的几款主打产品定位也很精准，几乎在每个价位都有很好的选择。
-OMEN 暗影精灵9
-具体的选择上，目前很火的这款OMEN 暗影精灵9应该是主流玩家们的好选择。…</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;8
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                </section>
-              </section>
-            </li>
-        </ul>
-      </section>
 
     <footer>
-      <a class="footer-link" href="https://github.com/TiG000/rss0521/actions/runs/5470282447">
-        <time id="build-timestamp" datetime="2023-07-06T00:35:36.612Z">2023-07-06T00:35:36.612Z</time>
+      <a class="footer-link" href="https://github.com/TiG000/rss0521/actions/runs/5481467987">
+        <time id="build-timestamp" datetime="2023-07-07T00:34:44.479Z">2023-07-07T00:34:44.479Z</time>
       </a>
       <a class="footer-link" href="https://github.com/osmoscraft/osmosfeed">osmosfeed 1.15.1</a>
     </footer>
