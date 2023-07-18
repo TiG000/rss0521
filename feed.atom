@@ -1,10 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-07-17T00:36:26.437Z</id>
+    <id>urn:2023-07-18T00:53:54.310Z</id>
     <title>osmos::feed</title>
-    <updated>2023-07-17T00:36:26.438Z</updated>
+    <updated>2023-07-18T00:53:54.310Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Evernote怎么就不行了？]]></title>
+        <id>https://www.skyue.com/23071723.html</id>
+        <link href="https://www.skyue.com/23071723.html"/>
+        <updated>2023-07-17T15:05:00.000Z</updated>
+        <summary type="html"><![CDATA[最近看到Evernote裁员的消息，今天读到Nira博客这篇关于Evernote历史的文章，有些唏嘘。我从2012年到2020年一直在用Evernote，多次购买会员，算是见证了它的辉煌与没落。...]]></summary>
+        <author>
+            <name>SKYue</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[书堆欲倒扶难起]]></title>
+        <id>http://www.zreading.cn/?p=9137</id>
+        <link href="https://www.zreading.cn/archives/9137.html"/>
+        <updated>2023-07-17T13:09:27.000Z</updated>
+        <summary type="html"><![CDATA[文/SquMoun 他不让我靠近那堆书，更别说那个装着某周刊一千期纪念品的袋子。可是他一时放松了对我的注意，我 […]]]></summary>
+        <author>
+            <name>左岸</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[重建附近]]></title>
+        <id>http://www.zreading.cn/?p=9135</id>
+        <link href="https://www.zreading.cn/archives/9135.html"/>
+        <updated>2023-07-17T13:07:13.000Z</updated>
+        <summary type="html"><![CDATA[文/德鲁伊 人生毫无疑问是一场经历。当然，不是客观理性的经历，是你自以为的经历。或是自我一遍遍思维加工过的经历 […]]]></summary>
+        <author>
+            <name>左岸</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[无念、无说、无想]]></title>
+        <id>http://www.zreading.cn/?p=9133</id>
+        <link href="https://www.zreading.cn/archives/9133.html"/>
+        <updated>2023-07-17T13:05:00.000Z</updated>
+        <summary type="html"><![CDATA[文/关中人 “无念、无说、无想”是我获得幸福的咒语。 读别人的文章会勾起自己性海里的记忆，露头便觉得是自己的灵 […]]]></summary>
+        <author>
+            <name>左岸</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[马斯克称推特现金流仍为负值]]></title>
         <id>https://www.williamlong.info/archives/7227.html</id>
@@ -684,26 +724,6 @@ Meta公司在近日发布Threads这一新软件的决定，可能受推特在7�
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[人生如逆旅，写给当下的你]]></title>
-        <id>http://www.zreading.cn/?p=9114</id>
-        <link href="https://www.zreading.cn/archives/9114.html"/>
-        <updated>2023-07-01T10:52:41.000Z</updated>
-        <summary type="html"><![CDATA[文/赵紫生 这是我听来的两则故事，说这故事的人是中科院的博士后。 1. 那年，他在中山大学参会，大家围坐一起吃 […]]]></summary>
-        <author>
-            <name>左岸</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[爱是一种能力，既要学习也要培养]]></title>
-        <id>http://www.zreading.cn/?p=9112</id>
-        <link href="https://www.zreading.cn/archives/9112.html"/>
-        <updated>2023-07-01T10:49:32.000Z</updated>
-        <summary type="html"><![CDATA[文/一品 昨天晚上有幸和老公一起到儿子高中的陈少岳礼堂，现场听了一场“积极心理，幸福教育”的家庭教育公益活动讲 […]]]></summary>
-        <author>
-            <name>左岸</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[基金半年度业绩揭晓！AI基金大幅霸榜，谁是你心中的MVP？]]></title>
         <id>https://xueqiu.com/8152922548/254537389</id>
         <link href="https://xueqiu.com/8152922548/254537389"/>
@@ -1061,16 +1081,6 @@ $招商量化精选股票A(F001917)$ $国金量化多因子(F006195)$ $大成景
         <summary type="html"><![CDATA[昨天看了《消失的她》。临时决定看的，没有任何预期，也没看过任何剧透或介绍，在这种情况下，观看体验挺好的。要说有什么瑕疵，就是只买到第二排的票，看的脖子不舒服。电影悬念和结构设计的非常不错，看的时...]]></summary>
         <author>
             <name>SKYue</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[自己学，向他学]]></title>
-        <id>http://www.zreading.cn/?p=9110</id>
-        <link href="https://www.zreading.cn/archives/9110.html"/>
-        <updated>2023-06-25T11:51:05.000Z</updated>
-        <summary type="html"><![CDATA[文/贾刚 近几年，大家的日子都过得好些了，基本的温饱问题解决了之后，借由传统节日来表达一下快乐的祝愿，越来越流 […]]]></summary>
-        <author>
-            <name>左岸</name>
         </author>
     </entry>
     <entry>
