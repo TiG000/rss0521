@@ -1,10 +1,145 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-07-20T00:31:13.114Z</id>
+    <id>urn:2023-07-21T00:30:13.540Z</id>
     <title>osmos::feed</title>
-    <updated>2023-07-20T00:31:13.114Z</updated>
+    <updated>2023-07-21T00:30:13.540Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[如何使用 Embedding 提升回答质量？]]></title>
+        <id>http://zhuanlan.zhihu.com/p/609359999</id>
+        <link href="http://zhuanlan.zhihu.com/p/609359999?utm_campaign=rss&amp;utm_medium=rss&amp;utm_source=rss&amp;utm_content=title"/>
+        <updated>2023-07-20T10:36:14.000Z</updated>
+        <summary type="html"><![CDATA[summary
+使用 embedding 计算语料和提问的相似度，在 prompt 里补充相对准确的上下文语料 (prompt design)，来获取更准确的回答
+
+
+OpenAI 提供了 Completion API 来实现问答的功能。但是它只提供了固定的 models，用户不能修改他们的 model，不过可以使用 fine-tune 来生成自己的 model。
+但是如果我们有自己的语料库，如何才能让 GPT-3 根据我们的语料来生成正确的答案呢？
+为什么不直接用 fine-tune
+为了提高问答质量， Open AI 提供了 fine-tune  可以对 prompt 和 completion 进行调优，
+虽然 fine-tune 可以稍微提升质量，让 API 更好的理解你的 prompt ，并输出更符合预期的结果，
+但是它主要是为了节省每次 completion 提供相同 prompt 的 tokens，把类似的 prompt 可以训练成: 只需要更改具体问题，而不用重复写 context、example 。
+比如我们训练
+
+{"prompt":"Company: BHFF insurance\nProduct: allround insurance\nAd:One stop shop for all your insurance needs!\nSupported:", "completion":" yes"}{"prompt":"Company: Loft conversion specialists\nProduct: -\nAd:Straight teeth in weeks!\nSupported:", "completion":" no"}
+
+后面我们只需要提供 prompt
+
+Company: Reliable accountants LtdProduc…]]></summary>
+        <author>
+            <name>人类观察所主任</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[《封神第一部》中有哪些看似不经意但很重要的细节?]]></title>
+        <id>http://www.zhihu.com/question/612331393/answer/3126990581</id>
+        <link href="http://www.zhihu.com/question/612331393/answer/3126990581?utm_campaign=rss&amp;utm_medium=rss&amp;utm_source=rss&amp;utm_content=title"/>
+        <updated>2023-07-20T05:16:14.000Z</updated>
+        <summary type="html"><![CDATA[谢邀。
+01 鬼侯剑
+殷郊误伤父王之后，姬发掩护殷郊从涵渠逃走，殷郊留下了配剑“鬼侯剑”，被崇应彪得到。军营中，崇应彪举着鬼侯剑炫耀：“殷郊的鬼侯剑，果然锋利啊！”
+为什么崇应彪对殷郊的剑有着如此的执着和贪恋？ 
+殷郊这把剑，叫做鬼侯剑。
+
+《战国策·赵策三》曰:“昔者鬼侯、鄂侯、文王，纣之三公也。”《封神演义》又道，鬼侯嫁女与纣王，其女冰清玉洁深得纣王欢喜，但不幸被妲己谗言所害，鬼侯也获罪而死。《礼记‧明堂位》有言“昔殷纣乱天下, 脯鬼侯以飨诸侯”，一代豪杰鬼侯的故事画上句号。
+
+在《封神三部曲》中，鬼侯只有短短一场戏，但是鬼侯佩剑贯穿三部，是电影中最重要的兵器之一。 美术设计中鬼侯剑长五尺，为区别以其它青铜武器，采用陨石玄铁打造而成。剑首饰以鬼立像，辅之以夔（古代传说一种龙形异兽），形如冕冠。鬼耳摄风雷之声，鬼目涸如洞，掌生双目，寓者有三:“肉目”欺人,“掌目”观心,“神目”通天。剑格分三层，寓以天地人三界，御敌施重压，迫致魂入幽冥。剑胆乃赤金中坚，斫九鬿为梁。其鞘覆以蛟皮，质黑幽光，鞘环饰以角兽，错金断银。整把剑的各部分将“鬼”的概念具象化，剑鞘珌处更是用金文铭以“鬼”字。鬼侯剑乃天下重器，持剑者必是独一无二的领袖枭雄。
+
+《封神第一部》当中，质子旅视持有鬼侯剑的殷郊为领袖、为英雄，对殷郊的号令惟命是从。所以崇应彪一直觊觎着象征权力与地位的鬼侯剑，想要证明自己。而这把鬼侯剑，也暗藏着殷郊与姬发战友同袍兄弟情的前缘，见证了两位少年一路同行的成长，鬼侯剑的故事会在《封神第三部》中揭开谜底。
+02 殷寿的疤痕
+
+细心的观众已经发现，在军营大帐中，妲己舔舐殷寿胸前的伤口，在狐妖法术的作用下，殷寿伤口快速恢复，不再受伤痛之苦，从此认定妲己“我能帮你”。但是为什么在酒池肉林当中，殷寿肩膀露出了一大片伤疤？是妲己的法术失灵了吗？
+
+影片中另一处细节，也暗示了殷寿身上的伤疤，与其一心…]]></summary>
+        <author>
+            <name>乌尔善</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[国产三无软尾诞生记]]></title>
+        <id>http://zhuanlan.zhihu.com/p/580901767</id>
+        <link href="http://zhuanlan.zhihu.com/p/580901767?utm_campaign=rss&amp;utm_medium=rss&amp;utm_source=rss&amp;utm_content=title"/>
+        <updated>2023-07-20T03:27:01.000Z</updated>
+        <summary type="html"><![CDATA[17年从捷安特毕业的时候，自己做一台车架软尾这件事情已经在心里埋下了种子。
+
+第一稿大概花了半年时间，但这是用焊接的方案。考虑到焊接工艺的复杂性以及高昂的模具费用，其实作为个人项目，是不现实的。
+18年白嫖公司的打印机，做了个小模型留念。
+一直到近几年，机缘巧合之下。接触到了环氧结构胶这种神奇的产品，在特定粘接结构的情况下，可以获得堪比焊接的结合强度。一下子个人项目有了希望。
+
+其实这种胶水在自行车行业乃至汽车行业，已经不是新鲜产品了。事实上，碳纤维车架后三角管的连接，就是靠的环氧结构胶。而粘接金属车架，早在1990年崔克就做过尝试并取得了不错的反响。
+Trek 1400 铝合金粘接车架
+
+接缝处理的天衣无缝
+某种程度上，现成的案例，也增添了我的信心。
+
+
+
+事实上在直接粘接车架之前，也做过小范围的用于修复车架修复的尝试。结果也很成功，补强块固定的非常牢固。
+在这过程当中，车架其实也经历了多轮改动，调整成现代几何，后开档改成148。最重要的是调整成可以粘接的结构方案。
+
+所以8月份，这个车架就正式启动制作了。
+打印树脂零件
+
+试组装
+
+
+
+试粘接
+
+粘接后三角
+
+发现碟刹间隙太小了，需要调整
+
+整车试组装
+接下来就是激动人心的金属版了
+收到零件
+
+粘接后胆座
+
+粘接后三角
+
+车架成品
+
+整车成品
+最后大概介绍下这辆车的参数和配置吧。
+配置
+车架: 三无产品
+前叉: formula selva c 弹簧前叉
+后胆: formula mod 弹簧后胆
+轮组: syntace w33i 铝合金成品轮组
+刹车: formula cura4 电镀银色
+传动系统: sram gx eagle
+把组: raceface kashima金色车把
+升降坐杆: 捷安特 
+车架参数
+fsr 结构
+后轮行程155mm
+后胆规格210*55
+后开档148mm
+重量 4kg不带胆
+材料 铝合金7075T6 
+全车喷砂硬质阳极氧化黑色
+车架几何
+
+主要结构曲线
+
+
+
+
+
+
+
+
+就先写到这吧，大家还有有什么想知道的欢迎留言，知无不言。
+
+来源：知乎 www.zhihu.com
+铝制铭
+点击下载]]></summary>
+        <author>
+            <name>铝制铭</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[如何评价《封神第一部》重建中国电影工业化体系？]]></title>
         <id>http://www.zhihu.com/question/612906040/answer/3125991677</id>
@@ -146,6 +281,25 @@ Part 2：参与想法活动
 点击下载]]></summary>
         <author>
             <name>知乎职场</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[谷歌软件工程师年薪超70万美元]]></title>
+        <id>https://www.williamlong.info/archives/7230.html</id>
+        <link href="https://www.williamlong.info/archives/7230.html"/>
+        <updated>2023-07-18T15:19:14.000Z</updated>
+        <summary type="html"><![CDATA[据 Business Insider 获得的一份泄露的内部数据显示，2022 年谷歌员工的总薪酬中位数为 279802 美元，其中软件工程师拿到了高达 71.8 万美元的基本工资，成为该公司薪资的最高职位。
+
+
+除了基本工资，谷歌员工的收入还包括期权和奖金。数据显示，软件工程师在 2022 年能够获得最高 150 万美元的股权。谷歌的前十大最高薪职位中，无论是工程、商业还是销售，最低的基本工资也达到了 30 万美元。
+
+
+与其他科技巨头相比，2022 年谷歌员工的中位数基本工资落后于 Meta（29.6 万美元），但远高于 Salesforce（19.9 万美元）和 Adobe（17 万美元）。
+
+
+稿源：IT之家]]></summary>
+        <author>
+            <name>user@gmail.com (guest)</name>
         </author>
     </entry>
     <entry>
@@ -718,42 +872,6 @@ $纳斯达克指数ETF(SH513390)$、$标普500ETF(SH513500)$ @博时指慧家]]>
         <summary type="html"><![CDATA[周末回了杭州，题图是小区拍的，此前还收到过小区发的亚运会传单。亚运会在公众层面没什么关注度，但作为主办城市，杭州能看到很多痕迹。推荐阅读☆ Is it possible to use logic...]]></summary>
         <author>
             <name>SKYue</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[知乎宣布将下线匿名功能]]></title>
-        <id>https://www.williamlong.info/archives/7221.html</id>
-        <link href="https://www.williamlong.info/archives/7221.html"/>
-        <updated>2023-07-09T03:59:49.000Z</updated>
-        <summary type="html"><![CDATA[7月7日，知乎发文宣布将下线“匿名功能”。知乎表示，作为社区早期的产品机制，匿名功能的上线初衷是建立在用户开放讨论、友善互动的基础之上的，但随着互联网沟通环境日益复杂，为保障社区内的良性讨论，知乎已在最新版本App中完成了匿名功能下线的开发，并于近期提交各大应用商店审核，预计7月14日上线各大应用商店，匿名功能将在新旧版本App端及PC端正式下线。
-
-
-届时，“匿名发布”入口将会取消，用户将不能匿名创建问题或匿名发布内容。对于历史匿名内容，用户可自主选择是否将其转为实名。
-
-
-以下为公告原文：
-
-
-
-知乎「匿名功能」下线公告
-
-
-作为社区早期的产品机制，匿名功能的上线初衷是建立在用户开放讨论、友善互动的基础之上的，但随着互联网沟通环境日益复杂，为保障社区内的良性讨论，知乎已在最新版本 App 中完成了匿名功能下线的开发，并于近期提交各大应用商店审核，预计 7 月 14 日上线各大应用商店，匿名功能将在新旧版本 App 端及 PC 端正式下线。
-
-
-届时，「匿名发布」入口将会取消，用户将不能匿名创建问题或匿名发布内容。对于历史匿名内容，用户可自主选择是否将其转为实名。
-
-
-知乎反对编造不实信息、恶意诽谤他人等行为，无论内容是否匿名，同样受到《知乎社区规范》的监督和管理，创作者应当对自己发布内容的真实性、准确性负责。如内容中存在违法违规信息，平台将按具体内容违规类别予以相应处置。
-
-
-我们希望创作者们能持续秉持「认真、专业、友善」的创作态度，以真实身份进行创作。今年 4 月，我们推出了专业身份认证，知友们可以更便捷地进行认证，让内容更专业，让表达更真实，更好地分享自己的知识、经验和见解。
-
-
-
-来源：知乎官方帐号“知一声​”]]></summary>
-        <author>
-            <name>user@gmail.com (guest)</name>
         </author>
     </entry>
     <entry>
