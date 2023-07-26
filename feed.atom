@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-07-25T00:31:50.193Z</id>
+    <id>urn:2023-07-26T00:29:39.116Z</id>
     <title>osmos::feed</title>
-    <updated>2023-07-25T00:31:50.193Z</updated>
+    <updated>2023-07-26T00:29:39.116Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -1611,39 +1611,6 @@ Part1  恐怖爽文脑洞大开
 $招商量化精选股票A(F001917)$ $国金量化多因子(F006195)$ $大成景恒混合A(F090019)$ $华夏中证500指数智选增强A(F013233)$ $万家中证1000指数增强A(F005313)$ $博时量化多策略A(F005635)$ $景顺长城量化小盘股票(F005457)$]]></summary>
         <author>
             <name>今日话题 的雪球全部动态</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[夏日出游，推荐几个适合自驾的目的地，你觉得推荐的理由是什么？]]></title>
-        <id>http://www.zhihu.com/question/606531092/answer/3073082401</id>
-        <link href="http://www.zhihu.com/question/606531092/answer/3073082401?utm_campaign=rss&amp;utm_medium=rss&amp;utm_source=rss&amp;utm_content=title"/>
-        <updated>2023-06-26T03:07:43.000Z</updated>
-        <summary type="html"><![CDATA[说几个我的行程规划吧。
-1.青海大环线；
-2.昆大丽（泸沽湖）香；
-3.新疆北疆；
-主要的理由：
-自然风光更加吸引我；
-气候相对更加舒适（毕竟夏季还是想找个相对凉快的地方）；
-
-来源：知乎 www.zhihu.com
-神奇胖虎
-点击下载
-3 个回答，查看全部。
-国内自驾游有哪些城市值得推荐？
-冬季自驾游适合去哪些城市旅行？]]></summary>
-        <author>
-            <name>神奇胖虎</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[拾月周刊（第28期）：村里的Manner]]></title>
-        <id>https://www.skyue.com/23062607.html</id>
-        <link href="https://www.skyue.com/23062607.html"/>
-        <updated>2023-06-25T23:30:00.000Z</updated>
-        <summary type="html"><![CDATA[题图是良渚文化村的Manner，端午回杭州，第一次光顾这里，内部装修工业风，多长椅，少圆桌，也不提供WIFI，适合唠嗑，不适合办公。推荐阅读☆ 最好的自助书建议提炼成11条简单的规则 | Mas...]]></summary>
-        <author>
-            <name>SKYue</name>
         </author>
     </entry>
 </feed>
