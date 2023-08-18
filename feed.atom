@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-08-17T00:23:09.321Z</id>
+    <id>urn:2023-08-18T00:23:30.683Z</id>
     <title>osmos::feed</title>
-    <updated>2023-08-17T00:23:09.321Z</updated>
+    <updated>2023-08-18T00:23:30.683Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[枝头婉转白头鹎]]></title>
+        <id>http://www.zreading.cn/?p=9166</id>
+        <link href="https://www.zreading.cn/archives/9166.html"/>
+        <updated>2023-08-17T12:13:03.000Z</updated>
+        <summary type="html"><![CDATA[文/SquMoun 我第一次知道白头鹎，已是2020年居家办公的时候。就是在那个暮春初夏的时节，窗外的月季已经 […]]]></summary>
+        <author>
+            <name>左岸</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[只是思想，离实现还很远很远]]></title>
+        <id>http://www.zreading.cn/?p=9164</id>
+        <link href="https://www.zreading.cn/archives/9164.html"/>
+        <updated>2023-08-17T12:09:37.000Z</updated>
+        <summary type="html"><![CDATA[文/贾刚 很多人会把思想和才华混为一谈，当看到站在台上的老师滔滔不绝、指点江山的时候， 不由心生感慨：「老师的 […]]]></summary>
+        <author>
+            <name>左岸</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[自己拍的照片被“视觉中国”告侵权]]></title>
         <id>https://www.williamlong.info/archives/7259.html</id>
@@ -2017,26 +2037,6 @@ Seeker
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[时差两个半]]></title>
-        <id>http://www.zreading.cn/?p=9143</id>
-        <link href="https://www.zreading.cn/archives/9143.html"/>
-        <updated>2023-07-24T02:05:16.000Z</updated>
-        <summary type="html"><![CDATA[文/SquMoun 工作日晚上，我一般是七点左右到家，还算一个比较正常的时间点。其实稍微叠加收拾家务和准备饭食 […]]]></summary>
-        <author>
-            <name>左岸</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[孤独与独立]]></title>
-        <id>http://www.zreading.cn/?p=9141</id>
-        <link href="https://www.zreading.cn/archives/9141.html"/>
-        <updated>2023-07-24T02:02:36.000Z</updated>
-        <summary type="html"><![CDATA[文/事需渐修 这个话题其实有感于CoCo的离开还有身边同事、朋友父亲的逝世，有时候想想挺沉重的，实体生命很短暂 […]]]></summary>
-        <author>
-            <name>左岸</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[大模型高效训练的关键技术｜AI 盐沙龙]]></title>
         <id>http://zhuanlan.zhihu.com/p/645135051</id>
         <link href="http://zhuanlan.zhihu.com/p/645135051?utm_campaign=rss&amp;utm_medium=rss&amp;utm_source=rss&amp;utm_content=title"/>
@@ -2203,63 +2203,6 @@ fsr 结构
 熟悉我的人肯定知道我一定会用Avid。这次从2017版用到了2018版，之后Avid进行了大的更新，但因为当时工作还在持续，就没敢再升级了。现在看来是明智的。我们最多的时候有7个Avid同时在使用，注意，我说的同时是真的同时，不是一人电脑上挂一块裸盘或者小Nas，每次同步工程和素材时都要经历噩梦，搞不好时间线版本就乱套、素材离线。我使用Avid的一个重要原因，就是它对协同工作的支持非常好。比如剪辑助理完成了分条合板工作，在他（她）保存的一瞬间，我的电脑上就已经完全同步了；当我剪好了一场戏需要剪辑助理加一些声效，我只需要保存一下，对方就可以立马看到我刚刚剪好的时间线。没错，所有人都在同一网络、同一存储下工作，大大降低了人力时间成本，以及犯错的概率。…]]></summary>
         <author>
             <name>黄烁</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[初入职场，请多关照！]]></title>
-        <id>http://zhuanlan.zhihu.com/p/644075669</id>
-        <link href="http://zhuanlan.zhihu.com/p/644075669?utm_campaign=rss&amp;utm_medium=rss&amp;utm_source=rss&amp;utm_content=title"/>
-        <updated>2023-07-19T04:03:03.000Z</updated>
-        <summary type="html"><![CDATA[你还记得初入职场那年的自己吗？在那个同样炽热的七月，我们恋恋不舍走出校园，意气风发走入职场；可真正进入职场后，才发现原来一切不是我们想象的那样。
-作为职场新人，大家会因为和领导谈话紧张，会因为工作做不好而焦虑，也会觉得没有谈得来的朋友所以孤独；夜深人静时，也会内心疑惑：是不是我不够优秀？还是我不够自信？或者我根本不适合这份工作？
-这一次，「初入职场的我们」在知乎发问：职场前辈们，你们曾经是如何「治愈」自己的呢？又是如何培养出良好的工作心态呢？有什么过来人的经验吗？
-是啊，谁还没当过职场新人呢！ @知乎职场 联合 @中国青年报  共同发起「初入职场 请多关照」系列活动，邀请全站知友一起写下给职场新人的建议，陪伴、帮助他们度过艰难的时刻。
-Part 1：参与圆桌有奖问答
-活动时间
-7 月 18 日-8 月 31 日
-圆桌主会场直达 
-初入职场 请多关照
-
-「职场解压团」
-本活动将通过定向邀请和公开报名的方式，选出 30 位创作者组成「职场解压团」，为职场新人答疑解惑
-征集报名：想要参与报名的创作者请在 7 月 17日 24 点前填写报名表，我们将根据报名时间和匹配度择优选取，点击链接填写报名表https://www.zhihu.com/xen/market/training/scheme-questionnaire/1663211458694615040
-征集规则：1）持续深耕「职场」赛道，对于职场人群的心理问题有个人见解和内容输出；2）具有专业背书，如心理学、社会学等相关专业，心理咨询师、资深HR/猎头、职场导师、各平台自身职场创作者等
-活动规则：回答「初入职场 请多关照」圆桌收录的问题（问题上有橙色的「圆桌收录」标签），每篇字数需在 500 以上；我们将在 7 月 18 日本篇活动文章的评论区公布「职场解压团」名单
-活动奖励：每篇回答奖励 10000 颗盐粒，按创作时间顺序参与共瓜分 2,000,000 颗盐粒
-「职场加油团」
-本活动面向全站创作者设置创作阶梯奖励活动，参与回答「初入职场 请多关照」圆桌下的问题，最后综合内容质量和正向互动量，评选 Top14 进行奖励：
-100,000 盐粒 - Top1
-80,000 盐粒 - Top2-3
-50,000 盐粒 - Top4-7
-20,000 盐粒 - Top8-14
-
-Part 2：参与想法活动
-活动时间
-7 月 18 日-8 月 31 日
-「我也曾初入职场」
-本活动面向全站创作者设置创作阶梯奖励活动，带话题 #职场新人生存法则#  ，写下 60 字带 1 图想法，对符合如下内容方向的用户，可瓜分 1,000,000 颗盐粒；
-同时，我们将综合内容质量和喜欢数量取 Top10 各发放 10,000 颗盐粒。
-话题征集方向：
-方向一：分享职场干货，如职场小白生存法则、职场必备思维、职场必会技巧等
-方向二：分享职场经历，初入职场时你遇到过什么难题，又是如何治愈自己的？
-方向三：分享职场心态，抱有什么工作心态，会让工作更快乐，会让工作更高效？
-方向四：分享职场瞬间，可以是放空摸鱼，可以是深夜加班，可以是离职那日
-方向五：分享职场感悟，工作多年后你有哪些感悟？说说自己的心理话吧
-方向六：分享职场生活平衡法则，work hard，play hard，做自己的精力掌控者
-其他：只要是与活动话题相关的好内容，都可以发布哦～
-
-
-注意事项
-回答内容需符合本次活动主题要求，不得违反相关法律法规、社会公序良俗，不得违反社区管理规范等，如出现以上情况，知乎有权取消个人获奖资格；
-鼓励运用知乎邀请、分享等方式给予提问和回答更多曝光，严禁刷赞、刷播、营销推广等不正当行为，一经发现取消获奖资格；
-获奖名单将于活动结束 90 个工作日内，由 @知乎职场  官方账号公布；
-本次活动最终解释权归知乎所有。
-
-来源：知乎 www.zhihu.com
-知乎职场
-点击下载]]></summary>
-        <author>
-            <name>知乎职场</name>
         </author>
     </entry>
 </feed>
