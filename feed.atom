@@ -1,10 +1,66 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-08-23T00:23:52.612Z</id>
+    <id>urn:2023-08-24T00:23:18.207Z</id>
     <title>osmos::feed</title>
-    <updated>2023-08-23T00:23:52.612Z</updated>
+    <updated>2023-08-24T00:23:18.207Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[请问您见过最惊艳的sql查询语句是什么？]]></title>
+        <id>http://www.zhihu.com/question/384673958/answer/3073350200</id>
+        <link href="http://www.zhihu.com/question/384673958/answer/3073350200?utm_campaign=rss&amp;utm_medium=rss&amp;utm_source=rss&amp;utm_content=title"/>
+        <updated>2023-08-23T07:58:00.000Z</updated>
+        <summary type="html"><![CDATA[GitHub上有很多有意思的sql查询语句和项目。
+
+SQL Murder Mystery: 一个有趣的交互式游戏，通过解决 SQL 查询谜题来解决一个虚构的凶杀案。
+SQL Style Guide: 一个关于 SQL 编码风格和最佳实践的指南，其中包含一些有趣的示例和案例研究。
+SQL-Interview-Preparation: 这个存储库收集了一些常见的 SQL 面试问题和解答，可以帮助你准备 SQL 面试。
+SQL Advent Calendar: 这个存储库收集了每年 12 月期间发布的有趣的 SQL 相关的博客文章和示例代码，涵盖了各种主题。
+SQL Queries for Data Analysis: 一个收集了用于数据分析的 SQL 查询示例的存储库，包含了从简单到复杂的查询示例。
+
+还有一些展示了高级和复杂SQL技巧，可以让我们在查询和处理方面更加灵活的语句
+使用自连接查询找出同一表中具有相同值的记录：
+
+SELECT A.column_name, B.column_name
+FROM table_name A, table_name B
+WHERE A.column_name = B.column_name
+AND A.id <> B.id;
+
+
+在查询结果中使用 CASE 表达式进行条件判断和转换：
+
+SELECT name, age,
+CASE
+    WHEN age < 18 THEN '未成年'
+    WHEN age >= 18 AND age < 65 THEN '成年'
+    ELSE '老年'
+END AS age_group
+FROM customers;
+
+
+使用窗口函数计算累积和（Cumulative Sum）：
+
+SELECT date, revenue,
+SUM(revenue) OVER (ORDER BY date) …]]></summary>
+        <author>
+            <name>黑马程序员</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[网易云里的哪些热评，一瞬间就击中了你？]]></title>
+        <id>http://www.zhihu.com/question/359026457/answer/2827751833</id>
+        <link href="http://www.zhihu.com/question/359026457/answer/2827751833?utm_campaign=rss&amp;utm_medium=rss&amp;utm_source=rss&amp;utm_content=title"/>
+        <updated>2023-08-23T06:27:53.000Z</updated>
+        <summary type="html"><![CDATA[来源：知乎 www.zhihu.com
+dysiliky
+点击下载
+2938 个回答，查看全部。
+网易云里哪些热评，一眼就击中了你？
+网易云里哪些热评，让你感同身受？]]></summary>
+        <author>
+            <name>dysiliky</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[吉利汽车2023上半年营收731.8亿，新能源车销量增长43.9%！你对吉利汽车有什么期待？]]></title>
         <id>https://xueqiu.com/8152922548/258996674</id>
@@ -19,25 +75,6 @@
 对$吉利汽车(00175)$ 有什么期待？]]></summary>
         <author>
             <name>今日话题 的雪球全部动态</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[有哪些你看一眼就终生不能忘的恐怖图片？]]></title>
-        <id>http://www.zhihu.com/question/41697934/answer/3125073700</id>
-        <link href="http://www.zhihu.com/question/41697934/answer/3125073700?utm_campaign=rss&amp;utm_medium=rss&amp;utm_source=rss&amp;utm_content=title"/>
-        <updated>2023-08-22T09:11:00.000Z</updated>
-        <summary type="html"><![CDATA[这个呢，一次去酒店的时候遇到的，看到的时候毛骨悚然，感觉叫酒店换了个房
-
-
-
-来源：知乎 www.zhihu.com
-甘羽
-点击下载
-1235 个回答，查看全部。
-你有存哪些恐怖图片？
-谁有哪些恐怖的图片？]]></summary>
-        <author>
-            <name>甘羽</name>
         </author>
     </entry>
     <entry>
@@ -93,7 +130,7 @@
 
 知乎汽车
 点击下载
-339 个回答，查看全部。
+340 个回答，查看全部。
 国产车适合做高端品牌吗?
 同价位豪华品牌和国产品牌车差别到底在哪里？]]></summary>
         <author>
@@ -125,7 +162,7 @@
 
 知乎汽车
 点击下载
-3897 个回答，查看全部。
+3899 个回答，查看全部。
 如何看待年轻人的「躺平」？
 如何看待年轻人躺平？]]></summary>
         <author>
@@ -399,7 +436,7 @@ $国泰君安量化选股混合发起A(F016466)$ $汇添富恒生科技指数发
 
 玩笔杆子的武僧
 点击下载
-188 个回答，查看全部。
+190 个回答，查看全部。
 围场草原的气候特点有哪些？
 政府将一部分草地划给牧民，而另一部分留作公共草地。问题是:同样是草原，为什么当地政府采取了不同的政策？]]></summary>
         <author>
@@ -2181,7 +2218,7 @@ LeetCode 上有哪些经典题目
 来源：知乎 www.zhihu.com
 Seeker
 点击下载
-427 个回答，查看全部。
+428 个回答，查看全部。
 长期跑步让你有什么感想？
 跑步对人到底有多大的好处？]]></summary>
         <author>
@@ -2202,7 +2239,7 @@ Seeker
 来源：知乎 www.zhihu.com
 晚霞中的灿烂少年
 点击下载
-427 个回答，查看全部。
+428 个回答，查看全部。
 长期跑步让你有什么感想？
 跑步对人到底有多大的好处？]]></summary>
         <author>
