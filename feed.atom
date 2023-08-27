@@ -1,10 +1,51 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-08-26T00:22:44.844Z</id>
+    <id>urn:2023-08-27T00:25:51.903Z</id>
     <title>osmos::feed</title>
-    <updated>2023-08-26T00:22:44.844Z</updated>
+    <updated>2023-08-27T00:25:51.903Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[看杂志]]></title>
+        <id>https://www.skyue.com/23082618.html</id>
+        <link href="https://www.skyue.com/23082618.html"/>
+        <updated>2023-08-26T10:46:00.000Z</updated>
+        <summary type="html"><![CDATA[看到XDash发推提到他退订了一些Newsletter、RSS和公众号信源，改回订阅一些周更/月更的传统杂志。我也尝试找来《看天下》、《读者》这些杂志的最新一期看了看，读后感觉杂志中单篇文章的质...]]></summary>
+        <author>
+            <name>SKYue</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[多款跳过开屏广告软件收到同一大厂律师函]]></title>
+        <id>https://www.williamlong.info/archives/7268.html</id>
+        <link href="https://www.williamlong.info/archives/7268.html"/>
+        <updated>2023-08-25T12:01:15.000Z</updated>
+        <summary type="html"><![CDATA[近期，部分自动跳过各类App开屏广告的软件开发者，相继收到来自国内同一家互联网大厂的律师函，称他们的行为构成不正常竞争，干扰了其运营模式和盈利方式，要求下架软件停止运营。各家跳过App开屏广告的软件开发方，分别发布停止运营并下架的相关公告。
+
+
+8月25日，其中一家软件开发方告诉记者，他们开发软件的初衷，是为了让用户不受广告的困扰，让大家使用更便捷。这款软件的功能并不是屏蔽广告，而是帮助跳过广告。因为该互联网大厂曾表示将索赔十多万元，才不得不下架。
+
+
+有法律专业人士分析认为，这类软件让用户无需忍受广告的烦扰，虽获用户喜爱，但对商业软件的运营商确实构成侵权。目前，虽然部分软件的“广告跳过”按钮很隐蔽，具有欺骗性、关不掉等问题，但市场具有自我调节功能，消费者会“用脚投票”，行政主管部门也可以对这些软件的运营商加强监管。
+
+
+手机广告跳过APP“李跳跳”将无限期停更
+
+
+8月24日，自动跳过各类App开屏广告的安卓平台应用软件“李跳跳”对外宣称，将无限期停止更新。原因是他们收到一份来自国内某互联网大厂的律师函。
+
+
+该《律师函》称，发现“李跳跳”软件通过屏蔽、过滤该公司旗下某款浏览器的广告服务，吸引用户下载并使用，不正当地取得竞争优势。该等行为干扰了其浏览器的运营模式和盈利方式，构成利用技术手段对正当经营行为的妨碍、破坏，侵害了其委托人的合法权益；同时，该等行为亦破坏了合法竞争秩序和机制，违背了自愿、平等、公平、诚信原则及公认的商业道德，并最终造成消费者福祉的减损。因此，涉案软件屏蔽、过滤广告服务之行为，涉嫌违反《反不正当竞争法》第二条、第十二条第二款第四项的规定，构成不正当竞争。
+
+
+《律师函》还要求“李跳跳”开发者在收函48小时内停止运营该App，并下架该款软件。
+
+
+“李跳跳”APP的开发者则介绍，这是一款公益性质的单机软件，没有联网，也没有盈…]]></summary>
+        <author>
+            <name>user@gmail.com (guest)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[装修或定制中，哪些新型环保材料可以「完美」替代人造板？]]></title>
         <id>http://www.zhihu.com/question/616597405/answer/3182501647</id>
@@ -155,7 +196,7 @@ $易方达中债新综合债券指数A(F161119)$ $大成中债1-3年国开债指
 来源：知乎 www.zhihu.com
 秋原
 点击下载
-598 个回答，查看全部。
+601 个回答，查看全部。
 如果北京不做首都，之后会发展成什么样子？
 如果北京不是首都，将如何发展?]]></summary>
         <author>
@@ -229,7 +270,7 @@ SUM(revenue) OVER (ORDER BY date) …]]></summary>
         <summary type="html"><![CDATA[来源：知乎 www.zhihu.com
 dysiliky
 点击下载
-2940 个回答，查看全部。
+2941 个回答，查看全部。
 网易云里哪些热评，一眼就击中了你？
 网易云里哪些热评，让你感同身受？]]></summary>
         <author>
@@ -305,7 +346,7 @@ dysiliky
 
 知乎汽车
 点击下载
-342 个回答，查看全部。
+344 个回答，查看全部。
 国产车适合做高端品牌吗?
 同价位豪华品牌和国产品牌车差别到底在哪里？]]></summary>
         <author>
@@ -337,7 +378,7 @@ dysiliky
 
 知乎汽车
 点击下载
-3905 个回答，查看全部。
+3906 个回答，查看全部。
 如何看待年轻人的「躺平」？
 如何看待年轻人躺平？]]></summary>
         <author>
@@ -353,7 +394,7 @@ dysiliky
 
 知乎汽车
 点击下载
-144 个回答，查看全部。
+145 个回答，查看全部。
 国内新能源行业的发展前景如何？？
 国内新能源行业的前景如何？]]></summary>
         <author>
@@ -611,7 +652,7 @@ $国泰君安量化选股混合发起A(F016466)$ $汇添富恒生科技指数发
 
 玩笔杆子的武僧
 点击下载
-197 个回答，查看全部。
+199 个回答，查看全部。
 围场草原的气候特点有哪些？
 政府将一部分草地划给牧民，而另一部分留作公共草地。问题是:同样是草原，为什么当地政府采取了不同的政策？]]></summary>
         <author>
@@ -1610,47 +1651,6 @@ $银华抗通胀主题(F161815)$ $华宝标普油气上游股票人民币A(F1624
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[工信部：未备案不得从事APP互联网信息服务]]></title>
-        <id>https://www.williamlong.info/archives/7253.html</id>
-        <link href="https://www.williamlong.info/archives/7253.html"/>
-        <updated>2023-08-10T14:17:15.000Z</updated>
-        <summary type="html"><![CDATA[据工信部网站消息，为促进互联网行业规范健康发展，进一步做好移动互联网信息服务管理，工信部印发关于开展移动互联网应用程序备案工作的通知，组织开展移动互联网应用程序(以下简称“APP”)备案工作。通知要求，从事互联网信息服务的APP主办者，应当依照《中华人民共和国反电信网络诈骗法》《互联网信息服务管理办法》等规定履行备案手续，未履行备案手续的，不得从事APP互联网信息服务。
-
-
-2023年9月至2024年3月底，《通知》发布前开展业务的APP向其住所所在地省级通信管理局履行备案手续。2024年4月至2024年6月底，电信主管部门将组织对APP备案情况开展监督检查，对仍未履行备案手续的APP依法进行处置。
-
-
-以下为通知原文：
-
-
-
-关于开展移动互联网应用程序备案工作的通知
-
-
-工信部信管〔2023〕105号
-
-
-各省、自治区、直辖市通信管理局，中国信息通信研究院、中国互联网协会，基础电信企业，公益性互联单位、互联网接入服务提供者、互联网数据中心服务提供者、内容分发网络服务提供者，移动互联网应用程序分发平台（含小程序、快应用等分发）、智能终端生产企业、互联网信息服务提供者：
-
-
-为落实《中华人民共和国反电信网络诈骗法》《互联网信息服务管理办法》（国务院令第292号）等法律法规要求，促进互联网行业规范健康发展，进一步做好移动互联网信息服务管理，现组织开展移动互联网应用程序（以下简称APP）备案工作。有关事项通知如下：
-
-
-一、总体要求
-
-
-坚持依法行政、公开透明、便民高效原则，维护网络安全和公共利益，保护公民和组织合法权益，促进互联网行业规范健康发展。
-
-
-二、工作内容
-
-
-（一）在中华人民共和国境内从事互联网信息服务的APP主办者，应当依照《中华人民共和国反电信网络诈骗法》《互联网信息服务管理办法》（国务院令第292号）等规定履行备案手续…]]></summary>
-        <author>
-            <name>user@gmail.com (guest)</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[阅文2023上半年归母净利增超六成，月付费用户数环比增长12.8%，你对这份财报满意吗？]]></title>
         <id>https://xueqiu.com/8152922548/257959868</id>
         <link href="https://xueqiu.com/8152922548/257959868"/>
@@ -1724,7 +1724,7 @@ $国泰君安量化选股混合发起A(F016466)$ $国金量化多因子(F006195)
 来源：知乎 www.zhihu.com
 August
 点击下载
-196 个回答，查看全部。
+197 个回答，查看全部。
 张艺兴、金晨主演的电影《孤注一掷》票房大爆，其中有哪些精彩看点值得分享？
 张艺兴、金晨主演的电影《孤注一掷》票房大爆，如何评价他们在影片中的表现？]]></summary>
         <author>
@@ -1944,211 +1944,6 @@ August
         <summary type="html"><![CDATA[上面这张基于Google日历重新设计并增加会议成本的日程图是一张旧图，流传挺广，估计很多人看过。我第一次看到这个设计，内心WoW了一下，想着若有这个，肯定能从无效的会议中解脱出来。但也就想想而已...]]></summary>
         <author>
             <name>SKYue</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[值得苦练的100道Python经典练手题，（附详细答案）建议收藏！]]></title>
-        <id>http://zhuanlan.zhihu.com/p/617626496</id>
-        <link href="http://zhuanlan.zhihu.com/p/617626496?utm_campaign=rss&amp;utm_medium=rss&amp;utm_source=rss&amp;utm_content=title"/>
-        <updated>2023-07-28T07:19:20.000Z</updated>
-        <summary type="html"><![CDATA[​嗨喽大家好卷子又来了，100道Python经典练手题奉上
-花了一周的时间，整理了100道Python的练习题，如果你是一位初学者，那么这一份练习题将会给你带来极大的帮助，如果你能够完全独立的完成这份练习题，你已经入门的Python了，练习题涵盖Python基础的大部分内容：【PDF文末拿！】
-问题1
-问题：
-编写一个程序，查找所有此类数字，它们可以被7整除，但不能是5的倍数（在2000和3200之间（均包括在内））。获得的数字应以逗号分隔的顺序打印在一行上。
-提示：
-考虑使用范围（＃begin，＃end）方法。
-我的解决方案：Python 3
-
-使用for循环
-
-l=[]
-for i in range(2000, 3201):
- if (i%7==0) and (i%5!=0):
- l.append(str(i))
-print ','.join(l)
-
-使用生成器和列表理解
-
-print(*(i for i in range(2000, 3201) if i%7 == 0 and i%5 != 0), sep=",")
-问题2
-问题：
-编写一个程序，可以计算给定数字的阶乘，结果应以逗号分隔的顺序打印在一行上，假设向程序提供了以下输入：8然后，输出应为：40320
-提示：
-如果将输入数据提供给问题，则应假定它是控制台输入。
-我的解决方案：Python 3
-
-使用While循环
-n = int(input()) #input() function takes input as string type
-#int() converts it to integer type
-fact = 1
-i = 1
-while i <= n:
-fact = fact * i;
-i = i + 1
-print(fact)
-使用For循环
-n = int(input()) #input() fun…]]></summary>
-        <author>
-            <name>程序员小时</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[分享几个常用的运维 shell 脚本]]></title>
-        <id>http://zhuanlan.zhihu.com/p/612782776</id>
-        <link href="http://zhuanlan.zhihu.com/p/612782776?utm_campaign=rss&amp;utm_medium=rss&amp;utm_source=rss&amp;utm_content=title"/>
-        <updated>2023-07-28T07:15:06.000Z</updated>
-        <summary type="html"><![CDATA[今天咸鱼给大家分享几个不错的 Linux 运维脚本，这些脚本中大量使用了 Linux 的文本三剑客：
-1. awk
-2. grep
-3. sed
-
-
-建议大家这三个工具都要了解并最好能够较为熟练的使用
-
-
-根据 PID 显示进程所有信息
-
-
-根据用户输入的 PID，过滤出该 PID 所有的信息
-
-
-#! /bin/bash
-
-read -p "请输入要查询的PID: " P
-
-n=`ps -aux| awk '$2~/^'${P}'$/{print $0}'|wc -l`
-
-if [ $n -eq 0 ];then
- echo "该PID不存在！！"
- exit
-fi
-echo -e "\e[32m--------------------------------\e[0m"
-echo "进程PID: ${P}"
-echo "进程命令：$(ps -aux| awk '$2~/^'$P'$/{for (i=11;i<=NF;i++) printf("%s ",$i)}')"
-echo "进程所属用户: $(ps -aux| awk '$2~/^'$P'$/{print $1}')"
-echo "CPU占用率：$(ps -aux| awk '$2~/^'$P'$/{print $3}')%"
-echo "内存占用率：$(ps -aux| awk '$2~/^'$P'$/{print $4}')%"
-echo "进程开始运行的时间：$(ps -aux| awk '$2~/^'$P'$/{print $9}')"
-echo "进程运行的时间：$(ps -aux| awk '$2~/^'$P'$/{print $10}')"
-echo "进程状态：$(ps -aux| awk '$2~/^'$P'$/{print $8}')"
-echo "进程虚拟内存：$(ps -aux| awk '…]]></summary>
-        <author>
-            <name>咸鱼Linux运维</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[怎么刷算法，leetcode上有哪些经典题目?]]></title>
-        <id>http://www.zhihu.com/question/502471127/answer/2478652654</id>
-        <link href="http://www.zhihu.com/question/502471127/answer/2478652654?utm_campaign=rss&amp;utm_medium=rss&amp;utm_source=rss&amp;utm_content=title"/>
-        <updated>2023-07-28T07:14:25.000Z</updated>
-        <summary type="html"><![CDATA[【 NO.1 字符串中最大的 3 位相同数字】
-解题思路
-枚举即可。
-
-代码展示
-
-
-【 NO.2 统计值等于子树平均值的节点数】
-解题思路
-一次递归遍历即可。
-
-代码展示
-
-
-【 NO.3 统计打字方案数】
-解题思路
-我们需要关心的是每一种按键连续按下了多少次。
-比如 “232323345” 这一输入，每种按键没有被连续按下过，所以代表的可能性只有 1 种。
-按键 2 被连续按下 2 次则有 2 种可能，被连续按下 3 次则有 4 种可能。
-我们使用动态规划求出连续按 x 次有多少种可能，详见注释。
-
-代码展示
-
-
-
-【 NO.4 检查是否有合法括号字符串路径】
-解题思路
-记忆化搜索即可。详见注释。
-
-代码展示
-
-
-
-
-
-来源：知乎 www.zhihu.com
-上岸算法
-点击下载
-7 个回答，查看全部。
-leetcode 算法常用技巧有哪些？
-为什么我觉得leetcode算法题挺简单的，是错觉吗？]]></summary>
-        <author>
-            <name>上岸算法</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[怎么刷算法，leetcode上有哪些经典题目?]]></title>
-        <id>http://www.zhihu.com/question/502471127/answer/2639174632</id>
-        <link href="http://www.zhihu.com/question/502471127/answer/2639174632?utm_campaign=rss&amp;utm_medium=rss&amp;utm_source=rss&amp;utm_content=title"/>
-        <updated>2023-07-28T07:00:40.000Z</updated>
-        <summary type="html"><![CDATA[先放图，链接在最底下：
-
-这些题都是属于经典，必会的题目。
-再写一下如何刷LeetCode：
-当年自己第一遍刷的时候，特别痛苦。一天就3道题，持续了两个月吧。后来刷的多了，一天5道，再往后，一天10道，15道。刷了两遍后，一天可以30道也不累。以现在的水平，可以一天100道。毕竟很多题刷的太熟了，就是在打字。
-简单说一下我认为的刷题几个阶段，这是上课时和学生说的：
-
-1，第一遍：知道。直接看答案，不要自己想，了解所有最优解，方法技巧第一。做题套路，以印象为主。
-2，第二遍：熟悉。过easy题，记住；做medium，重点题背，反复背。最简单会，大多不会。记住做题套路，以记住为主。
-3，第三遍：做题。做easy题；做部分medium题，hard题有思路。夯实medium基础。熟练运用做题套路，以做题为主。
-4，面经：做面经，开阔思路，了解出题形式。基础决定上层建筑，基础牢轻松，不牢就痛苦
-5，第四遍以上：刷题。
-
-其实我感觉，在前4个阶段，都不叫“刷题”，那是做题，在学习，只有在第四遍，才叫刷题。没有人一遍就会，大多数人都向快。直接做题，不管不顾基础知识。很多人连Segment Tree，BIT，Trie，Union Find这种数据结构都不懂，遇见就刷，自己想，怎么可能想的出来？
-所以刷题最重要的，第一步，就是了解所有的数据结构，做题方法，基础算法。从基础数据结构HashMap，HashSet，到TreeSet，TreeMap，Deque，LinkedHashMap；到各种对刷题来说的基础算法，各种排序算法，DFS，BFS，Sliding Window，sweep line，等等。99%的人这些都没有学过，就直接做题，做两道就想类似的题自己能做出来。
-如果刷题这么容易，那人人都能进Facebook，Google了。
-不可能的。我告诉我学生的方法，第一遍就是看答案。在第一遍刷题…]]></summary>
-        <author>
-            <name>Edward Shi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[怎么刷算法，leetcode上有哪些经典题目?]]></title>
-        <id>http://www.zhihu.com/question/502471127/answer/2268431201</id>
-        <link href="http://www.zhihu.com/question/502471127/answer/2268431201?utm_campaign=rss&amp;utm_medium=rss&amp;utm_source=rss&amp;utm_content=title"/>
-        <updated>2023-07-28T06:00:30.000Z</updated>
-        <summary type="html"><![CDATA[本科搞过三年 ACM，拿过金银牌的学长来说下吧！
-题主这其实是问了两个问题：
-
-怎么刷算法题
-LeetCode 上有哪些经典题目
-
-其实笼统的来讲，刷题是“每学习一个专题（数据结构或算法），就去刷对应专题的题目去巩固你学的专题的内容”。
-这个其实是我一直在说的：边理论 + 边实践！
-下面我来详细的讲一下题主的两个问题，都是超级干货，大家记得帮我 @Rocky0429 点赞呀~
-一、怎么刷算法题
-随着刷题的深入，我发现刷题其实就是分为两步：
-
-第一步有思路，即知道用哪种姿势怎么解题。
-第二步是实现，即将你的思路转化为代码。
-
-接下来我所有的废话都是围绕这两步来展开。
-
-0x01 有思路
-先说第一步：有思路。
-算法题刷多了，你就会发现，最后其实在你脑子里记住的不是实现这道题的代码，而是解这道题的思路。
-当我们刷了几百道几千道算法题的时候，你不可能记住每道题的代码，但是你可能知道这道题的思路，也就是出现类似“这道题我见过，我知道用这样那样的方法可以做出来”。有了思路，其实把它实现出来就是自然而然的事儿了，当然可能有人说知道了思路也不知道怎么实现，现在我先不说，这是我们下一步要讲的问题。
-
-上面说的是我们要走到的目的地，那如何走上这条路，从而到刷题刷到思路“泉涌”呢？其实很简单，我们从小到大一直在被动习惯的四个字：题海战术。
-
-题海战术，说白了就是多刷题，见多才能识广。
-但这里的多刷题，不是指多瞎刷题，而是有方法的去刷。至于刷题的网站我已经在文章的开头放链接了，不知道去哪找题的可以看一下。
-首先说什么是瞎刷题，就是看到一道刷一道，这是很多刚开始刷题的同学容易犯的毛病。
-有的追求数量，刷了一堆简单题，沉迷在 AC 的快感中不能自拔，在深深的自我感动中依然菜的扣脚；
-有的追求无脑，看到一道题就去网上搜答案，以为会解决问题，实则搜到了还看不懂，正好一劳永逸，给自己下了不是这块料的断言，成…]]></summary>
-        <author>
-            <name>Rocky0429</name>
         </author>
     </entry>
 </feed>
