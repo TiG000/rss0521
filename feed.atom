@@ -1,10 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-09-17T00:26:38.353Z</id>
+    <id>urn:2023-09-18T00:25:24.180Z</id>
     <title>osmos::feed</title>
-    <updated>2023-09-17T00:26:38.354Z</updated>
+    <updated>2023-09-18T00:25:24.180Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[成为自得其乐的人]]></title>
+        <id>http://www.zreading.cn/?p=9200</id>
+        <link href="https://www.zreading.cn/archives/9200.html"/>
+        <updated>2023-09-17T14:23:59.000Z</updated>
+        <summary type="html"><![CDATA[文/雨令 很多时候，我们依赖于外在的刺激来获得愉悦感和幸福感，所以我们需要别人来填充我们，需要外在环境来填充我 […]]]></summary>
+        <author>
+            <name>左岸</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[愿曾乘风来]]></title>
+        <id>http://www.zreading.cn/?p=9198</id>
+        <link href="https://www.zreading.cn/archives/9198.html"/>
+        <updated>2023-09-17T14:21:09.000Z</updated>
+        <summary type="html"><![CDATA[文/SquMoun 离开十一年了，真快。现在对这儿啊，活了一辈子的地方，真是熟悉又陌生。要是在纸上划拉划拉，熟 […]]]></summary>
+        <author>
+            <name>左岸</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[牛逼的人生有很多种]]></title>
+        <id>http://www.zreading.cn/?p=9196</id>
+        <link href="https://www.zreading.cn/archives/9196.html"/>
+        <updated>2023-09-17T14:18:27.000Z</updated>
+        <summary type="html"><![CDATA[文/古典 1. 你可以从手艺人到斜杠到大师 一门手艺背后有道，把这个道再提取出来，带着名声和技术迁移几个领域， […]]]></summary>
+        <author>
+            <name>左岸</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ChatGPT成功诊断4岁男孩怪病，击败17位医生]]></title>
         <id>https://www.williamlong.info/archives/7291.html</id>
@@ -932,16 +962,6 @@ $大成国企改革混合(F002258)$ $英大国企改革主题股票(F001678)$ $�
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[不要被你的耳朵欺骗了]]></title>
-        <id>http://www.zreading.cn/?p=9179</id>
-        <link href="https://www.zreading.cn/archives/9179.html"/>
-        <updated>2023-09-01T14:19:41.000Z</updated>
-        <summary type="html"><![CDATA[文/静静 兼听则明：指要同时听取各方面的意见，才能正确认识事物。然而真正要做到兼听，并没有说得那样容易。 很多 […]]]></summary>
-        <author>
-            <name>左岸</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[入秋、工资、微信支付]]></title>
         <id>https://www.skyue.com/23090109.html</id>
         <link href="https://www.skyue.com/23090109.html"/>
@@ -1521,26 +1541,6 @@ $恒生医疗ETF(SH513060)$可以和A股医疗市场投资机会形成很好的�
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[人生万般专注始]]></title>
-        <id>http://www.zreading.cn/?p=9176</id>
-        <link href="https://www.zreading.cn/archives/9176.html"/>
-        <updated>2023-08-25T00:40:02.000Z</updated>
-        <summary type="html"><![CDATA[文/德鲁伊 人生下半场伊始，百无聊赖，日子在手机里是个让人崩溃的事情。年轻时，彼此还问候，近期有什么新鲜事。现 […]]]></summary>
-        <author>
-            <name>左岸</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[保持人生松弛感]]></title>
-        <id>http://www.zreading.cn/?p=9174</id>
-        <link href="https://www.zreading.cn/archives/9174.html"/>
-        <updated>2023-08-25T00:37:42.000Z</updated>
-        <summary type="html"><![CDATA[文/雨令 上个月出差，换了个环境，发生了好的事情，也发生了坏的事情，我从中也越来越觉得，人生无常，最重要的不是 […]]]></summary>
-        <author>
-            <name>左岸</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[如果北京不是首都会发展成什么样子？]]></title>
         <id>http://www.zhihu.com/question/21845841/answer/2905302344</id>
         <link href="http://www.zhihu.com/question/21845841/answer/2905302344?utm_campaign=rss&amp;utm_medium=rss&amp;utm_source=rss&amp;utm_content=title"/>
@@ -1630,7 +1630,7 @@ SUM(revenue) OVER (ORDER BY date) …]]></summary>
         <summary type="html"><![CDATA[来源：知乎 www.zhihu.com
 dysiliky
 点击下载
-2955 个回答，查看全部。
+2956 个回答，查看全部。
 网易云里哪些热评，一眼就击中了你？
 网易云里哪些热评，让你感同身受？]]></summary>
         <author>
@@ -1694,7 +1694,7 @@ dysiliky
 
 知乎汽车
 点击下载
-28 个回答，查看全部。
+30 个回答，查看全部。
 如果你想在汽车行业工作，需要做哪些准备？
 想从事汽车方面的工作，想问一下该从哪方面入手？]]></summary>
         <author>
