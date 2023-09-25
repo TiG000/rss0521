@@ -1,10 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-09-24T00:26:43.060Z</id>
+    <id>urn:2023-09-25T00:25:34.349Z</id>
     <title>osmos::feed</title>
-    <updated>2023-09-24T00:26:43.060Z</updated>
+    <updated>2023-09-25T00:25:34.349Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[由小情绪引发对价值的思考]]></title>
+        <id>http://www.zreading.cn/?p=9208</id>
+        <link href="https://www.zreading.cn/archives/9208.html"/>
+        <updated>2023-09-24T13:40:47.000Z</updated>
+        <summary type="html"><![CDATA[文/寻找 心情低落了下来。昨日与好朋友聊天，离职三个月后的她重新找到了工作，薪资是我的四五倍，惊羡之余不免有些 […]]]></summary>
+        <author>
+            <name>左岸</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[什么才是你的错]]></title>
+        <id>http://www.zreading.cn/?p=9206</id>
+        <link href="https://www.zreading.cn/archives/9206.html"/>
+        <updated>2023-09-24T13:37:56.000Z</updated>
+        <summary type="html"><![CDATA[文/德鲁伊 中国是个讲究批评与自我批评的地儿。当然，批评为主，自我批评为辅。于是乎，擅于认错是个必备技能。我估 […]]]></summary>
+        <author>
+            <name>左岸</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我的四个假想敌]]></title>
+        <id>http://www.zreading.cn/?p=9204</id>
+        <link href="https://www.zreading.cn/archives/9204.html"/>
+        <updated>2023-09-24T13:34:00.000Z</updated>
+        <summary type="html"><![CDATA[文/余光中 二女幼珊在港参加侨生联考，以第一志愿分发台大外文系。听到这消息，我松了一口气，从此不必担心四个女儿 […]]]></summary>
+        <author>
+            <name>左岸</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[鲁大师“假分红，真套现”]]></title>
         <id>https://www.williamlong.info/archives/7296.html</id>
@@ -808,16 +838,6 @@ A：填写问卷时，尽可能详细地结合所在行业给出秋招求职者�
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[我去听奶茶的演唱会]]></title>
-        <id>http://www.zreading.cn/?p=9184</id>
-        <link href="https://www.zreading.cn/archives/9184.html"/>
-        <updated>2023-09-06T11:23:28.000Z</updated>
-        <summary type="html"><![CDATA[文/奶茶不太甜 听说，重庆有双重喜庆之意。 在华熙文化体育中心见到刘若英，听她现场唱起“很爱很爱你”时，偌大的 […]]]></summary>
-        <author>
-            <name>左岸</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[政策与基本面双驱动，你怎么看待科创50投资价值？]]></title>
         <id>https://xueqiu.com/8152922548/260390734</id>
         <link href="https://xueqiu.com/8152922548/260390734"/>
@@ -1008,26 +1028,6 @@ $大成国企改革混合(F002258)$ $英大国企改革主题股票(F001678)$ $�
 木材和木制品是高效廉价的碳封存体。木材属于天然的储碳材料，其主要制品只要处于使用状态就一直会作为碳储存…]]></summary>
         <author>
             <name>国家木材与木制品性能质量检验检测中心</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[静心阁]]></title>
-        <id>http://www.zreading.cn/?p=9182</id>
-        <link href="https://www.zreading.cn/archives/9182.html"/>
-        <updated>2023-09-01T14:23:38.000Z</updated>
-        <summary type="html"><![CDATA[文/关中人 缘起静心阁 前几天回家，小区门口新开了一家店面叫“静心阁”。匆匆往里面扫了一眼，恰好看到一穿着白衬 […]]]></summary>
-        <author>
-            <name>左岸</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[语不惊人死不休（321）坏人得次次走运，好人只需要一次就够了。]]></title>
-        <id>http://www.zreading.cn/?p=9181</id>
-        <link href="https://www.zreading.cn/archives/9181.html"/>
-        <updated>2023-09-01T14:20:59.000Z</updated>
-        <summary type="html"><![CDATA[生活： 1. 当一个人的所有选择都是自己内心认定的，就会变得非常坦然。某一天你老了，你也会觉得人生无憾，没有什 […]]]></summary>
-        <author>
-            <name>左岸</name>
         </author>
     </entry>
     <entry>

@@ -12,12 +12,42 @@
       "siteUrl": "https://www.zreading.cn",
       "articles": [
         {
+          "id": "http://www.zreading.cn/?p=9208",
+          "author": "左岸",
+          "description": "文/寻找 心情低落了下来。昨日与好朋友聊天，离职三个月后的她重新找到了工作，薪资是我的四五倍，惊羡之余不免有些 […]",
+          "link": "https://www.zreading.cn/archives/9208.html",
+          "publishedOn": "2023-09-24T13:40:47.000Z",
+          "wordCount": 206,
+          "title": "由小情绪引发对价值的思考",
+          "imageUrl": null
+        },
+        {
+          "id": "http://www.zreading.cn/?p=9206",
+          "author": "左岸",
+          "description": "文/德鲁伊 中国是个讲究批评与自我批评的地儿。当然，批评为主，自我批评为辅。于是乎，擅于认错是个必备技能。我估 […]",
+          "link": "https://www.zreading.cn/archives/9206.html",
+          "publishedOn": "2023-09-24T13:37:56.000Z",
+          "wordCount": 206,
+          "title": "什么才是你的错",
+          "imageUrl": null
+        },
+        {
+          "id": "http://www.zreading.cn/?p=9204",
+          "author": "左岸",
+          "description": "文/余光中 二女幼珊在港参加侨生联考，以第一志愿分发台大外文系。听到这消息，我松了一口气，从此不必担心四个女儿 […]",
+          "link": "https://www.zreading.cn/archives/9204.html",
+          "publishedOn": "2023-09-24T13:34:00.000Z",
+          "wordCount": 211,
+          "title": "我的四个假想敌",
+          "imageUrl": null
+        },
+        {
           "id": "http://www.zreading.cn/?p=9200",
           "author": "左岸",
           "description": "文/雨令 很多时候，我们依赖于外在的刺激来获得愉悦感和幸福感，所以我们需要别人来填充我们，需要外在环境来填充我 […]",
           "link": "https://www.zreading.cn/archives/9200.html",
           "publishedOn": "2023-09-17T14:23:59.000Z",
-          "wordCount": 214,
+          "wordCount": 230,
           "title": "成为自得其乐的人",
           "imageUrl": null
         },
@@ -37,7 +67,7 @@
           "description": "文/古典 1. 你可以从手艺人到斜杠到大师 一门手艺背后有道，把这个道再提取出来，带着名声和技术迁移几个领域， […]",
           "link": "https://www.zreading.cn/archives/9196.html",
           "publishedOn": "2023-09-17T14:18:27.000Z",
-          "wordCount": 235,
+          "wordCount": 243,
           "title": "牛逼的人生有很多种",
           "imageUrl": null
         },
@@ -57,7 +87,7 @@
           "description": "文/稻田 离开重庆的喧闹，追随长江东进三百余里，便进入了中国唯一的 “诗城”----奉节。 自唐宋以来，到过奉 […]",
           "link": "https://www.zreading.cn/archives/9192.html",
           "publishedOn": "2023-09-12T12:33:38.000Z",
-          "wordCount": 218,
+          "wordCount": 226,
           "title": "轻舟已过万重山",
           "imageUrl": null
         },
@@ -80,36 +110,6 @@
           "wordCount": 208,
           "title": "乡村秋色",
           "imageUrl": null
-        },
-        {
-          "id": "http://www.zreading.cn/?p=9184",
-          "author": "左岸",
-          "description": "文/奶茶不太甜 听说，重庆有双重喜庆之意。 在华熙文化体育中心见到刘若英，听她现场唱起“很爱很爱你”时，偌大的 […]",
-          "link": "https://www.zreading.cn/archives/9184.html",
-          "publishedOn": "2023-09-06T11:23:28.000Z",
-          "wordCount": 211,
-          "title": "我去听奶茶的演唱会",
-          "imageUrl": null
-        },
-        {
-          "id": "http://www.zreading.cn/?p=9182",
-          "author": "左岸",
-          "description": "文/关中人 缘起静心阁 前几天回家，小区门口新开了一家店面叫“静心阁”。匆匆往里面扫了一眼，恰好看到一穿着白衬 […]",
-          "link": "https://www.zreading.cn/archives/9182.html",
-          "publishedOn": "2023-09-01T14:23:38.000Z",
-          "wordCount": 211,
-          "title": "静心阁",
-          "imageUrl": null
-        },
-        {
-          "id": "http://www.zreading.cn/?p=9181",
-          "author": "左岸",
-          "description": "生活： 1. 当一个人的所有选择都是自己内心认定的，就会变得非常坦然。某一天你老了，你也会觉得人生无憾，没有什 […]",
-          "link": "https://www.zreading.cn/archives/9181.html",
-          "publishedOn": "2023-09-01T14:20:59.000Z",
-          "wordCount": 361,
-          "title": "语不惊人死不休（321）坏人得次次走运，好人只需要一次就够了。",
-          "imageUrl": null
         }
       ]
     },
@@ -124,7 +124,7 @@
           "description": "一、周日到香积寺及运河周边街区逛了逛。这一带景点比较密集，包括：运河周边香积寺：位于大兜路历史街区内，号称全国唯一供奉厨神的寺庙。大兜路历史街区：运河东侧的历史街区，沿街店面的定位偏文艺范。小河...",
           "link": "https://www.skyue.com/23092121.html",
           "publishedOn": "2023-09-21T13:44:00.000Z",
-          "wordCount": 536,
+          "wordCount": 542,
           "title": "香积寺与京杭运河两岸",
           "imageUrl": ""
         },
@@ -134,7 +134,7 @@
           "description": "超能异族在一些群里看到网友推荐韩剧《超能异族》，看了百科介绍，卡司顶配，也挺喜欢韩孝周，于是找来看了看。观看时，我在脑洞一个问题，这些超能力中，如果让我任选一个，选哪个呢？思考这个问题挺有意思的...",
           "link": "https://www.skyue.com/23091519.html",
           "publishedOn": "2023-09-15T11:00:00.000Z",
-          "wordCount": 560,
+          "wordCount": 572,
           "title": "超能异族、很久以前、又拍云",
           "imageUrl": ""
         },
@@ -144,7 +144,7 @@
           "description": "上周六和wn爬鸬鸟山。鸬鸟山位于余杭区，从杭州市区过去，一小时左右的车程。此山以杜鹃花闻名，每年四五月杜鹃花开时最热闹，现在是淡季，我们10点到罗窑坞停车场时，估计不到10辆车。上面的照片是一张...",
           "link": "https://www.skyue.com/23091209.html",
           "publishedOn": "2023-09-12T01:50:00.000Z",
-          "wordCount": 524,
+          "wordCount": 532,
           "title": "鸬鸟山",
           "imageUrl": ""
         },
@@ -154,7 +154,7 @@
           "description": "昨天早上打开公司聊天软件，收到一周年提醒，是啊，来虾皮一年了，期待了很久的一周年，并非在意它的纪念意义，而是终于能归属部分入职股票了。去年因为脚伤申请延期入职，却也刚好赶上虾皮第一轮裁员，很担心...",
           "link": "https://www.skyue.com/23090808.html",
           "publishedOn": "2023-09-08T00:51:00.000Z",
-          "wordCount": 514,
+          "wordCount": 513,
           "title": "入职周年与团建",
           "imageUrl": ""
         },
@@ -164,7 +164,7 @@
           "description": "一、阶级跃升周六晚上和tz、zb在亲橙里小聚，不可避免的聊到35岁焦虑，对当下不确定的环境的担忧，也聊到财富自由与阶级跃升。关于财富自由，也有过很多幻想，比如交易为生。我的博客「关于」页面，很长...",
           "link": "https://www.skyue.com/23090422.html",
           "publishedOn": "2023-09-04T14:46:00.000Z",
-          "wordCount": 522,
+          "wordCount": 529,
           "title": "阶级跃升、令人心动的offer、三傻大闹宝莱坞",
           "imageUrl": ""
         },
@@ -174,7 +174,7 @@
           "description": "不知有没有朋友发现，拾月周刊最后一期停留在7月10日，已经接近2个月没更新了。一共更新了30期，尽管我只是梳理一周的阅读，但每周要有一定量的网络阅读量且周末需要两三个小时整理，有一些更新压力的。...",
           "link": "https://www.skyue.com/23090309.html",
           "publishedOn": "2023-09-03T01:52:00.000Z",
-          "wordCount": 637,
+          "wordCount": 641,
           "title": "拾月通讯（第31期）：争取月更",
           "imageUrl": ""
         },
@@ -184,7 +184,7 @@
           "description": "一、入秋忽然就进入了9月，国庆假期也不远了。上图是昨天上海的晚霞，来自同事xz的分享。这周上海突然降温，从上周还是三十好几度，到这周不到三十度，叠加台风天，下着雨，某天早上穿着凉鞋走在雨中，觉得...",
           "link": "https://www.skyue.com/23090109.html",
           "publishedOn": "2023-09-01T01:41:00.000Z",
-          "wordCount": 608,
+          "wordCount": 598,
           "title": "入秋、工资、微信支付",
           "imageUrl": ""
         },
@@ -194,7 +194,7 @@
           "description": "基本常识公众号的这篇文章总结了环球时报10个经典标题，如下：宣布了：解除禁令！刚刚宣布，圆满完成！刚刚宣布：即日起恢复！国防部宣布！刚刚，圆满成功！4月1日起，全面取消->首次！俄方突然宣...",
           "link": "https://www.skyue.com/23083120.html",
           "publishedOn": "2023-08-31T12:00:00.000Z",
-          "wordCount": 547,
+          "wordCount": 543,
           "title": "面向推荐与面向搜索的标题作弊",
           "imageUrl": ""
         },
@@ -204,7 +204,7 @@
           "description": "今年以来，经常收到银行或中介电话，讲现在利率如何如何低，询问我有没有贷款需求。估计很多人都收到类似电话。于是上周六，约了两家中介公司了解情况，两家公司都在杭州钱江新城。流程利率当然是这件事值不值...",
           "link": "https://www.skyue.com/23082821.html",
           "publishedOn": "2023-08-28T13:12:00.000Z",
-          "wordCount": 576,
+          "wordCount": 569,
           "title": "房贷转经营贷是怎么回事",
           "imageUrl": ""
         },
@@ -214,7 +214,7 @@
           "description": "一、采访7月份，城市秘密公众号记者通过我的博客联系到我，当时，她正在写一篇关于良渚文化村的稿子，看到我博客中几篇关于文化村的文章，想找我聊聊文化村的生活。我还从来没有以这种采访的方式与记者聊过天...",
           "link": "https://www.skyue.com/23082708.html",
           "publishedOn": "2023-08-27T00:35:00.000Z",
-          "wordCount": 542,
+          "wordCount": 533,
           "title": "采访、体检",
           "imageUrl": ""
         }
@@ -241,7 +241,7 @@
           "description": "9月21日晚，南开大学新闻与传播学院院长、科技日报原总编辑刘亚东与华为公司创始人任正非今年7月7日在深圳一间咖啡厅的对话全文最新曝光。任正非表示，我们的产品如果不够先进，就不会拿出来卖。卖不了高价，我也养不活队伍。\n\r\n\r\n在这次交谈过程中，任正非主要表达了以下观点：\n\r\n\r\n一、面对美国的制裁和打压，华为会越来越困难，但华为也会越来越兴盛。\n\r\n\r\n二、搞好教育一是要差异化，天才都是从少年中产生的。中小学齐步走、同质化教育，把天才给埋没了。不要过分强调“起跑线”，不要同质化。\n\r\n\r\n三、解决教育问题，先要克服网络障碍。中国能不能进一步改善中、小学的办学条件？把人大附中、清华附中、上海的好中学……作为平台，把中国的好学校都作为平台，课程开放到网上。\n\r\n\r\n四、美国的先进文化我们还是要学习的，我们从来没有说“打倒美国”。华为也在做一些基础研究。基础研究离不开基础教育。基础教育是国家的责任，没有好的基础教育就培养不出顶尖人才。\n\r\n\r\n五、我们国家要重视那些不能直接创造价值的人。不能直接创造价值的人，也要让他过上体面的生活。没有体面生活，谁都不会去创新，那只能跟着美国后面去跑，这个国家永远都不可能领先世界。\n\r\n\r\n六、人才培养应该实行双轨制。每个人都有自学的能力，但还需要受到良好教育。我的遗憾就是没上过名牌大学，没有读到博士，挺羡慕上清华、北大的孩子们。我有时候也在网上听听课。我要是年轻时候能听他们的课，会有多大进步，可惜没这种机会啊。\n\r\n\r\n以下是对话全文：\n\r\n\r\n刘亚东：首先请任总谈谈华为的基础研究。华为有成千上万的科学家、专家……无论从事基础研究，还是前沿探索，他们的研究工作是兴趣驱动，还是需求驱动？\n\r\n\r\n任正非：刘院长知道拉法尔喷管吗？是空气动力学中的一个重要的现象，火箭发动机就是一个拉法尔喷管，可压缩流体经过拉法尔喷管的挤压，喷出的气体扩张越大，速度越快…",
           "link": "https://www.williamlong.info/archives/7295.html",
           "publishedOn": "2023-09-21T15:40:17.000Z",
-          "wordCount": 152,
+          "wordCount": 160,
           "title": "任正非：产品不够先进就不会拿出来卖",
           "imageUrl": null
         },
@@ -350,7 +350,7 @@
           "publishedOn": "2023-09-18T13:16:38.000Z",
           "wordCount": 1238,
           "title": "有奖活动 | 2024 秋招通关指南",
-          "imageUrl": "https://picx.zhimg.com/v2-721c62d368458122611495e4d4fc8243_720w.jpg?source=172ae18b"
+          "imageUrl": "https://pica.zhimg.com/v2-721c62d368458122611495e4d4fc8243_720w.jpg?source=172ae18b"
         },
         {
           "id": "http://www.zhihu.com/question/52340748/answer/692466752",
@@ -390,7 +390,7 @@
           "publishedOn": "2023-09-04T10:45:48.000Z",
           "wordCount": 1187,
           "title": "2023 中拉体育中冠联赛总决赛第一轮综述",
-          "imageUrl": "https://pic1.zhimg.com/v2-b57ae9f4c4fad9ef8423760361459439_720w.jpg?source=172ae18b"
+          "imageUrl": "https://picx.zhimg.com/v2-b57ae9f4c4fad9ef8423760361459439_720w.jpg?source=172ae18b"
         },
         {
           "id": "http://www.zhihu.com/question/617930805/answer/3194211073",
