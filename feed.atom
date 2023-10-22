@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-10-21T00:24:08.426Z</id>
+    <id>urn:2023-10-22T00:27:46.326Z</id>
     <title>osmos::feed</title>
-    <updated>2023-10-21T00:24:08.426Z</updated>
+    <updated>2023-10-22T00:27:46.326Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -1207,29 +1207,6 @@ $诺安和鑫灵活配置混合(F002560)$ $金鹰核心资源混合A(F210009)$ $
         <summary type="html"><![CDATA[文/余光中 二女幼珊在港参加侨生联考，以第一志愿分发台大外文系。听到这消息，我松了一口气，从此不必担心四个女儿 […]]]></summary>
         <author>
             <name>左岸</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[雪球出品的漫画，你有关注吗？ 48话已完结，快来谈谈你的感受！内含完整漫画链接！ #雪球推出首部投资剧情类漫画#进阶吧投资者:&nbsp;随着48话的发布，《进阶吧...]]></title>
-        <id>https://xueqiu.com/8152922548/261821623</id>
-        <link href="https://xueqiu.com/8152922548/261821623"/>
-        <updated>2023-09-22T08:38:09.000Z</updated>
-        <summary type="html"><![CDATA[雪球出品的漫画，你有关注吗？ 48话已完结，快来谈谈你的感受！内含完整漫画链接！ #雪球推出首部投资剧情类漫画#
-进阶吧投资者: 随着48话的发布，《进阶吧！投资者》已在雪球站内正式完结。自2022年10月开始，《进阶吧！投资者》正式上线连载，每周单更一话，感谢众多忠实粉丝的陪伴，也感谢各位顾问嘉宾的支持。
-【完整48话 全览】快速链接
-今天，让时光的齿轮开始转动。回忆...]]></summary>
-        <author>
-            <name>今日话题 的雪球全部动态</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[香积寺与京杭运河两岸]]></title>
-        <id>https://www.skyue.com/23092121.html</id>
-        <link href="https://www.skyue.com/23092121.html"/>
-        <updated>2023-09-21T13:44:00.000Z</updated>
-        <summary type="html"><![CDATA[一、周日到香积寺及运河周边街区逛了逛。这一带景点比较密集，包括：运河周边香积寺：位于大兜路历史街区内，号称全国唯一供奉厨神的寺庙。大兜路历史街区：运河东侧的历史街区，沿街店面的定位偏文艺范。小河...]]></summary>
-        <author>
-            <name>拾月</name>
         </author>
     </entry>
 </feed>
