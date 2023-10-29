@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-10-28T00:23:58.740Z</id>
+    <id>urn:2023-10-29T00:27:13.674Z</id>
     <title>osmos::feed</title>
-    <updated>2023-10-28T00:23:58.740Z</updated>
+    <updated>2023-10-29T00:27:13.674Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -1203,16 +1203,6 @@ c. 沈墨乐理很强，平时喜欢琢磨这些玩意儿
         <summary type="html"><![CDATA[今天中秋节，虽然已经晚上了，祝所有线上、线下的朋友中秋节快乐。我上次回家过中秋，应该是2017年，18和19年都有出去玩，之后三年则是疫情。这次回家主打一个陪伴父母，请了几天假，25号回九江，计...]]></summary>
         <author>
             <name>拾月</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何打破「信息茧房」？]]></title>
-        <id>http://www.zreading.cn/?p=9210</id>
-        <link href="https://www.zreading.cn/archives/9210.html"/>
-        <updated>2023-09-28T15:07:48.000Z</updated>
-        <summary type="html"><![CDATA[文/贾刚 自从抖音取代了爱优腾，成为了人们平时打发时间、消遣娱乐的最佳伴侣之后，推荐算法已经不可逆转的推向了普 […]]]></summary>
-        <author>
-            <name>左岸</name>
         </author>
     </entry>
 </feed>
