@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-11-03T00:25:50.039Z</id>
+    <id>urn:2023-11-04T00:24:43.307Z</id>
     <title>osmos::feed</title>
-    <updated>2023-11-03T00:25:50.039Z</updated>
+    <updated>2023-11-04T00:24:43.307Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -1287,16 +1287,6 @@ c. 沈墨乐理很强，平时喜欢琢磨这些玩意儿
         <link href="https://www.skyue.com/23100621.html"/>
         <updated>2023-10-06T13:00:00.000Z</updated>
         <summary type="html"><![CDATA[成功了！愿我们喜欢与合适撞个满怀made by N&Q, photo by N今天开心的事很多。还收到了Unee Wang寄的明信片。开信箱取明信片时，发现桃子夫妇2019年寄的明信片。...]]></summary>
-        <author>
-            <name>拾月</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[同学聚会]]></title>
-        <id>https://www.skyue.com/23100423.html</id>
-        <link href="https://www.skyue.com/23100423.html"/>
-        <updated>2023-10-04T15:55:00.000Z</updated>
-        <summary type="html"><![CDATA[今天4号，开车回杭州：杭瑞高速和长深高速有些路段已经开始堵了，明天估计更惨。应该是第一次走了一段溧宁高速，几十公里的隧道群，全程限制80，太坑了，其中有隧道叫「求坑隧道」，真应景。2号和3号连续...]]></summary>
         <author>
             <name>拾月</name>
         </author>
