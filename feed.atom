@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-11-05T00:28:28.077Z</id>
+    <id>urn:2023-11-06T00:26:40.602Z</id>
     <title>osmos::feed</title>
-    <updated>2023-11-05T00:28:28.077Z</updated>
+    <updated>2023-11-06T00:26:40.602Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -1235,7 +1235,7 @@ c. 沈墨乐理很强，平时喜欢琢磨这些玩意儿
 来源：知乎 www.zhihu.com
 江府郎
 点击下载
-32 个回答，查看全部。
+33 个回答，查看全部。
 给《三国演义》添加一个原创人物，如何让其融入到故事线中而不违背作品主旨？
 《三国演义》中有哪些十分精彩的描写？]]></summary>
         <author>
@@ -1279,16 +1279,6 @@ c. 沈墨乐理很强，平时喜欢琢磨这些玩意儿
 每寻至一处遗属，燕青必先行跪礼，伏地叩拜至亲。再以宋公明与卢俊义亲托之名，奉上…]]></summary>
         <author>
             <name>山贼一个</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[今天表白]]></title>
-        <id>https://www.skyue.com/23100621.html</id>
-        <link href="https://www.skyue.com/23100621.html"/>
-        <updated>2023-10-06T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[成功了！愿我们喜欢与合适撞个满怀made by N&Q, photo by N今天开心的事很多。还收到了Unee Wang寄的明信片。开信箱取明信片时，发现桃子夫妇2019年寄的明信片。...]]></summary>
-        <author>
-            <name>拾月</name>
         </author>
     </entry>
 </feed>
