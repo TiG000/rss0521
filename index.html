@@ -22,6 +22,65 @@
             data-action="toggle-accordions"
             title="Click to toggle the day, Ctrl + click to toggle all."
           >
+            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2024-01-29 datetime="2024-01-29T03:32:04.000Z">2024-01-29</time>
+            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2024-01-29 datetime="2024-01-29T03:32:04.000Z"></time>
+          </button>
+        </h2>
+        <ul class="sources card">
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >知乎每日精选</button>
+                  <a class="source-heading__link" href="http://www.zhihu.com">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="http://zhuanlan.zhihu.com/p/679862117"
+                        open
+                      >
+                        <summary class="article-expander__title">当教室突然安静——扰动，突变与回复</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="http://zhuanlan.zhihu.com/p/679862117?utm_campaign&#x3D;rss&amp;utm_medium&#x3D;rss&amp;utm_source&#x3D;rss&amp;utm_content&#x3D;title">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://pic1.zhimg.com/v2-55470165b9d27bd65468130f75cce279_720w.jpg?source&#x3D;172ae18b" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>作为学生，我想各位读者们应该在读书学习的时候多少经历过“原本嘈杂的教室突然变的鸦雀无声”的现象。对此已有相当多的答主做出了定性的解释:
+1.嘈杂的人群说话的空隙偶然重叠会导致音量的突然下降
+2.说话的人会为音量的减小感到警觉而放低说话的音量
+基于这两点，我们可以为嘈杂的人群做一个简单的建模并数值模拟:
+设人群共N人
+
+
+其中  代表编号为n的人在t时刻发出的声响(类似于分贝,人在正常范围对&quot;声响&quot;的感知是线性的)，  则是其听到的声响。 在正常的嘈杂环境下二者的均值为1。  的第二部分  代表了一小段时间(此处为0.3s)内环境音量平均大小对其说话声音的影响，采用  而非正比的形式可以使得  与  稳定在不动点1附近，在正常情况下不过大或过小，而在发生突变至0后能自行脱离零点回复至1。第三部分  描述了声音的变化对其影响，标红的m、n都是可调的参数，n代表了引起人警觉的中心阈值，而2/m代表这一“警觉”过渡的“宽度”。当声音在半秒内的平均变化率  大于-n+1/m时不会造成任何影响，小于-n+1/m时人会略微放低声音，而小于-n-1/m则会使人彻底闭口不言。
+ 决定了其听到声音的方式，且满足  ，视情况可以是随距离衰减，或直接对所有  取平均。  表示他在t时刻发言的意愿，g(t)均值为1，在0与2间过渡平滑的随机的跳动，此处我令 ，其中A,B…E都是诸如  的无理数，而X则是对每个n都不同的随机数。
+g(t)的函数图像，此处y坐标小了一半，意会即可
+最末一项  是用来给  的取值兜底的，以免突变过于剧烈使得其直接严格跌落到0，那就没得玩了，突变后音量还得升回来呢。然而这一项多少有点败笔的意思，总之它“唯像”式的保证了突变以及沉默后音量的回升。
+此处我将环境定在一个四十人的教室，考虑到狭小的教室内声音几乎不会衰减，我设  。这一举动将极大的方便了我们的计算，因为我们可以直接…</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;5
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
+        </ul>
+      </section>
+      <section class="daily-content js-toggle-accordions-scope">
+        <h2 class="daily-heading">
+          <button
+            class="daily-heading-toggle"
+            data-action="toggle-accordions"
+            title="Click to toggle the day, Ctrl + click to toggle all."
+          >
             <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2024-01-27 datetime="2024-01-27T10:49:59.000Z">2024-01-27</time>
             <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2024-01-27 datetime="2024-01-27T10:49:59.000Z"></time>
           </button>
@@ -157,7 +216,7 @@ iOS用户现在就可以将第三方网络浏览器（而非Safari浏览器）�
 停运线中若有动集开行的，统计过程栏的字体全部为灰色。
 最新统计的车次对数一栏中，红色字体表示该区间车次数在本次统计中创历史新高（仅针对本表中的历次统计节点）。
 全国汇总的平均车次密度只选取1-11栏的数据（即：不计…</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;9
+                                &ensp;<span class="article-reading-time">(&hairsp;10
                                   min&hairsp;)</span>
                             </span>
                           </div>
@@ -916,7 +975,7 @@ $科创100指数ETF(SH588030)$ 今日早盘当前跌幅1%，盘中成交额达1.
                         <summary class="article-expander__title">冲高教科书—ThinkBook 14+ 2024评测</summary>
                         <a class="article-summary-link article-summary-box-outer" href="http://zhuanlan.zhihu.com/p/652181681?utm_campaign&#x3D;rss&amp;utm_medium&#x3D;rss&amp;utm_source&#x3D;rss&amp;utm_content&#x3D;title">
                           <div class="article-summary-box-inner media-object">
-                              <img src="https://pic1.zhimg.com/v2-c1c9f2fbc4adaae495afea483c103f19_720w.jpg?source&#x3D;172ae18b" loading="lazy" class="media-object__media article-image" />
+                              <img src="https://picx.zhimg.com/v2-c1c9f2fbc4adaae495afea483c103f19_720w.jpg?source&#x3D;172ae18b" loading="lazy" class="media-object__media article-image" />
                             <span class="media-object__text">
                               <span>如果要说这两年高性能轻薄本市场上谁是红极一时的小霸王，那我想ThinkBook +系列可以说是绕不开的一个机器。各位对这个系列的认识，我想很多也是从当年我的这篇评测文章开始的。当时我就预言了这个机器的核显版/独显版分别作为高性能商务轻薄本/重新开创了小尺寸全能本赛道的产品，必将在市场上掀起一股新的风暴，现在看也基本成真。
 https://zhuanlan.zhihu.com/p/463236711
@@ -969,7 +1028,7 @@ https://zhuanlan.zhihu.com/p/463236711
                         <summary class="article-expander__title">为什么江南园林都长一个样？</summary>
                         <a class="article-summary-link article-summary-box-outer" href="http://zhuanlan.zhihu.com/p/673080365?utm_campaign&#x3D;rss&amp;utm_medium&#x3D;rss&amp;utm_source&#x3D;rss&amp;utm_content&#x3D;title">
                           <div class="article-summary-box-inner media-object">
-                              <img src="https://pic1.zhimg.com/v2-e157828872484644a8bfd69a4ce99fb3_720w.jpg?source&#x3D;172ae18b" loading="lazy" class="media-object__media article-image" />
+                              <img src="https://picx.zhimg.com/v2-e157828872484644a8bfd69a4ce99fb3_720w.jpg?source&#x3D;172ae18b" loading="lazy" class="media-object__media article-image" />
                             <span class="media-object__text">
                               <span>大家好，我是小蚂哥。今天再刷b站的时候看到这么一条视频，一个北大的老师在解答为啥江南园林都长一个样。
 
@@ -1362,7 +1421,7 @@ https://zhuanlan.zhihu.com/p/463236711
                         <summary class="article-expander__title">持家之眼扛把子——枪神8 Plus超竞版简评</summary>
                         <a class="article-summary-link article-summary-box-outer" href="http://zhuanlan.zhihu.com/p/677289659?utm_campaign&#x3D;rss&amp;utm_medium&#x3D;rss&amp;utm_source&#x3D;rss&amp;utm_content&#x3D;title">
                           <div class="article-summary-box-inner media-object">
-                              <img src="https://pica.zhimg.com/v2-8a7ba0a32215d51f1c60691c8058e11c_720w.jpg?source&#x3D;172ae18b" loading="lazy" class="media-object__media article-image" />
+                              <img src="https://picx.zhimg.com/v2-8a7ba0a32215d51f1c60691c8058e11c_720w.jpg?source&#x3D;172ae18b" loading="lazy" class="media-object__media article-image" />
                             <span class="media-object__text">
                               <span>前言
 去年11月份开始，4090就被禁售了，价格狂飙到2W+
@@ -1885,7 +1944,7 @@ Grok：向世界介绍了 Grok，由 xAI 开发的新型 AI 搜索助手。Grok 
                         <summary class="article-expander__title">安全的本质：大模型能否被严谨解释为符号逻辑？｜知乎先行者沙龙分享</summary>
                         <a class="article-summary-link article-summary-box-outer" href="http://zhuanlan.zhihu.com/p/676436144?utm_campaign&#x3D;rss&amp;utm_medium&#x3D;rss&amp;utm_source&#x3D;rss&amp;utm_content&#x3D;title">
                           <div class="article-summary-box-inner media-object">
-                              <img src="https://picx.zhimg.com/v2-dd0f43b9ca34bf651af4be49231e0f22_720w.jpg?source&#x3D;172ae18b" loading="lazy" class="media-object__media article-image" />
+                              <img src="https://pica.zhimg.com/v2-dd0f43b9ca34bf651af4be49231e0f22_720w.jpg?source&#x3D;172ae18b" loading="lazy" class="media-object__media article-image" />
                             <span class="media-object__text">
                               <span>各位知乎的朋友们大家好，我是张拳石，我来自上海交通大学。今天的主题是：安全的本质，大模型能否被严谨解释为符号逻辑？
 
@@ -2089,6 +2148,42 @@ Grok：向世界介绍了 Grok，由 xAI 开发的新型 AI 搜索助手。Grok 
                       <details
                         class="article-expander"
                         data-action="toggle-native-accordion"
+                        data-accordion-key="https://xueqiu.com/8152922548/273904004"
+                        open
+                      >
+                        <summary class="article-expander__title">雪球基金评审团招募！7只超跌反转优选基金邀你来测评</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://xueqiu.com/8152922548/273904004">
+                          <div class="article-summary-box-inner media-object">
+                            <span class="media-object__text">
+                              <span>#老司基硬核测评# 重磅升级，参与形式不变但奖金金额更多了、权益更多了！
+每期的老司基测评征文获奖者将会纳入「雪球基金评审团」，经由雪球的投资者教育计划扶持，参与雪球精选基金的评审打分。你一票，我一票，雪球精选基金要出道！雪球精选是雪球平台即将重磅打造的优选基金名单，旨在通过选好品、推好品，帮助基民买到好基金。
+为提高投资者对基金市场的全面认识，提升风险防范能力，长期投资、理性投资、责任投资。本季测评活动想通过向大家传递多元立体的基金测评维度，让大家学会如何筛选基金，测评基金。
+【如何才能加入「雪球基金评审团」】
+第一步：按要求参加#老司基硬核测评#征文活动，发布基金评测文章；
+第二步：征文活动获奖者将优先入选当期雪球基金评审团！话题哥会联系您参与后续评审打分环节~
+本期测评主题：7只超跌反转优选基金
+回顾2023年，伴随着诸多困境，市场主体信心不足，叠加中美利差走阔带来的估值压力，A股市场总体表现不佳，但转机正在来临。
+业内人士表示经过近三年的下跌，大盘宽基指数估值已经处于历史较低位置，叠加积极政策信号显现，监管层维护经济增长的坚定决心，在当前位置不宜悲观。大盘指数下跌往往是底部积累筹码的时点，并有望在未来市场反弹中斩获更好的回报。当下部分行业已然出现超跌现象，若市场回暖，这些超跌板块弹性或最强。
+若看好明年的估值修复机会，可考虑通过基金布局权益资产价值。本次话题哥筛选了以下7只超跌反转优选基金，他们分别是：
+
+数据来源:wind 数据截至：2023/1/4
+话题哥邀请球友们对这超跌反转优选基金进行全方位评测。欢迎球友们发表长文踊跃参与，优秀的基金测评内容将获得现金奖励。
+【活动时间】
+2023年1月8日–2024年1月21日
+征文结束后话题哥将联系征文获奖的球友组成第32期「雪球基金评审团」，对评测基金进行打分。
+【征文内容】
+对本期征文活动提到的超跌反转优选基金的一只…</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;1
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
                         data-accordion-key="https://xueqiu.com/8152922548/273900910"
                         open
                       >
@@ -2174,7 +2269,7 @@ Grok：向世界介绍了 Grok，由 xAI 开发的新型 AI 搜索助手。Grok 
                         <summary class="article-expander__title">见证者中的数学原理</summary>
                         <a class="article-summary-link article-summary-box-outer" href="http://zhuanlan.zhihu.com/p/676204647?utm_campaign&#x3D;rss&amp;utm_medium&#x3D;rss&amp;utm_source&#x3D;rss&amp;utm_content&#x3D;title">
                           <div class="article-summary-box-inner media-object">
-                              <img src="https://picx.zhimg.com/v2-ce4a301218193547bf0f18143eef6bf3_720w.jpg?source&#x3D;172ae18b" loading="lazy" class="media-object__media article-image" />
+                              <img src="https://pic1.zhimg.com/v2-ce4a301218193547bf0f18143eef6bf3_720w.jpg?source&#x3D;172ae18b" loading="lazy" class="media-object__media article-image" />
                             <span class="media-object__text">
                               <span>起因
 这些天重新游玩很久之前玩过的游戏《见证者》，回想当初游玩时的兴奋感，依然仿佛历历在目。这个游戏很难称为游戏，而应该看作杰出的艺术品，幻想与写实，表面与暗藏，艺术与数学，精确与诗意，可以谈的东西有很多。
@@ -2487,82 +2582,6 @@ Grok：向世界介绍了 Grok，由 xAI 开发的新型 AI 搜索助手。Grok 
             data-action="toggle-accordions"
             title="Click to toggle the day, Ctrl + click to toggle all."
           >
-            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2024-01-03 datetime="2024-01-03T01:57:21.000Z">2024-01-03</time>
-            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2024-01-03 datetime="2024-01-03T01:57:21.000Z"></time>
-          </button>
-        </h2>
-        <ul class="sources card">
-            <li class="card__section">
-              <section class="js-toggle-accordions-scope">
-                <h3 class="source-heading">
-                  <button
-                    class="source-heading__name"
-                    data-action="toggle-accordions"
-                    title="Click to toggle the source, Ctrl + click to toggle all."
-                  >今日话题 的雪球全部动态</button>
-                  <a class="source-heading__link" href="https://xueqiu.com/u/8152922548">Open</a>
-                </h3>
-                <section class="articles-per-source">
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://xueqiu.com/8152922548/273312929"
-                        open
-                      >
-                        <summary class="article-expander__title">【悬赏】科技创新重要性再升级！科创板或迎来击球区</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://xueqiu.com/8152922548/273312929">
-                          <div class="article-summary-box-inner media-object">
-                            <span class="media-object__text">
-                              <span>#2024年，A股如何布局？#
-近年来面对复杂的外部环境，我国一些高端产业链对外依存度过高、部分关键核心技术受制于人等问题时刻警示我们，科技自立自强不仅是发展问题更是生存问题。
-2018 年以来，贸易摩擦不断，地缘政治冲突持续升级。
-2019 年 5 月 16 日，将华为及其 70 家附属公司列入出口管制“实体清单”，此后对华为施加多轮制裁并限制芯片出口。
-2023 年 1 月宣称将对华为实施第五次限制措施。
-2023年10 月 17 日，更新了“先进计算芯片和半导体制造设备出口管制规则”的三项内容，进一步加严对人工智能相关芯片、半导体制造设备的对华出口限制，并将多家中国实体增列入出口管制“实体清单”。
-在这一背景下，华为 Mate60 系列的推出，标志着华为在突破美国科技封锁方面取得了重大突破。以芯片为首的国产替代已成为大势所趋，也为国产替代科技创新板块带来了结构性主线的投资机会。
-2023年12月召开的经济工作会议将科技战略作为年度任务之首，相比 2022 年、2021 年经济工作会议更加强调科技创新的带头作用，科技政策的表述更加积极。会议特别提到数字经济、人工智能、生物制造、商业航天、低空经济、量子、生命科学、数智技术、绿色技术等领域。随着科技创新对于未来经济增长的促进作用越来越大，逐渐成为新的增长动能。
-目前国内经济方面的积极因素不断增多，叠加政策利好，市场预期有望持续改善，A股市场正处在估值低位，情绪低位，顺势布局科技创新行业，更容易享受到政策加持的红利。
-乘此东风，华夏科创100ETF势头正劲！投硬科技成长赛道，选$科创100ETF华夏(SH588800)$。
-【聚焦“新”经济，高潜力】
-在经济转型、科技战略提升、科技自立自强多重背景下科创板或将更加受益
-科创板与沪深主板、创业板的差别是定位高新技术及战略新兴企业，整个板块行业构成与经济战略转型大方向契合度高。其中新一代信息技术产业上市公司229家占比41%、生物产业上市公司109家占比19%、高端装备制造产业上市公司93家占比17%。
-
-数据来源：wind 2023/10/25
-截至最新科创板共计566只股票，但却有着21.3万的研发人员，相较全部A股5322只股票，科技创新属性突出。
-
-数据来源：wind 2023/6/30
-科创100指数行业分布中，新经济特征显著，经济动能转换、自主可控加速时期，排头兵作用突出。医药生物、电子、电力设备、计算机行业权重占比分别达到30%、19.8%、15.9%和12.8%。先导产业集聚效应显著，能够更好地捕捉经济转型带来的投资机会。
-
-【掘金“硬”科技，更成长】
-作为国内“专精特新”企业成长的摇篮，科创板坚守“硬科技”定位，服务符合国家战略、突破关键核心技术、市场认可度高的科技创新企业挂牌上市。科创100极具创新活力，成分股研发支出占营收比例在11%左右，远高于A股4%水平。
-
-科创100的科技属性显示在高景气的历史业绩上。从历史业绩看，科创100营收增速中枢40%、ROE中枢 10%、研发费率中枢10%，高增长、高盈利、高研发，科技属性明显。业绩预期看，2023E盈利增速为58%，盈利增速领先万得全A、创业板指/科创 50。(数据来源：wind 2023.10.12)
-当前环境利于科创板中小高精尖公司。结合历史看，内部流动性更多定价中小板块，外部流动性更多定价大市值板块。当前内部宽松，外部未确定，流动性看中小板块相对更加受益，成长潜力大。
-
-投硬科技成长赛道，选$科创100ETF华夏(SH588800)$！
-【悬赏互动】
-你认为科创赛道接下来会怎么走？关注$科创100ETF华夏(SH588800)$，截图PO在评论区，带话题标签#2024年，A股如何布局？# 
-+$科创100ETF华夏(SH588800)$说出你的投资观点吧～优秀的评论将获得随即打赏哦～</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;1
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                </section>
-              </section>
-            </li>
-        </ul>
-      </section>
-      <section class="daily-content js-toggle-accordions-scope">
-        <h2 class="daily-heading">
-          <button
-            class="daily-heading-toggle"
-            data-action="toggle-accordions"
-            title="Click to toggle the day, Ctrl + click to toggle all."
-          >
             <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2024-01-02 datetime="2024-01-02T15:30:00.000Z">2024-01-02</time>
             <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2024-01-02 datetime="2024-01-02T15:30:00.000Z"></time>
           </button>
@@ -2709,39 +2728,6 @@ Grok：向世界介绍了 Grok，由 xAI 开发的新型 AI 搜索助手。Grok 
                         </a>
                       </details>
                     </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="http://www.zhihu.com/question/637226339/answer/3344345015"
-                        open
-                      >
-                        <summary class="article-expander__title">中国全年汽车出口超越日本已成定局，将首登世界第一，导致汽车行业竞争格局变化的原因是什么？</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="http://www.zhihu.com/question/637226339/answer/3344345015?utm_campaign&#x3D;rss&amp;utm_medium&#x3D;rss&amp;utm_source&#x3D;rss&amp;utm_content&#x3D;title">
-                          <div class="article-summary-box-inner media-object">
-                            <span class="media-object__text">
-                              <span>中国的这个“世界第一”固然代表了中国汽车产业的发展，但是一方面我们要清醒的认识到这个“世界第一”的背后的真实且残酷的现实，另一方面我们要为更高更宽广的“世界第一”做好充分的准备。
-
-一，正确认识汽车出口量与中日之间汽车品牌国际化之间的关系和真实的力量对比。
-从去年开始，我们就开始关注关于中国汽车出口量的问题。因为去年中国的出口量达到了311.1万量，超越了德国，成为汽车出口量排名第二的国家，仅次于日本（381万台）。那时候我们就基本确定2023年中国会成为出口汽车量最大的国家。今年1-11月，我国出口了441万量汽车，居世界第一已经毋庸置疑了。
-导致中国汽车出口量大增的原因有很多，总结来说我认为有4个主要因素：
-
-中国汽车设计和制造能力不断提升；
-中国车企通过建立海外营销点和收购等做法，不断拓展国际销售渠道，近年来尤其是俄罗斯、中东、南美、南亚等地区多个品牌都有诸多突破；
-中国自身的规模制造优势，叠加目前国内大规模的产能过剩的现状，进一步强化了中国汽车在当地市场的价格优势。
-俄乌战争之后发达国家车企完全撤出俄罗斯市场后，带来的贡献。仅今年头三季度，俄罗斯市场就消化了我们高达62万台的乘用车出口额。
-
-那么中国成为世界上最大的汽车出口国，是否就代表中国汽车的国际影响力已经是世界第一了呢？事实上，恰恰相反，这意味着我们这种本国出口的模式，已经到了危险的尽头。怎么理解这个话？请看我细细说来：
-
-我们来看看，日本自己的统计结果（*注：本段所有销量数据来自FOURIN中国调查部（日本专业汽车产业调查公司）的相关报告，由于企业和车型的统计口径的差异，与我国媒体数据可能存在差异。）
-日本2022年本国生产了784万量汽车，出口了381万辆汽车，居世界第一。然而如果我们站在整个日本品牌制造商的视角，就会发现，日本制造商在日本本土以外还制造并销售了1727万辆汽车。也就是说，日本品牌车企在海…</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;4
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
                 </section>
               </section>
             </li>
@@ -2749,8 +2735,8 @@ Grok：向世界介绍了 Grok，由 xAI 开发的新型 AI 搜索助手。Grok 
       </section>
 
     <footer>
-      <a class="footer-link" href="https://github.com/TiG000/rss0521/actions/runs/7689455151">
-        <time id="build-timestamp" datetime="2024-01-29T00:26:18.000Z">2024-01-29T00:26:18.000Z</time>
+      <a class="footer-link" href="https://github.com/TiG000/rss0521/actions/runs/7704375404">
+        <time id="build-timestamp" datetime="2024-01-30T00:25:58.797Z">2024-01-30T00:25:58.797Z</time>
       </a>
       <a class="footer-link" href="https://github.com/osmoscraft/osmosfeed">osmosfeed 1.15.1</a>
     </footer>
