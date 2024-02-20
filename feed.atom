@@ -1,10 +1,73 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-02-19T00:26:57.367Z</id>
+    <id>urn:2024-02-20T00:25:22.552Z</id>
     <title>osmos::feed</title>
-    <updated>2024-02-19T00:26:57.367Z</updated>
+    <updated>2024-02-20T00:25:22.552Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[当教室突然安静·二——衰减与“静默波”]]></title>
+        <id>http://zhuanlan.zhihu.com/p/681377984</id>
+        <link href="http://zhuanlan.zhihu.com/p/681377984?utm_campaign=rss&amp;utm_medium=rss&amp;utm_source=rss&amp;utm_content=title"/>
+        <updated>2024-02-19T09:22:32.000Z</updated>
+        <summary type="html"><![CDATA[前情提要:
+https://zhuanlan.zhihu.com/p/679862117
+在上篇文章中，我们完成了模型的建立并使用python进行了模拟。然而，受制于python的动态性导致的速度低下，我们只能模拟  的简单情况，而不能模拟真正的传播过程中声音的衰减。于是我使用C++重写了模型。在当前的模型中， 主要代码如下:
+
+#include <bits/stdc++.h>
+using namespace std;
+int length=10;//人阵规模，不得超出10000*10000
+int width=10;
+//下为f二三项
+double A(double a,double b)
+{
+	double y=log1p(a)/log(2)*0.5*(1+tanh(5*(b+1.5)));
+	return y;
+}
+//下为随机函数
+double g(double t)
+{
+	double y=1+tanh(7*(sin((sqrt(3))*0.7*t)+sin((sqrt(5))*0.7*t)+0.332*sin((sqrt(16))*0.7*t)+sin((sqrt(14))*0.7*t)+1.02*sin((sqrt(2.5803)*0.7*t))));
+	return y;
+}
+//这个g2是用来错开各个f的随机初始值，为了省事直接把g里面的部分拿出来了
+double g2(double t)
+{
+	double y=(sin((sqrt(3))*0.7*t)+sin((sqrt(5))*0.7*t)+0.332*sin((sqrt(16))*0.7*t)+sin((sqrt(14))*0.7*t)+1.02*sin((sqrt(2.5803)*0.7*t)));
+	return y;
+}
+//递推步进函数
+double Nextf(int step,vect…]]></summary>
+        <author>
+            <name>BaoPinsUi啊</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Untitled]]></title>
+        <id>https://xueqiu.com/8152922548/278954443</id>
+        <link href="https://xueqiu.com/8152922548/278954443"/>
+        <updated>2024-02-19T03:07:49.000Z</updated>
+        <summary type="html"><![CDATA[转发
+宽基联盟: 聚焦行业龙头 A股核心中的核心
+MSCI中国A50互联互通指数具备较好代表性与优越性，成分股数量仅占全市场1%，但市值占比达全市场29%，营收占比达全市场21%，归母净利润占比到全市场33%。（数据来源：Wind，财务数据截至2023-9-30，数量及市值截至2024-2-5）
+MSCI中国A50互联互通...]]></summary>
+        <author>
+            <name>今日话题 的雪球全部动态</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Untitled]]></title>
+        <id>https://xueqiu.com/8152922548/278954442</id>
+        <link href="https://xueqiu.com/8152922548/278954442"/>
+        <updated>2024-02-19T03:07:49.000Z</updated>
+        <summary type="html"><![CDATA[$A50ETF(SZ159601)$ 龙年看龙头 一起猜涨跌，快来参与吧！
+宽基联盟: 聚焦行业龙头 A股核心中的核心
+MSCI中国A50互联互通指数具备较好代表性与优越性，成分股数量仅占全市场1%，但市值占比达全市场29%，营收占比达全市场21%，归母净利润占比到全市场33%。（数据来源：Wind，财务数据截至2023-9-30，数量及市值截至2024-2-5）
+MSCI中国A50互联互通...]]></summary>
+        <author>
+            <name>今日话题 的雪球全部动态</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[有些什么普遍被认为不能被科学解释的问题其实已经被科学解释了？]]></title>
         <id>http://www.zhihu.com/question/24585559/answer/3396345556</id>
@@ -72,7 +135,7 @@
 来源：知乎 www.zhihu.com
 缘是你吖
 点击下载
-812 个回答，查看全部。
+814 个回答，查看全部。
 龙年新春祝福?
 最实在、最亲切的新春祝福是什么？]]></summary>
         <author>
@@ -417,7 +480,7 @@ AI工具变现
 来源：知乎 www.zhihu.com
 Moonlight
 点击下载
-520 个回答，查看全部。
+524 个回答，查看全部。
 ChatGPT有什么神回答？
 ChatGPT 到底有多厉害？]]></summary>
         <author>
@@ -925,7 +988,7 @@ EP19-20：对身体的控制论
 来源：知乎 www.zhihu.com
 乌合之野
 点击下载
-4 个回答，查看全部。
+6 个回答，查看全部。
 喜羊羊与灰太狼还有多少人记得？
 喜羊羊与灰太狼有多强？]]></summary>
         <author>

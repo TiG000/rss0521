@@ -22,6 +22,139 @@
             data-action="toggle-accordions"
             title="Click to toggle the day, Ctrl + click to toggle all."
           >
+            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2024-02-19 datetime="2024-02-19T09:22:32.000Z">2024-02-19</time>
+            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2024-02-19 datetime="2024-02-19T09:22:32.000Z"></time>
+          </button>
+        </h2>
+        <ul class="sources card">
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >知乎每日精选</button>
+                  <a class="source-heading__link" href="http://www.zhihu.com">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="http://zhuanlan.zhihu.com/p/681377984"
+                        open
+                      >
+                        <summary class="article-expander__title">当教室突然安静·二——衰减与“静默波”</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="http://zhuanlan.zhihu.com/p/681377984?utm_campaign&#x3D;rss&amp;utm_medium&#x3D;rss&amp;utm_source&#x3D;rss&amp;utm_content&#x3D;title">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://pic1.zhimg.com/v2-4ef9f32cb317552ae9dbae6893729172_720w.jpg?source&#x3D;172ae18b" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>前情提要:
+https://zhuanlan.zhihu.com/p/679862117
+在上篇文章中，我们完成了模型的建立并使用python进行了模拟。然而，受制于python的动态性导致的速度低下，我们只能模拟  的简单情况，而不能模拟真正的传播过程中声音的衰减。于是我使用C++重写了模型。在当前的模型中， 主要代码如下:
+
+#include 
+using namespace std;
+int length&#x3D;10;//人阵规模，不得超出10000*10000
+int width&#x3D;10;
+//下为f二三项
+double A(double a,double b)
+{
+	double y&#x3D;log1p(a)/log(2)*0.5*(1+tanh(5*(b+1.5)));
+	return y;
+}
+//下为随机函数
+double g(double t)
+{
+	double y&#x3D;1+tanh(7*(sin((sqrt(3))*0.7*t)+sin((sqrt(5))*0.7*t)+0.332*sin((sqrt(16))*0.7*t)+sin((sqrt(14))*0.7*t)+1.02*sin((sqrt(2.5803)*0.7*t))));
+	return y;
+}
+//这个g2是用来错开各个f的随机初始值，为了省事直接把g里面的部分拿出来了
+double g2(double t)
+{
+	double y&#x3D;(sin((sqrt(3))*0.7*t)+sin((sqrt(5))*0.7*t)+0.332*sin((sqrt(16))*0.7*t)+sin((sqrt(14))*0.7*t)+1.02*sin((sqrt(2.5803)*0.7*t)));
+	return y;
+}
+//递推步进函数
+double Nextf(int step,vect…</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;5
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >今日话题 的雪球全部动态</button>
+                  <a class="source-heading__link" href="https://xueqiu.com/u/8152922548">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://xueqiu.com/8152922548/278954443"
+                        open
+                      >
+                        <summary class="article-expander__title">Untitled</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://xueqiu.com/8152922548/278954443">
+                          <div class="article-summary-box-inner media-object">
+                            <span class="media-object__text">
+                              <span>转发
+宽基联盟: 聚焦行业龙头 A股核心中的核心
+MSCI中国A50互联互通指数具备较好代表性与优越性，成分股数量仅占全市场1%，但市值占比达全市场29%，营收占比达全市场21%，归母净利润占比到全市场33%。（数据来源：Wind，财务数据截至2023-9-30，数量及市值截至2024-2-5）
+MSCI中国A50互联互通...</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;1
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://xueqiu.com/8152922548/278954442"
+                        open
+                      >
+                        <summary class="article-expander__title">Untitled</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://xueqiu.com/8152922548/278954442">
+                          <div class="article-summary-box-inner media-object">
+                            <span class="media-object__text">
+                              <span>$A50ETF(SZ159601)$ 龙年看龙头 一起猜涨跌，快来参与吧！
+宽基联盟: 聚焦行业龙头 A股核心中的核心
+MSCI中国A50互联互通指数具备较好代表性与优越性，成分股数量仅占全市场1%，但市值占比达全市场29%，营收占比达全市场21%，归母净利润占比到全市场33%。（数据来源：Wind，财务数据截至2023-9-30，数量及市值截至2024-2-5）
+MSCI中国A50互联互通...</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;1
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
+        </ul>
+      </section>
+      <section class="daily-content js-toggle-accordions-scope">
+        <h2 class="daily-heading">
+          <button
+            class="daily-heading-toggle"
+            data-action="toggle-accordions"
+            title="Click to toggle the day, Ctrl + click to toggle all."
+          >
             <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2024-02-18 datetime="2024-02-18T08:46:22.000Z">2024-02-18</time>
             <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2024-02-18 datetime="2024-02-18T08:46:22.000Z"></time>
           </button>
@@ -120,7 +253,7 @@
 来源：知乎 www.zhihu.com
 缘是你吖
 点击下载
-812 个回答，查看全部。
+814 个回答，查看全部。
 龙年新春祝福?
 最实在、最亲切的新春祝福是什么？</span>
                                 &ensp;<span class="article-reading-time">(&hairsp;3
@@ -241,7 +374,7 @@ Sora意味着AGI实现将从10年缩短到1年
                         <summary class="article-expander__title">看完“热辣滚烫”聊一聊健身的目的和途径</summary>
                         <a class="article-summary-link article-summary-box-outer" href="http://zhuanlan.zhihu.com/p/682134877?utm_campaign&#x3D;rss&amp;utm_medium&#x3D;rss&amp;utm_source&#x3D;rss&amp;utm_content&#x3D;title">
                           <div class="article-summary-box-inner media-object">
-                              <img src="https://pic1.zhimg.com/v2-37d2abe5f00715267758ca2cf746c2de_720w.jpg?source&#x3D;172ae18b" loading="lazy" class="media-object__media article-image" />
+                              <img src="https://picx.zhimg.com/v2-37d2abe5f00715267758ca2cf746c2de_720w.jpg?source&#x3D;172ae18b" loading="lazy" class="media-object__media article-image" />
                             <span class="media-object__text">
                               <span>看了贾玲导演并主演的“热辣滚烫”，说实话挺震撼的，虽说是一部翻拍片，大体上故事脉络和“百元之恋”一致，但剧情的本土化修改、讲故事的节奏、演员的表现力、背景音乐的编排等都让人印象深刻，当然也包括目前舆论热度最高的——贾玲为了诠释角色先增肥、再减重，在大半年里上下波动100斤的体重。
 对此，我有以下几点想说的：
@@ -799,7 +932,7 @@ AI工具变现
 来源：知乎 www.zhihu.com
 Moonlight
 点击下载
-520 个回答，查看全部。
+524 个回答，查看全部。
 ChatGPT有什么神回答？
 ChatGPT 到底有多厉害？</span>
                                 &ensp;<span class="article-reading-time">(&hairsp;4
@@ -1244,7 +1377,7 @@ iOS用户现在就可以将第三方网络浏览器（而非Safari浏览器）�
                         <summary class="article-expander__title">当教室突然安静——扰动，突变与回复</summary>
                         <a class="article-summary-link article-summary-box-outer" href="http://zhuanlan.zhihu.com/p/679862117?utm_campaign&#x3D;rss&amp;utm_medium&#x3D;rss&amp;utm_source&#x3D;rss&amp;utm_content&#x3D;title">
                           <div class="article-summary-box-inner media-object">
-                              <img src="https://pic1.zhimg.com/v2-55470165b9d27bd65468130f75cce279_720w.jpg?source&#x3D;172ae18b" loading="lazy" class="media-object__media article-image" />
+                              <img src="https://pica.zhimg.com/v2-55470165b9d27bd65468130f75cce279_720w.jpg?source&#x3D;172ae18b" loading="lazy" class="media-object__media article-image" />
                             <span class="media-object__text">
                               <span>作为学生，我想各位读者们应该在读书学习的时候多少经历过“原本嘈杂的教室突然变的鸦雀无声”的现象。对此已有相当多的答主做出了定性的解释:
 1.嘈杂的人群说话的空隙偶然重叠会导致音量的突然下降
@@ -1654,7 +1787,7 @@ EP19-20：对身体的控制论
 来源：知乎 www.zhihu.com
 乌合之野
 点击下载
-4 个回答，查看全部。
+6 个回答，查看全部。
 喜羊羊与灰太狼还有多少人记得？
 喜羊羊与灰太狼有多强？</span>
                                 &ensp;<span class="article-reading-time">(&hairsp;6
@@ -1818,8 +1951,8 @@ $科创100指数ETF(SH588030)$ 今日早盘当前跌幅1%，盘中成交额达1.
       </section>
 
     <footer>
-      <a class="footer-link" href="https://github.com/TiG000/rss0521/actions/runs/7952812278">
-        <time id="build-timestamp" datetime="2024-02-19T00:26:57.350Z">2024-02-19T00:26:57.350Z</time>
+      <a class="footer-link" href="https://github.com/TiG000/rss0521/actions/runs/7966651422">
+        <time id="build-timestamp" datetime="2024-02-20T00:25:22.535Z">2024-02-20T00:25:22.535Z</time>
       </a>
       <a class="footer-link" href="https://github.com/osmoscraft/osmosfeed">osmosfeed 1.15.1</a>
     </footer>
