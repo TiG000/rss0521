@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-03-02T00:24:40.387Z</id>
+    <id>urn:2024-03-03T00:27:50.011Z</id>
     <title>osmos::feed</title>
-    <updated>2024-03-02T00:24:40.387Z</updated>
+    <updated>2024-03-03T00:27:50.011Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[健身&amp;早餐、工作电脑&amp;个人数据]]></title>
+        <id>https://www.skyue.com/24030212.html</id>
+        <link href="https://www.skyue.com/24030212.html"/>
+        <updated>2024-03-02T04:33:00.000Z</updated>
+        <summary type="html"><![CDATA[健身&早餐近两年明显感觉到身体素质变差，因此近期在找健身房，准备恢复身体锻炼。公司有一些合作的健身房，可以免费使用，但离公司最近的也超过2公里，不够方便。考虑到健身是一件非常难坚持的事，一定要越...]]></summary>
+        <author>
+            <name>拾月</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[如何评价张艺谋的《第二十条》？]]></title>
         <id>http://www.zhihu.com/question/639190230/answer/3394425243</id>
@@ -1150,7 +1160,7 @@ AI工具变现
 来源：知乎 www.zhihu.com
 Moonlight
 点击下载
-596 个回答，查看全部。
+600 个回答，查看全部。
 ChatGPT有什么神回答？
 ChatGPT 到底有多厉害？]]></summary>
         <author>
@@ -1222,16 +1232,6 @@ ChatGPT 到底有多厉害？]]></summary>
 有没有一眼感觉就再也忘不掉的老照片？]]></summary>
         <author>
             <name>刘添祺</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[新工作、100天、四季青、南昌、香山教寺]]></title>
-        <id>https://www.skyue.com/24020120.html</id>
-        <link href="https://www.skyue.com/24020120.html"/>
-        <updated>2024-02-01T12:55:00.000Z</updated>
-        <summary type="html"><![CDATA[这次断更有点久，再不更都要过年了。新工作前文提到我要回杭州了，回来后无缝加入了字节杭州，折腾一圈又回了大厂，终究逃不出大厂螺丝钉的命运。体验了三周字节的生活，「字节一年，人间三年」所言非虚，节奏...]]></summary>
-        <author>
-            <name>拾月</name>
         </author>
     </entry>
 </feed>
