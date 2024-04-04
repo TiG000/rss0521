@@ -140,9 +140,9 @@
           "description": "Sora生成的视频效果好吗？确实好。Sora算得上AGI发展历程上的里程碑吗？我个人觉得算。我们知道它效果好就行了，有必要知道Sora到底是怎么做的吗？我觉得最好是每个人能有知情的选择权，任何想知道的人都能够知道，这种状态比较好。那我们知道Sora到底是怎么做出来的吗？不知道。\n马斯克讽刺OpenAI是CloseAI，为示道不同，转头就把Grok开源了。且不论Grok效果是否足够好，马斯克此举是否有表演成分，能开源出来这行为就值得称赞。OpenAI树大招风，目前被树立成技术封闭的头号代表，想想花了上亿美金做出来的大模型，凭啥要开源？不开源确实也正常。所谓“开源固然可赞，闭源亦可理解”。\n但是，我个人一年多来的感觉，OpenAI技术强归强，然而有逐渐把技术神秘化的倾向，如果不信您可以去读一下Altman的各种访谈。在这个AI技术越来越封闭的智能时代，技术神秘化导向的自然结果就是盲目崇拜，智能时代所谓的“信息平权”或只能成梦想。我不认为这是一个好的趋势，我发自内心地尊敬对技术开放作出任何贡献的人或团体，且认为对技术神秘化的去魅，这应该是AI技术从业者值得追求的目标。\n本文试图尽我所能地以通俗易懂的方式来分析Sora的可能做法，包括它的整体结构以及关键组件。我希望即使您不太懂技术，也能大致看明白Sora的可能做法，所以画了几十张图来让看似复杂的机制更好理解，如果您看完对某部分仍不理解，那是我的问题。\nKey Messages\n这部分把本文关键信息列在这里，特供给没空或没耐心看长文的同学，当然我觉得您光看这些估计也未必能看明白。\nKey Message 1:  Sora的整体结构如下（本文后续有逐步推导过程）\n\nKey Message 2:  Sora的Visual Encoder-Decoder很可能采用了TECO（Temporally Consistent Transforme…",
           "link": "http://zhuanlan.zhihu.com/p/687928845?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
           "publishedOn": "2024-03-20T03:33:48.000Z",
-          "wordCount": 5142,
+          "wordCount": 5144,
           "title": "技术神秘化的去魅：Sora关键技术逆向工程图解",
-          "imageUrl": "https://pic1.zhimg.com/v2-317e64c3715a6f0a47445936e2d15f70_720w.jpg?source=172ae18b"
+          "imageUrl": "https://picx.zhimg.com/v2-317e64c3715a6f0a47445936e2d15f70_720w.jpg?source=172ae18b"
         },
         {
           "id": "http://www.zhihu.com/question/648513817/answer/3430586920",
@@ -202,16 +202,6 @@
           "publishedOn": "2024-03-07T03:00:24.000Z",
           "wordCount": 1388,
           "title": "台湾人怎么看《周处除三害》在大陆火爆?",
-          "imageUrl": null
-        },
-        {
-          "id": "http://www.zhihu.com/question/491885658/answer/3205581687",
-          "author": "红烧猪头",
-          "description": "我很难抉择，最终选择英国大神彼得·丹尼斯（Peter Dennis）。\n彼得大爷出生于1950年，今年73岁，是一位老牌军事历史题材画家，常年供稿于osprey社、helion社等多家欧美军史类书籍出版社，也是一位多产的模型封绘画师和战棋设计师。作品以考据严谨(至少欧美题材是这样的，你就别计较下图中武藏坊弁庆作为镰仓时代的人穿的铠甲上为什么会有锁甲笼手这种事情了)、细节丰富、色彩明艳（有别于一些画风灰暗的军事题材插画家）而著称。\n本人照片：\n\n自画像：\n\n======部分作品欣赏（均为高清格式，可放大看细节）========\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n来源：知乎 www.zhihu.com\n红烧猪头\n点击下载\n37 个回答，查看全部。\n你最喜欢的一位插画师是谁？\n你最喜欢的三位插画师是谁？",
-          "link": "http://www.zhihu.com/question/491885658/answer/3205581687?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
-          "publishedOn": "2024-03-05T05:43:29.000Z",
-          "wordCount": 3429,
-          "title": "你最喜欢的插画师是谁？",
           "imageUrl": null
         }
       ]
