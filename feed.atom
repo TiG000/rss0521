@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-04-21T00:29:24.200Z</id>
+    <id>urn:2024-04-22T00:28:21.241Z</id>
     <title>osmos::feed</title>
-    <updated>2024-04-21T00:29:24.200Z</updated>
+    <updated>2024-04-22T00:28:21.241Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[我的博客主题]]></title>
+        <id>https://www.skyue.com/24042118.html</id>
+        <link href="https://www.skyue.com/24042118.html"/>
+        <updated>2024-04-21T10:31:00.000Z</updated>
+        <summary type="html"><![CDATA[经常有人问我博客主题的事，写篇文章介绍一下，也算是个备份。我使用的是Typecho程序，主题也是在Typecho默认主题上稍加修复得到的。1、修改字体本站使用了鹜霞文楷字体。首先，在主题head...]]></summary>
+        <author>
+            <name>拾月</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[普陀山、南瓜生日、泉州]]></title>
+        <id>https://www.skyue.com/24042115.html</id>
+        <link href="https://www.skyue.com/24042115.html"/>
+        <updated>2024-04-21T07:03:00.000Z</updated>
+        <summary type="html"><![CDATA[没想到断更一个半月有余，南瓜也开始催更了，哈哈。工作电脑卸载Obsidan后，午休这样的时间也不方便写东西，今天周日，专门赶到先锋云夕图书馆来闭关，定要把最近一些事情写一写。普陀山3月南瓜的妈妈...]]></summary>
+        <author>
+            <name>拾月</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[IMDb250观影计划]]></title>
         <id>https://www.williamlong.info/archives/7422.html</id>
@@ -96,7 +116,7 @@ jiu˨˩ kˁaŋ˧˩ lɑɣ˥ | bvɑm˩˦ lɨuŋ˨˩ tʃɨu˧˩ ‖
 来源：知乎 www.zhihu.com
 幹间建见罐惯卷涓
 点击下载
-637 个回答，查看全部。
+642 个回答，查看全部。
 到底什么是中国人特有的浪漫？
 中国人的浪漫是什么样的？]]></summary>
         <author>
@@ -388,7 +408,7 @@ PS，转一条他们获得普利兹克奖时候的回答：
 
 ShuoJiong
 点击下载
-117 个回答，查看全部。
+118 个回答，查看全部。
 筒子楼的装修风格都有哪些推荐？
 筒子楼的装修风格都有哪些选择？]]></summary>
         <author>
@@ -1220,7 +1240,7 @@ Scales are often misunderstood as being mere technical exercises. In fact, a sca
 来源：知乎 www.zhihu.com
 知乎用户（登录查看详情）
 点击下载
-1824 个回答，查看全部。
+1825 个回答，查看全部。
 这块玉有多少价值？
 这块玉是真的吗？价值多少？]]></summary>
         <author>
