@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-05-04T00:26:21.442Z</id>
+    <id>urn:2024-05-05T00:29:29.638Z</id>
     <title>osmos::feed</title>
-    <updated>2024-05-04T00:26:21.442Z</updated>
+    <updated>2024-05-05T00:29:29.638Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -425,7 +425,7 @@ jiu˨˩ kˁaŋ˧˩ lɑɣ˥ | bvɑm˩˦ lɨuŋ˨˩ tʃɨu˧˩ ‖
 来源：知乎 www.zhihu.com
 幹间建见罐惯卷涓
 点击下载
-707 个回答，查看全部。
+715 个回答，查看全部。
 到底什么是中国人特有的浪漫？
 中国人的浪漫是什么样的？]]></summary>
         <author>
@@ -1298,40 +1298,6 @@ https://www.zhihu.com/video/1757783134639554560
 谈谈你对公司未来发展的看法吧！]]></summary>
         <author>
             <name>今日话题 的雪球全部动态</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[谷歌DeepMind推出Mixture of Depths]]></title>
-        <id>https://www.williamlong.info/archives/7419.html</id>
-        <link href="https://www.williamlong.info/archives/7419.html"/>
-        <updated>2024-04-05T09:04:36.000Z</updated>
-        <summary type="html"><![CDATA[日前有消息显示，谷歌DeepMind方面发布的Mixture-of-Depths（MoD），改变了以往Transformer架构的计算模式。
-
-
-据了解，通过动态分配大模型中的FLOPs（运算次数或计算资源），优化不同层次模型深度中的分配，限制给定层的自注意力和MLP计算的token数量，MoD可跳过一些不必要计算，迫使神经网络学会主要关注真正重要的信息， 实现只给需要准确预测的token分配更多计算资源，从而显著提高训练效率和推理速度。
-
-
-例如，虽然预测下一个句子的内容很难，但预测句子结束的标点符号很简单，如果给两者分配同样的计算资源，那么后者明显会浪费资源、而MoD则可避免这种情况。
-
-
-据谷歌方面发布的相关测试结果显示，在等效计算量和训练时间上，MoD每次向前传播所需的计算量更小，而且后训练采样过程中步进速度提高50%。
-
-
-据了解，谷歌研究团队还探讨了MoD和MoE结合的可能性MoDE，而且结果表明而这一结合能提供更好的性能和更快的推理速度。
-
-
-此外值得一提的是，为解决AI幻觉问题，不久前谷歌DeepMind还与斯坦福大学联合开了一款AI事实核查工具“搜索增强事实评估器”（Search-Augmented Factuality Evaluator，SAFE）。
-
-
-据了解，SAFE可通过四个步骤对AI聊天机器人生成的回复进行分析、处理和评估，以验证其准确性和真实性。具体而言，SAFE首先会将回复分割成多个单个待核查内容、对上述内容进行修正，然后再与谷歌搜索结果进行比较。随后，SAFE还会检查各个事实与原始问题的相关性。
-
-
-为评估SAFE性能，谷歌方面的研究人员还创建了包含约16000个事实的数据集LongFact，并在包括Claude、Gemini、GPT、PaLM-2在内的13个大语言模型上测试了这一工具。结果显示，在对100个有争议事实进行的重点分析中，SAFE的判定在进一步审查下正确率达到76% 。与此同时，SAFE还具备显著的经济性优势，即其成本比人工注释便宜20多倍。
-
-
-稿源：新浪网]]></summary>
-        <author>
-            <name>user@gmail.com (guest)</name>
         </author>
     </entry>
 </feed>
