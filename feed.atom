@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-05-26T00:31:00.957Z</id>
+    <id>urn:2024-05-27T00:29:26.310Z</id>
     <title>osmos::feed</title>
-    <updated>2024-05-26T00:31:00.957Z</updated>
+    <updated>2024-05-27T00:29:26.310Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[再谈ARC浏览器：文件夹是操作系统的延续]]></title>
+        <id>https://www.skyue.com/24052613.html</id>
+        <link href="https://www.skyue.com/24052613.html"/>
+        <updated>2024-05-26T05:02:00.000Z</updated>
+        <summary type="html"><![CDATA[2022年，ARC浏览器刚出来时，作为公测用户写过一篇测评文章，但没有继续深入使用。现在工作越来越线上化，Chrome开的标签页非常多，管理不方便。我常用「关闭右侧标签页」功能关闭多余标签，以聚...]]></summary>
+        <author>
+            <name>拾月</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[名画pk决赛：当名画《清明上河图》PK《千里江山图》，你觉得哪幅画在你心中更胜一筹？]]></title>
         <id>http://www.zhihu.com/question/656999935/answer/3509102960</id>
@@ -49,7 +59,7 @@
 来源：知乎 www.zhihu.com
 越活越不明白
 点击下载
-78 个回答，查看全部。
+79 个回答，查看全部。
 当名画《清明上河图》PK《后赤壁赋图》，你觉得哪幅画在你心中更胜一筹？
 《清明上河图》和凡高最好的一幅画，哪一幅画更贵？]]></summary>
         <author>
@@ -366,7 +376,7 @@ Nadeau, K.G, Career choices and workplace challenges for individuals with ADHD. 
 来源：知乎 www.zhihu.com
 天气预报
 点击下载
-1 个回答，查看全部。
+2 个回答，查看全部。
 画家中谁画的女性是真正的女神？
 有哪些画作是绘画女性的？]]></summary>
         <author>
@@ -823,7 +833,7 @@ Erwin Chen
 来源：知乎 www.zhihu.com
 ForWhatTheyWere
 点击下载
-1836 个回答，查看全部。
+1837 个回答，查看全部。
 历史上有哪些特别的人物？
 历史上有哪些很厉害但很少人知道的人物？]]></summary>
         <author>
