@@ -98,7 +98,7 @@
 来源：知乎 www.zhihu.com
 编辑部小李
 点击下载
-183 个回答，查看全部。
+215 个回答，查看全部。
 怎样用知乎学习到有关高考的内容？
 马上要高考了，你还在刷知乎，能考多少？</span>
                                 &ensp;<span class="article-reading-time">(&hairsp;2
@@ -323,7 +323,7 @@ Embark Studios &amp; TheFinals
 
 远夏
 点击下载
-675 个回答，查看全部。
+688 个回答，查看全部。
 人类保护海洋环境的主要手段有哪些？
 如何正确的保护海洋环境？</span>
                                 &ensp;<span class="article-reading-time">(&hairsp;2
@@ -378,7 +378,7 @@ Embark Studios &amp; TheFinals
 来源：知乎 www.zhihu.com
 免渡河
 点击下载
-675 个回答，查看全部。
+688 个回答，查看全部。
 人类保护海洋环境的主要手段有哪些？
 如何正确的保护海洋环境？</span>
                                 &ensp;<span class="article-reading-time">(&hairsp;2
@@ -438,7 +438,7 @@ Embark Studios &amp; TheFinals
 来源：知乎 www.zhihu.com
 檀健次
 点击下载
-675 个回答，查看全部。
+688 个回答，查看全部。
 人类保护海洋环境的主要手段有哪些？
 如何正确的保护海洋环境？</span>
                                 &ensp;<span class="article-reading-time">(&hairsp;2
@@ -635,6 +635,9 @@ Embark Studios &amp; TheFinals
 对于“善与恶的标准”，功利主义的判断标准是看行为造成的结果，如果行为的结果符合大部分人的利益，就是善，如果行为的结果不符合大部分人的利益，就是恶。举例来说，利人利己的行为就是善行，损人不利己的行为就是恶行。
 
 
+
+
+
 刘峰
 
 
@@ -647,7 +650,7 @@ Embark Studios &amp; TheFinals
 如果从功利主义的角度看，刘峰所谓的“活雷锋做好事”，其实并不是做“善事”。
 
 
-善有几种，利人利己是大善，利人不利己和不利人利己都是小善，刘峰做的是“利人…</span>
+善有几种，利人利己是大善，利人不利己和不利人利己都是小善，刘峰做…</span>
                             </span>
                           </div>
                         </a>
@@ -2479,256 +2482,10 @@ ForWhatTheyWere
             </li>
         </ul>
       </section>
-      <section class="daily-content js-toggle-accordions-scope">
-        <h2 class="daily-heading">
-          <button
-            class="daily-heading-toggle"
-            data-action="toggle-accordions"
-            title="Click to toggle the day, Ctrl + click to toggle all."
-          >
-            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2024-05-11 datetime="2024-05-11T03:57:41.000Z">2024-05-11</time>
-            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2024-05-11 datetime="2024-05-11T03:57:41.000Z"></time>
-          </button>
-        </h2>
-        <ul class="sources card">
-            <li class="card__section">
-              <section class="js-toggle-accordions-scope">
-                <h3 class="source-heading">
-                  <button
-                    class="source-heading__name"
-                    data-action="toggle-accordions"
-                    title="Click to toggle the source, Ctrl + click to toggle all."
-                  >知乎每日精选</button>
-                  <a class="source-heading__link" href="http://www.zhihu.com">Open</a>
-                </h3>
-                <section class="articles-per-source">
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="http://zhuanlan.zhihu.com/p/673888668"
-                        open
-                      >
-                        <summary class="article-expander__title">你管这破玩意叫指针？</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="http://zhuanlan.zhihu.com/p/673888668?utm_campaign&#x3D;rss&amp;utm_medium&#x3D;rss&amp;utm_source&#x3D;rss&amp;utm_content&#x3D;title">
-                          <div class="article-summary-box-inner media-object">
-                            <span class="media-object__text">
-                              <span>内存，通常被严谨地画成下面这个样子，一个下方是低地址上方是高地址的格子楼。
-
-
-
-但我今天换种画法，画成下面这个样子。
-
-
-
-每个格子代表内存中的 1 个字节（8 位），格子上的数字就代表内存地址，我也直接用 10 进制来表示了，免得 16 进制又算不明白了。
-目前内存是完全空的，格子里没有任何内容。
-试想一下，如果你忘掉所有的语法规则和编程规范，你会如何描述对这些内存格子的操作呢？
-一、类型系统
-很简单，往格子 3 处放个数字 29，往格子 6 处放个数字 38，就这么简单直接地描述即可。
-
-
-
-但是这样说话太麻烦了，什么往格子 3 处放个数字 29 的，废话太多，也不方便不讲感情的计算机去理解。
-那我们就定个指令，使用 mov $x, (y) 表示把数字 x 放入格子 y，如下：
-
-mov $29, (3)
-mov $38, (6)
-
-
-这就表示刚刚说的：
-
-把数字 29 放入内存格子 3
-把数字 38 放入内存格子 6
-
-
-是不是太简单了？别急，好戏马上开始！
-如果要把数字 999 放入内存格子 8，该怎么办呢？
-由于 1 个格子表示 1 个字节，只有 8 位，因此只能表示 256 个数字，要么是有符号的 -128 ~ 127，要么是无符号的 0 ~255，显然数字 999 无法放在 1 个格子内，只能占用 2 个格子了。
-那也好办，就这么说，把数字 999 放入格子 8，连续占用两个格子。
-
-
-
-但这样，我们刚刚的 mov 指令就得改改了，不但要表示&quot;存放&quot;这个含义，还得表示占用了多少个格子。
-我们用 movb 表示只占 1 个字节，用 movw 表示占用 2 个字节。那么，刚刚的三个数字，就分别可以这样用指令来表示了：
-
-movb $29, (3)
-movb $38, (6)
-movw $999, (8)
-
-
-含义就是：
-
-把数字 29 放入内存格子 3，占 1 …</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;2
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="http://www.zhihu.com/question/654055226/answer/3478750257"
-                        open
-                      >
-                        <summary class="article-expander__title">若由你来提名一幅能参加「名画PK大赛」的美术画作，你会挑哪张呢？</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="http://www.zhihu.com/question/654055226/answer/3478750257?utm_campaign&#x3D;rss&amp;utm_medium&#x3D;rss&amp;utm_source&#x3D;rss&amp;utm_content&#x3D;title">
-                          <div class="article-summary-box-inner media-object">
-                            <span class="media-object__text">
-                              <span>立场和情緒看我签名。我答过类似题目，艺术不适合比賽。
-此题还只限经典作品。必会出现“画得像、配色和透视正确”。
-这些标准对当下的严肃艺术，而不是流行艺术与应用艺术来说，有调教之外的意义吗？
-中国为什么没有世界出名，震撼人心的现当代艺术作品？艺协的艺术家为什么净是内战内行，外战外行？
-
-還一群人回“必须”梵高。做题家上身了。
-西方因为梵高的“牺牲”后，有了毕加索、杜尚和博伊斯。而剪中吃完瓜，继续骂现代和当代艺术……
-为什么很多艺术家的人生都充满了不幸？
-当代艺术需要打破探索先锋，而不仅是好看好懂卖惨奶头乐。
-
-
-过去的艺术进入美术馆被朝圣以及被商业化消遣。
-今天那些恰好长得不好看和不友好的艺术，很可能被市场「杀死」和「饿死」。
-不是说艺术家好看好懂的表达就不是好的当代艺术。反之，不好看不好懂也不是為了和誰對立，只因那是適合於藝術家的表達。
-
-搞艺术科普的，一味迎合流量和下沉市场，永远只写喜闻乐见的过去的美术史。
-科普和学习美术史本身没问题——经验越多才知道什么是好的，知道什么是已经被人做过的。
-但一直让受众和市场止步于舒适区，只关注舒服好看治愈，只学习过去，只注重技法。没有反思，没有人的主动改变和创造，这样的「艺术家」再厉害，连弱AI都斗不过。
-作為人类本應可能的自由和想象力會失去。
-奶头乐赚大发、艺术用于生活不是不可以，毕竟活下去才有希望。
-https://zhuanlan.zhihu.com/p/669790404
-我就是因为这里的奶头乐更好才来的，来了后发现这里的严肃艺术也维持着多样性，给了我成为艺术家的机会。
-所以我会吐槽过于比烂的奶头质量。维护那些不肤浅和难解的多样化文化。
-
-因为没赞就没人看到也沒法參賽，所以我順便提名我在知乎最多赞的答案。
-可以只为这幅作品点赞答案。
-！和 ？ 了500年的三联画《人间乐园》——耶罗尼米斯·博斯（Hieronymus Bosch，1452年－1516年8月）。
-
-
-他一生幸福美满，却心存各种隐蔽癖好。
-亮点和槽点足够让审美密集恐惧主义者高潮迭起。
-
-
-
-1 、画作于1500年左右，世纪末总有人惊叹人类要灭亡，艺术家倾向末日狂欢，参看1890年代的巴黎。
-
-
-2、哥伦布1492年发现新大陆，带来了奇怪的物种——例如草莓，也带来新大陆上的异闻——野蛮男女、奇怪景观。
-
-
-3、博斯13岁时目睹了烧毁了4000座房子的可怕火灾，所以酷刑火灾什么的，到底是画家的癖好还是阴影？
-
-
-为免出事，移步链接，从天堂-人间-炼狱分解来慢慢看？
-有哪些令人叹为观止的细节？
-
-天堂是纯洁的伏笔
-简单安静的配色，如梦的超时空。
-
-
- 
-开始看书的、象征异端的鱼身鸭嘴兽，已准备坠入暗黑的深渊。
-
-人间的怪兽play
-动物的比例失实后，沉浸感大增。
-它们边卖萌边做羞羞的事情。
-人和野兽的界限到底在哪里？
-
-
-
-
-
-
-除了一部分能飞起来的人，更多人只是蜂拥而上、没有辨识度 ，害怕落单。
-为追逐欲望，被一时甜头吞噬，再看不到其他。
-
-
-
-报应不爽的地狱
-有几风流就有几折堕。
-突然天昏地暗，随着博斯记忆中的大火开始炼狱之旅。
-
-
-
-最舒服的刑罚是被吃掉，然后被排出来。
-或者选择被猪亲吻。
-小挑战：整幅炼狱的画里能找齐七重罪。
-
-
-
-
-
-
-在这里找到天堂消失的耳朵君，它已惨遭一把名为Ω（希腊字母表最后一个字母，象征终结）的刀迫害。
-
-
-
-走之前记得点赞，否则我的喷就没人看到。
-
-来源：知乎 www.zhihu.com
-spRachel雷切爾
-点击下载
-120 个回答，查看全部。
-美术史如何鉴赏一副画?
-美术鉴赏一幅不出名的作品应该如何鉴赏？</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;2
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                </section>
-              </section>
-            </li>
-            <li class="card__section">
-              <section class="js-toggle-accordions-scope">
-                <h3 class="source-heading">
-                  <button
-                    class="source-heading__name"
-                    data-action="toggle-accordions"
-                    title="Click to toggle the source, Ctrl + click to toggle all."
-                  >今日话题 的雪球全部动态</button>
-                  <a class="source-heading__link" href="https://xueqiu.com/u/8152922548">Open</a>
-                </h3>
-                <section class="articles-per-source">
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://xueqiu.com/8152922548/289594875"
-                        open
-                      >
-                        <summary class="article-expander__title">极氪赴美上市，全球新能源转型的里程碑，重估中国新能源汽车全球价值，你怎么看极氪未来的潜力？</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://xueqiu.com/8152922548/289594875">
-                          <div class="article-summary-box-inner media-object">
-                            <span class="media-object__text">
-                              <span>2024年5月4日，极氪向美国SEC证券交易委员会提交了更新后的红鲱鱼版招股书，计划以“ZK”为股票代码在纽交所挂牌上市。招股书显示，极氪将发行1750万股ADS（美国存托股），每份ADS对应10股普通股，发行价格区间为每股ADS 18至21美元。
-极氪是吉利控股于2021年4月15日发布的豪华纯电品牌。吉利控股集团是全球化水平最高的中国民营车企，有37年深厚积累，在全球有超12万员工，三分之一在欧洲，成功加入国际汽车标准合作组织IATF，成为史上第一个亚洲车企会员。
-据招股书披露，极氪总营收增长迅速，2021年、2022年、2023年极氪总营业收入分别为65亿元、319亿元、517亿元，2023年营收同比增长62%。同时整车毛利率持续提升至15%，极氪2021年初创时期整车毛利率即为正数，2023年极氪整车毛利率达到15%，较2022年4.7%同比提升10.3个百分点。行业可比公司（特斯拉、理想、蔚来、小鹏）2023年整车毛利率平均值为13%，极氪15%，高于行业平均值。
-与毛利率和营收同步提升的还有研发投入，据招股书披露，2021年至2023年底，极氪累计研发投入近170亿元。其中，2021年、2022年、2023极氪研发投入分别为31.60亿元、54.46亿元、83.69亿元，研发投入逐年持续上升。同时本次上市募集的资金中，约45%将用于研发更先进的纯电动汽车技术与扩大产品组合。
-新能源转型是全球汽车产业百年未有之变局，前景不可逆转，中国新能源汽车十年向上，形成规模化、体系化、国际化的全球领先优势。同时美股作为全球规模最大，交易最活跃，最具影响力的资本市场，极氪登陆美股将进一步提升极氪全球治理能力，为全球投资者带来中国高端新能源全球化发展的长期价值。
-吉利要成为新能源汽车时代的大众集团，极氪肩负高端纯电全球使命。
-中国新能源车企要赴美敲钟，你如何看待极氪未来的发展？
-面对全球市场竞争，你对极氪上市之后的表现会有怎样的期待？</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;1
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                </section>
-              </section>
-            </li>
-        </ul>
-      </section>
 
     <footer>
-      <a class="footer-link" href="https://github.com/TiG000/rss0521/actions/runs/9432612246">
-        <time id="build-timestamp" datetime="2024-06-09T00:32:40.402Z">2024-06-09T00:32:40.402Z</time>
+      <a class="footer-link" href="https://github.com/TiG000/rss0521/actions/runs/9440641161">
+        <time id="build-timestamp" datetime="2024-06-10T00:30:13.149Z">2024-06-10T00:30:13.149Z</time>
       </a>
       <a class="footer-link" href="https://github.com/osmoscraft/osmosfeed">osmosfeed 1.15.1</a>
     </footer>
