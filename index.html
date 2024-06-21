@@ -22,6 +22,160 @@
             data-action="toggle-accordions"
             title="Click to toggle the day, Ctrl + click to toggle all."
           >
+            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2024-06-20 datetime="2024-06-20T08:25:33.000Z">2024-06-20</time>
+            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2024-06-20 datetime="2024-06-20T08:25:33.000Z"></time>
+          </button>
+        </h2>
+        <ul class="sources card">
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >知乎每日精选</button>
+                  <a class="source-heading__link" href="http://www.zhihu.com">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="http://www.zhihu.com/question/659220848/answer/3535134281"
+                        open
+                      >
+                        <summary class="article-expander__title">游戏开发中，配置数据是写在文件中还是写在代码中好？</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="http://www.zhihu.com/question/659220848/answer/3535134281?utm_campaign&#x3D;rss&amp;utm_medium&#x3D;rss&amp;utm_source&#x3D;rss&amp;utm_content&#x3D;title">
+                          <div class="article-summary-box-inner media-object">
+                            <span class="media-object__text">
+                              <span>首先要解除一个误会
+就是命题里的“lua文件”和命题里的“json或者二进制文件”是没有根本区别的，都是“换了一个语言的单独数据文件”。虽说从coder的角度来理解他们不用参与项目的编译，但是从programmer的角度来理解，他们是（略有不同但可以）等同于程序文件的，因为最终拟游戏运行还是要依赖于这些数据的。
+你可以思考一个问题——如果你是一个unity项目，在项目中自己建立了一个，我们比如说地图数据表，它使用C#写的，比如你的目录结构中有一个Assets/DesignerData/Maps/下面都是CityOrgrimmar.cs，BattleFieldWarSongLumberCamp.cs这些，它们因为会被unity工程编译，所以他们就不是配置文件了吗？
+是否是配置文件，不取决于他是编译时还是运行时，而是取决于它的内容干了什么。所以在题主的问题里，判断一个lua是程序代码的一部分，还是一个配置文件，取决于这个lua干了什么，谁依赖于他，他又依赖于谁。如果只是把数据表填写在lua里面，利用lua本身就是metatable的性质，尽管看上去有很多逻辑脚本函数，但实际上他还是配置表。
+配置文件的本质
+游戏开发中为什么需要配置文件？事实上是为了把一些“特殊处理”和核心逻辑撇开，仅此而已。而这些“特殊处理”一般来说都是静态数据，但实际上是可以包含运行时数据的（这个下面会详细说到）。
+我们以unity的框架为例，比如游戏中有怪物，且怪物属性非常简单，假设就只有血攻2个属性（只是说明问题，所以此处不讨论这个设计是否合适），那么在这个游戏里面这个怪物相关的会有什么呢？分为以下3个部分：
+Prefab
+Prefab本身就是unity的一个“配置文件”，跟我们做游戏的用的数据表，地图数据是一样的东西。unity依赖于Prefab来初始化一些元素。比如这里我们把一个角色在世界里的mode…</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;2
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="http://www.zhihu.com/question/658896911/answer/3533557157"
+                        open
+                      >
+                        <summary class="article-expander__title">如果让你来画刘看山，你会画成什么样呢？</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="http://www.zhihu.com/question/658896911/answer/3533557157?utm_campaign&#x3D;rss&amp;utm_medium&#x3D;rss&amp;utm_source&#x3D;rss&amp;utm_content&#x3D;title">
+                          <div class="article-summary-box-inner media-object">
+                            <span class="media-object__text">
+                              <span>只能求助我家小朋友了。毕竟画画我实在不行
+
+
+虽然还是丑
+
+
+
+来源：知乎 www.zhihu.com
+有点特别的名字
+点击下载
+25 个回答，查看全部。
+如果让你来画一个刘看山，你会画成什么样呢？
+刘看山应该怎么画？</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;2
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="http://www.zhihu.com/question/658896911/answer/3535977880"
+                        open
+                      >
+                        <summary class="article-expander__title">如果让你来画刘看山，你会画成什么样呢？</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="http://www.zhihu.com/question/658896911/answer/3535977880?utm_campaign&#x3D;rss&amp;utm_medium&#x3D;rss&amp;utm_source&#x3D;rss&amp;utm_content&#x3D;title">
+                          <div class="article-summary-box-inner media-object">
+                            <span class="media-object__text">
+                              <span>下面是这两天画的…怎么说呢…简笔画真好玩儿呀…
+不过有一说一，真正的实践给人带来的真切感知足以改变理论上搭建起的假设。
+我是一个福瑞控，2023年借《有兽焉》的热播写了一个关于福瑞的理论专栏文章。后来下半年的时候也作为分享学者参与了中数音像协会的一个有关福瑞的分享活动，但是我要说但是，那时候我其实并没有真正去过任何的兽展，我只是凭借自己朴素的对福瑞群体和福瑞动画的感知去完成的文章。
+直到2023年12月31日参加了云幽岛福瑞展，亲眼看到了线下兽展的样子，能够亲身摸到那些毛茸茸的兽装，同时能够亲自买下摊位的那些小周边，我的感受出现了非常大的转变，虽然都是正面评价，但正是因为这个亲身性，才让我有了全新的感知，由此形成的两个不同的文章可以看：
+动漫眼 | 《有兽焉》：“于是毛茸茸们能团圆”_思想市场_澎湃新闻-The Paper如何评价兽展云幽岛2023-2024成都跨年夜活动？
+那你可能会问，这和 @刘看山 的手绘有什么关系呢？
+有关系。
+我以前写过好些关于刘看山的回答，但大致可以分为两种不同的体验，一种是对这个在平面里的形象的认识，另一种是真的带着刘看山玩偶去现场照相，以及触摸到它的体验。
+知乎吉祥物刘看山正面长什么样？如果有一天你可以和刘看山一起生活，你会选择和TA度过怎样的一天呢？
+这两篇回答里面的思考方向就是差别，自己能够感受得到思路“逃逸线”的变化。
+而现在轮到自己第一次就这么手绘刘看山了，体验又不一样了。
+一开始我是通过模仿其他已经成型的刘看山的画，在画的过程中，只是想着要亦步亦趋，画出来之后颇有一些相似。
+
+像不像呢？确实倒是也挺像。
+
+然后我就开始找其他的图，各种各样不同的图。
+
+不断的进行临摹，慢慢的去感受，如果它是一个鲜活的生命体，而不仅仅是在平面上的二维的图像。
+所以下面这个图就不太像刘看山了，鼓起个腮帮子，他不是一条完整顺遂的直线。
+
+又去找了别的画来进…</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;2
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="http://www.zhihu.com/question/659309004/answer/3535684377"
+                        open
+                      >
+                        <summary class="article-expander__title">如何反驳有些人“游戏速通有什么用，建议他们XX时候也速通”这一观点？</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="http://www.zhihu.com/question/659309004/answer/3535684377?utm_campaign&#x3D;rss&amp;utm_medium&#x3D;rss&amp;utm_source&#x3D;rss&amp;utm_content&#x3D;title">
+                          <div class="article-summary-box-inner media-object">
+                            <span class="media-object__text">
+                              <span>送上一篇老文
+战术大米：速通的故事：与帧数赛跑的那些人 
+　　0.35秒意味着什么？对大部分人来说都没什么意义，但对于速通玩家而言，就是足以打破《超级玛丽》最快通关纪录的关键。《超级玛丽》存在这样一个帧数规则：每过21帧进行一次切换关卡的判定，如果玩家能在判定前1帧到达终点，就可以提前0.35秒进入下一关。为了能够更快地完成游戏，这些速通玩家必须与这1帧不断赛跑。
+　　目前《超级玛丽》最快的通关时间已被缩短到4分55秒，你可能不清楚这意味着什么，但为了实现这个目标，一群热爱研究的玩家们努力了十几年，使得记录从5分多钟逐渐缩短到4分多钟。随着提升空间越来越小，其操作细节也早已到达以帧数为单位的程度，这场世界级的速通竞赛，至今仍在进行着。
+
+　　在这些最速通关的记录背后，有着怎样一群玩家？他们玩游戏的方式为何如此“离经叛道”？作为从游戏社区延伸出的一种亚文化，速通有着它独特的玩法和研究价值。今天我们就来聊一聊那些有关速通的事。
+速通文化的起源
+　　在互联网社区刚刚兴起的年代，人们对于“通关游戏的速度”还没有那么敏感。但知名FPS工作室id Software带来了一些不同，他们在《毁灭战士》和《雷神之锤》中提供了保存关卡录像和回放的功能，这些录像文件体积很小、易于传播。那时，快速完成这两款游戏的关卡类录像讨论度很高，一些专门收集玩家录像的速通网站随之建立，最初的速通交流圈开始形成。后来发售的《超级银河战士》因其非线性的关卡设计，通关路线很多，具有很高的研究价值。原本只接受《雷神之锤》速通记录的网站，随后也开始引入《银河战士》等其他游戏的速通记录，综合性的速通记录网站逐渐成立。目前全球最大的速通记录网站是http://speedrun.com，至今它已经记载了上万款游戏的90多万条速通记录。
+
+不走寻常路
+　　速通玩家们经常会在视频中通过一些良性BUG，令角色呈现出一种不可思议的状…</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;2
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
+        </ul>
+      </section>
+      <section class="daily-content js-toggle-accordions-scope">
+        <h2 class="daily-heading">
+          <button
+            class="daily-heading-toggle"
+            data-action="toggle-accordions"
+            title="Click to toggle the day, Ctrl + click to toggle all."
+          >
             <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2024-06-19 datetime="2024-06-19T09:08:26.000Z">2024-06-19</time>
             <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2024-06-19 datetime="2024-06-19T09:08:26.000Z"></time>
           </button>
@@ -1197,7 +1351,7 @@ iG第一波的视野放置时间太早了，此时图上已经没有iG视野，�
 来源：知乎 www.zhihu.com
 编辑部小李
 点击下载
-353 个回答，查看全部。
+356 个回答，查看全部。
 《大人的高考-知乎卷》答案公布，你得了几分？能讲讲为什么想重做高考题吗？
 怎样用知乎学习到有关高考的内容？</span>
                                 &ensp;<span class="article-reading-time">(&hairsp;2
@@ -2265,94 +2419,10 @@ Historical yearly trends in the usage statistics of content languages for websit
             </li>
         </ul>
       </section>
-      <section class="daily-content js-toggle-accordions-scope">
-        <h2 class="daily-heading">
-          <button
-            class="daily-heading-toggle"
-            data-action="toggle-accordions"
-            title="Click to toggle the day, Ctrl + click to toggle all."
-          >
-            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2024-05-21 datetime="2024-05-21T12:56:10.000Z">2024-05-21</time>
-            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2024-05-21 datetime="2024-05-21T12:56:10.000Z"></time>
-          </button>
-        </h2>
-        <ul class="sources card">
-            <li class="card__section">
-              <section class="js-toggle-accordions-scope">
-                <h3 class="source-heading">
-                  <button
-                    class="source-heading__name"
-                    data-action="toggle-accordions"
-                    title="Click to toggle the source, Ctrl + click to toggle all."
-                  >知乎每日精选</button>
-                  <a class="source-heading__link" href="http://www.zhihu.com">Open</a>
-                </h3>
-                <section class="articles-per-source">
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="http://www.zhihu.com/question/656010784/answer/3502017859"
-                        open
-                      >
-                        <summary class="article-expander__title">博物馆如何处理争议性展品或历史事件？</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="http://www.zhihu.com/question/656010784/answer/3502017859?utm_campaign&#x3D;rss&amp;utm_medium&#x3D;rss&amp;utm_source&#x3D;rss&amp;utm_content&#x3D;title">
-                          <div class="article-summary-box-inner media-object">
-                            <span class="media-object__text">
-                              <span>真诚是最好的必杀技。
-广州艺术博物院的镇馆之宝之一，唐寅《江南春图卷》。
-此画左半段意犹未尽，有被裁剪过可能性，故书法落款的真伪存疑，因此画作本身也存在争议性。
-当前对外展出画作被专家组认定为真迹，但广州艺术博物院也大方将其在说明牌中讲解清楚，从科普性上来看，非常值得肯定。
-
-
-
-
-
-
-
-《江南春图卷》左半部分款识：
-天涯腌（晻）溘碧云横，社日园林紫燕轻。桃叶参差谁问渡，杏花零落忆题名。月明犬吠村中夜，雨过莺啼叶满城。人不归来春又去，□□（与谁）连臂唱盈盈。红粉啼妆对镜台，春心一片转悠哉。若为坐看花飞画，便是伤多酒莫推。无药可医莺舌老，有香难返蝶魂来。江南多少闲庭馆，依旧朱门锁绿苔。唐寅。
-广州艺术博物院文物说明牌：
-此画后段有未尽之意，应是被裁割过，故现在的落款为后添，所以专家认为书法的真伪性尚待研究。但此画构图讲究，境界变化多样，山水与界画技法结合，庭院台榭等建筑描绘工整精巧,让人有可游可居之感，画中树木种类繁而变化多，极具匠心，点景人物线条流畅，情态生动，山石的皴法也是唐寅所创的带水长皴，而且唐寅师法南宋院体，此画就给人脱胎于刘松年《四景山水图卷》的感觉,这些都符合唐寅绘画的特点，所以专家还是审定此画为唐寅真迹。
-
-
-
-
-
-
-
-
-
-
-
-
-
-最后附上该画作资料图：
-
-
-
-来源：知乎 www.zhihu.com
-凡间客.
-点击下载
-5 个回答，查看全部。
-为什么很多著名历史博物馆都明目张胆的把从别国非法得到的文物展示出来供人观看？
-博物馆里的展品是历史哪个阶级人拥有的？</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;2
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                </section>
-              </section>
-            </li>
-        </ul>
-      </section>
 
     <footer>
-      <a class="footer-link" href="https://github.com/TiG000/rss0521/actions/runs/9589683209">
-        <time id="build-timestamp" datetime="2024-06-20T00:28:38.763Z">2024-06-20T00:28:38.763Z</time>
+      <a class="footer-link" href="https://github.com/TiG000/rss0521/actions/runs/9606266279">
+        <time id="build-timestamp" datetime="2024-06-21T00:28:37.606Z">2024-06-21T00:28:37.606Z</time>
       </a>
       <a class="footer-link" href="https://github.com/osmoscraft/osmosfeed">osmosfeed 1.15.1</a>
     </footer>
