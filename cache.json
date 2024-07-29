@@ -12,12 +12,22 @@
       "siteUrl": "https://www.skyue.com/",
       "articles": [
         {
+          "id": "https://www.skyue.com/24072815.html",
+          "author": "拾月",
+          "description": "好久没更新日记，其实生活也没闲着。相声7月7日，7月第一个周末，在亚运公园的笑海相声会馆看了场相声。这是我第一次看相声，会馆布置比脱口秀现场稍微讲究些，都是太师椅+茶桌，喝茶、嗑瓜子、听相声，好...",
+          "link": "https://www.skyue.com/24072815.html",
+          "publishedOn": "2024-07-28T07:43:00.000Z",
+          "wordCount": 485,
+          "title": "相声、青山湖、换浙A车牌、之江文化中心",
+          "imageUrl": ""
+        },
+        {
           "id": "https://www.skyue.com/24072016.html",
           "author": "拾月",
           "description": "最近读了Tiago Forte的《打造第二大脑》，然后开始整理Obsidian笔记，还没整理完。笔记库中最多的是日记，每天一篇，在经常断更的情况下，也积累了2000多篇。其次，就是各种批量导入的...",
           "link": "https://www.skyue.com/24072016.html",
           "publishedOn": "2024-07-20T08:59:00.000Z",
-          "wordCount": 577,
+          "wordCount": 576,
           "title": "笔记非自己写的不值得记录",
           "imageUrl": ""
         }

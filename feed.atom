@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-07-28T00:33:54.513Z</id>
+    <id>urn:2024-07-29T00:32:03.793Z</id>
     <title>osmos::feed</title>
-    <updated>2024-07-28T00:33:54.513Z</updated>
+    <updated>2024-07-29T00:32:03.793Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[相声、青山湖、换浙A车牌、之江文化中心]]></title>
+        <id>https://www.skyue.com/24072815.html</id>
+        <link href="https://www.skyue.com/24072815.html"/>
+        <updated>2024-07-28T07:43:00.000Z</updated>
+        <summary type="html"><![CDATA[好久没更新日记，其实生活也没闲着。相声7月7日，7月第一个周末，在亚运公园的笑海相声会馆看了场相声。这是我第一次看相声，会馆布置比脱口秀现场稍微讲究些，都是太师椅+茶桌，喝茶、嗑瓜子、听相声，好...]]></summary>
+        <author>
+            <name>拾月</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[为什么《信长之野望16》有2206个武将，而《三国志14》才1000个武将？三国还没信野的一半！？]]></title>
         <id>http://www.zhihu.com/question/660987513/answer/3566730694</id>
