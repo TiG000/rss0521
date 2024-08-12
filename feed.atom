@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-08-11T00:34:28.514Z</id>
+    <id>urn:2024-08-12T00:32:27.094Z</id>
     <title>osmos::feed</title>
-    <updated>2024-08-11T00:34:28.514Z</updated>
+    <updated>2024-08-12T00:32:27.094Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[雅培瞬感动态血糖仪使用体验]]></title>
+        <id>https://www.skyue.com/24081111.html</id>
+        <link href="https://www.skyue.com/24081111.html"/>
+        <updated>2024-08-11T03:36:00.000Z</updated>
+        <summary type="html"><![CDATA[缘起不久前读完杰西·安佐斯佩的《控糖革命》，该书主要介绍血糖（尤其血糖峰值）如何影响健康，并提供各种控糖技巧。书中提到一个叫「动态血糖仪」的装置，该装置佩戴方便，能够连续监控人体血糖变化。作者在...]]></summary>
+        <author>
+            <name>拾月</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【新功能上线】给我30s，让你全面了解一支股票]]></title>
         <id>https://xueqiu.com/8152922548/300581623</id>
@@ -469,7 +479,7 @@ II型又可以细分为IIa（快速氧化型），IIb（快速酵解型）和IIx
 来源：知乎 www.zhihu.com
 梁尔德
 点击下载
-165 个回答，查看全部。
+169 个回答，查看全部。
 你穿过哪些传统服装？看起来怎么样？
 什么样的传统服装好看？]]></summary>
         <author>
