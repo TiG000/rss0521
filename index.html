@@ -22,6 +22,92 @@
             data-action="toggle-accordions"
             title="Click to toggle the day, Ctrl + click to toggle all."
           >
+            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2024-09-25 datetime="2024-09-25T10:30:53.000Z">2024-09-25</time>
+            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2024-09-25 datetime="2024-09-25T10:30:53.000Z"></time>
+          </button>
+        </h2>
+        <ul class="sources card">
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >知乎每日精选</button>
+                  <a class="source-heading__link" href="http://www.zhihu.com">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="http://www.zhihu.com/question/19700567/answer/3635928923"
+                        open
+                      >
+                        <summary class="article-expander__title">已经掌握独立建造第三代核电站的技术的国家有哪些？</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="http://www.zhihu.com/question/19700567/answer/3635928923?utm_campaign&#x3D;rss&amp;utm_medium&#x3D;rss&amp;utm_source&#x3D;rss&amp;utm_content&#x3D;title">
+                          <div class="article-summary-box-inner media-object">
+                            <span class="media-object__text">
+                              <span>谢邀 @央视新闻 
+我是“华龙一号”总设计师邢继。10年之后的我们，可以非常确定地回答题主：
+这个名单里，有中国。
+
+这是一道来自2011年6月的提问，就在这道问题提出的3个月前，我们中国自主的百万千万级核电技术的梦想，刚刚被一场发生在日本福岛的核泄漏事故击得粉碎。
+那时候，承载了几代核工业人梦想的型号CP1000即将开工，10多台推土机已经抵达现场开始挖土，仅仅3天之后，事故发生，项目被按下了暂停键。
+福岛核事故对整个核工业发展的影响非常深远。中国作为一个负责任的大国，在核事故发生5天后，国务院发出声明，针对核安全问题提出四条指导性意见，其中有一条就是 中国未来新建的核电站必须满足国际最高安全标准。
+中核集团在第一时间组织专家进行评估后，主动放弃了CP1000，转向全力推进第三代核电技术ACP1000，也就是后来“华龙一号”的自主研发。
+放弃“CP1000”，这个决心下得非常果断，我们的核电站必须要能够应对所有“假设可能会发生”的事情，此前我们的目标离“要达到国际上最高要求”的这个标准还有距离。
+因此，团队受到了相当大的打击。一个准备了12年的计划马上就可以实现，但在下一个瞬间，它变得遥遥无期。
+为什么大家如此沮丧？
+因为研发一个完全具有自主知识产权的型号，是我们中国核电人的梦想。
+1989年，我被派往广东，那时候大亚湾核电站刚刚开工，我所在的核二院派了100多人到业主单位和法国公司参与建设。我被派到了法国公司的现场技术部做现场施工方面的技术支持。
+大亚湾核电站主要的技术全是来自于法国，在装备建造这些领域也主要依靠外国人的技术和管理，甚至连一些最基本的钢筋、水泥等建设材料，都要从外国进口，长期受制于人，感受非常真实。
+在这个庞大的工程里，我们需要从零开始，读懂法国人设计的每一张图纸，见缝插针地问各种原理性的问题：为什么要这么设计，遵循了怎样的标准？
+年轻时候在大亚湾的这段…</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="http://zhuanlan.zhihu.com/p/721952915"
+                        open
+                      >
+                        <summary class="article-expander__title">Reverse-o1:OpenAI o1原理逆向工程图解</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="http://zhuanlan.zhihu.com/p/721952915?utm_campaign&#x3D;rss&amp;utm_medium&#x3D;rss&amp;utm_source&#x3D;rss&amp;utm_content&#x3D;title">
+                          <div class="article-summary-box-inner media-object">
+                            <span class="media-object__text">
+                              <span>OpenAI o1的推出称为横空出世不为过，尽管关于Q*、草莓等各种传闻很久了，用了强化学习增强逻辑推理能力这个大方向大家猜的也八九不离十，但是融合LLM和RL来生成Hidden COT，估计很少人能想到这点，而且目前看效果确实挺好的。
+OpenAI奔向Close的路上越走越远，你要从o1官宣字面来看，除了“强化学习生成Hidden COT”外，基本找不到其它有技术含量的内容。Sora好歹还给出了个粗略的技术框架图，字里行间也透漏不少隐含的技术点，细心点总能发现很多蛛丝马迹，串起来之后整个背后的技术就若隐若现（若对此感兴趣可看下我之前写的分析：技术神秘化的去魅：Sora关键技术逆向工程图解 ）。而且，尽管目前有不少公开文献在用LLM+RL增强大模型的推理能力，但几乎找不到做Hidden COT生成的工作，所以可供直接参考的内容非常少，这为分析o1进一步增添了难度。
+那是否就没办法了呢？倒也不一定，如果多观察细节，再加上一些专业性的推论，我觉得还是有痕迹可循的。本文以相对容易理解的方式来对o1做些技术原理分析，试图回答下列问题：
+除了复杂逻辑推理能力获得极大增强，o1还有其它什么重要意义？
+o1的完整训练过程大致会是怎样的？
+o1是单个模型，还是多个模型？
+O1中的RL状态空间如何定义？行为空间如何定义？会用何种Reward Model？可能用何种训练数据？LLM和RM融合后的模型结构可能会是怎样的？……等等
+为行文中指称方便，我将文中推导的模型称为“Reverse-o1”。当然，里面有些部分有判断依据，有些则是根据主流技术作出的推断，只要OpenAI不官宣技术框架，大概一千个从业者能有一千种解法，我主要参考了AlphaZero的做法，试图在此基础上融合LLM和RL，很多看法比较主观，谨慎参考。
+OpenAI o1的重要意义
+我个人认为OpenAI o1是大模型技术领域的一个…</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
+        </ul>
+      </section>
+      <section class="daily-content js-toggle-accordions-scope">
+        <h2 class="daily-heading">
+          <button
+            class="daily-heading-toggle"
+            data-action="toggle-accordions"
+            title="Click to toggle the day, Ctrl + click to toggle all."
+          >
             <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2024-09-24 datetime="2024-09-24T09:25:24.000Z">2024-09-24</time>
             <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2024-09-24 datetime="2024-09-24T09:25:24.000Z"></time>
           </button>
@@ -432,7 +518,7 @@ We have found that the performance of o1 consistently improves with more reinfor
 来源：知乎 www.zhihu.com
 大老方
 点击下载
-84 个回答，查看全部。
+85 个回答，查看全部。
 纪录片《 里斯本丸沉没 》在英举行特别放映，如何评价该部影片？
 纪录电影《里斯本丸沉没》在普陀东极首映，该电影中最让你难忘的片段有哪些？</span>
                             </span>
@@ -1964,254 +2050,10 @@ Player Leading 玩家引导
             </li>
         </ul>
       </section>
-      <section class="daily-content js-toggle-accordions-scope">
-        <h2 class="daily-heading">
-          <button
-            class="daily-heading-toggle"
-            data-action="toggle-accordions"
-            title="Click to toggle the day, Ctrl + click to toggle all."
-          >
-            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2024-08-27 datetime="2024-08-27T12:17:04.000Z">2024-08-27</time>
-            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2024-08-27 datetime="2024-08-27T12:17:04.000Z"></time>
-          </button>
-        </h2>
-        <ul class="sources card">
-            <li class="card__section">
-              <section class="js-toggle-accordions-scope">
-                <h3 class="source-heading">
-                  <button
-                    class="source-heading__name"
-                    data-action="toggle-accordions"
-                    title="Click to toggle the source, Ctrl + click to toggle all."
-                  >知乎每日精选</button>
-                  <a class="source-heading__link" href="http://www.zhihu.com">Open</a>
-                </h3>
-                <section class="articles-per-source">
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="http://www.zhihu.com/question/664877338/answer/3605988511"
-                        open
-                      >
-                        <summary class="article-expander__title">《黑神话：悟空》都有哪些隐藏道具、Boss、剧情、地图？</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="http://www.zhihu.com/question/664877338/answer/3605988511?utm_campaign&#x3D;rss&amp;utm_medium&#x3D;rss&amp;utm_source&#x3D;rss&amp;utm_content&#x3D;title">
-                          <div class="article-summary-box-inner media-object">
-                            <span class="media-object__text">
-                              <span>来做个我所知的，全部的隐藏地图+boss+剧情梳理
-
-目前一周目通关，刚开二周目，成就70/81。
-另外，我会使用游民星空制作的互动地图进行截图，感兴趣的也可以直接去看。
-黑神话悟空全收集互动地图_提供黑悟空全土地庙、妖王BOSS等点位信息
-一、第一章·黑风山
-1、隐藏地图
-黑风山有一张隐藏地图：隐·观音禅院。
-开启方式是敲响地图上的三口钟，分别在“广智”、“广谋”、“白衣秀士”三个boss附近，具体如图。
-
-该地图里有隐藏boss“金池长老”，打完会得到法宝辟火罩。
-该法宝可以对策本关关底boss黑熊精，另外也可对策后续所有火系boss，在火焰山章节会频繁用到。
-注意，如果打完金池长老，新手教官boss“幽魂”就会消失，一定要在打金池长老之前做掉幽魂。
-2、可能会错过的boss
-在土地庙“翠竹林·蛇径”处，往下跳，一路走会找到蛤蟆boss“波里个浪”，具体如图。
-
-这个boss关系到红色精魄，一定要打。
-另外，在第二章获取关键道具“龙鳞”后，记得回“苍狼林·林外”土地庙，寻找隐藏boss“赤髯龙”，也是四大隐藏龙boss之一。
-
-3、可能会错过的其他重要事务
-一是马哥，在“翠竹林·后山”土地庙，往山上走的时候有一条岔路，马哥就在这。
-
-前五章马哥都会出现，是个重要的支线npc。
-二是色蕴，在打完新手boss护院以后，回头，就能找到。
-
-
-
-总得来说，第一章偏新手，比较简单，没太多重要的隐藏，路也不算难找。
-
-二、第二章·黄风岭
-1、隐藏地图
-黄风岭有一张隐藏地图：隐·斯哈哩国。
-开启方式为：完成“挟魂崖·枕石坪”土地庙附近，黄袍员外的支线。
-黄袍员外第一次会在枕石坪前方，第二次会在卧虎寺的台阶上（需要醒酒石，扫图会有，没有就去石中人那买），第三次会回到枕石坪前方。
-
-该地图里有隐藏boss“蝜蝂”，打完会得到法宝定风珠。该法宝可以对策关底boss黄风大圣，也可以对策后续地…</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="http://www.zhihu.com/question/663676204/answer/3597550849"
-                        open
-                      >
-                        <summary class="article-expander__title">哪些国货小家电精准地满足了你的「特定」小需求？</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="http://www.zhihu.com/question/663676204/answer/3597550849?utm_campaign&#x3D;rss&amp;utm_medium&#x3D;rss&amp;utm_source&#x3D;rss&amp;utm_content&#x3D;title">
-                          <div class="article-summary-box-inner media-object">
-                            <span class="media-object__text">
-                              <span>我家的小餐厅，只有4平米。
-在这个空间里，我需要满足吃饭➕茶水吧的需求。
-唯一的餐边柜，只有1.2m*0.4m的平面容量，因此在这个小小的角落，如何最大化造就功能利用，也是我一直在琢磨的问题。
-
-我家以前的水吧布置，也是饮水机➕咖啡机的搭配，但是反复使用下来，利用率其实一点都不高。
-
-两张图可以非常明显地看出来实用度与收纳的不同。
-对于之前的小水吧，物品摆放和家用电器其实是非常零散的。我的置物需求很高，有很多小杯子、小花瓶和一些茶水周边。
-1.2m的摆台上，入门咖啡机➕磨豆机➕饮水机的配置，再加上零零碎碎的杯碟餐盘，视觉感杂乱，而且对于我这个咖啡新手做咖啡，一点都不方便。
-研究了很久，还是觉得要把功能需求和置物需求更好地展示出来，让我这个一点点大的小角落，可以实现咖啡和茶水自由。
-下面是来自一个改造答主的经典国货展示区。
-一、凯度MS2研磨萃取一体半自动咖啡机。
-
-我之前用的是德龙的入门咖啡机，外带一个研磨机。从实用角度上来讲，是个很实用的配置。
-但是对于我来说，因为操作台面积实在过小，咖啡机与磨豆机使用起来空间非常局限，加上我家角落的插头数量少，三台机器凑在一起，场面是非常杂乱的。
-总的来讲，因为线插数量少，电器的拖线很短，加上空间面积过于局限，常常会出现电器打架的问题。
-
-为了美观度和实用度，斟酌再三，觉得要解决这个问题。
-首先就是电器的精简和线路的改善。
-对于咖啡机和磨豆机，我家原先的这一套入门设备，占地面积大，使用相对麻烦，所以，更换研磨萃取一体机是我的首要任务。
-颜控带着有色眼镜选了一圈，最后入手了凯度MS2研磨萃取一体半自动咖啡机。
-
-别说，这个颜值足以让我一见钟情了。
-我知道凯度，是从他们家厨房电器开始了解的，是国内做的比较好的厨房家电品牌，这个咖啡机是推出的新款。冲着颜值买的，但是对功能一点不了解，到货之前还是比较忐忑的。
-不过拿到实物，开箱的确让我很惊喜。
-颜值这块就不说了，聊一聊它对于新手来讲非常让我喜欢的几个点吧。
-1.自带磨豆功能的便利性。
-
-这是给我省空间和省插座的最大好处。
-一来视觉感受更好看了，二来我的餐边柜再也不需要到处藏各种插线板啦～
-最重要最重要的是，磨豆子的功夫全部可以省下来了耶！再也不需要在局促的空间里去进行磨豆子、装粉、倒换这些繁琐的步骤了。
-称好豆子，直接手柄接粉，天晓得对于一直用入门机的我来讲有多么的神仙省力！
-
-
-
-
-磨出来的粉细腻蓬松，不会结块，这一点体验感很棒。
-
-2.智能屏显，参数随意切换，一键拥有多风味咖啡
-
-这一点对于我这个咖啡技术不到家的新手来讲，就是天降福音有没有～
-MS2整机都是触屏的，左边是智能显示屏，右边是压力泵显示。可以直接调节参数设置，来制作意式和美式咖啡。
-
-
-
-
-像我这种技术不到家的，有个非常懒人的方式，就是直接照抄专业级咖啡师的参数设置，比如磨豆的档位、磨豆时间、水量设置和温度参数调节等。
-照着把合适的参数都设置好，然后一键就能拥有油脂超级丰富的萃取咖啡啦，感觉根本不用动脑子练技术～
-
-超级方便，我好爱哈哈哈～
-
-新咖啡机的入驻，实实在在解决了我家空间利用率的问题，大大简化了一个新手的咖啡制作难度，同时解决了几台电器抢插座的问题，美观度和实用度直线上升啦～
-
-有了满足精准需求的国货咖啡机，怎么能少的了我的专用咖啡机伴侣呢？
-——自制中式多功能储物柜
-精简了电器，不能没有收纳专区。
-为此，作为省钱能手，自己动手做了一个超级实用的储物柜，也算是我的茶水吧国货之光啦～
-
-这个储物柜，属于是实打实的根据我自己的使用需求来改造的，可以让我在一个一么点点的小地方，实现多方面的使用方式。
-
-
-
-
-
-
-
-顶部可以放咖啡罐或是花瓶做装饰；中间拉开柜门，可以收纳我的杯碟餐盘；底部的抽屉，可以堆放我的咖啡机周边杂物；另外另外，柜门上的黄铜挂杆，可以晾晒我的餐布和洗干净的杯碟～
-一个连半平米都没有的小角落，在我大胆但不太有信心的改造和更新换代下，迎来了它的成功。
-
-
-
-
-四平米的小小中式餐厅➕迷你简单的茶水吧，精准硬控了我的一日三餐和日常下午茶需求，实现了咖啡制作和收纳储物的双重升级，这一轮的改造，完美收官耶～
-一点布置小经验，分享给大家～
-@知乎家居 @知乎家电 
-
-来源：知乎 www.zhihu.com
-南小木
-点击下载
-6 个回答，查看全部。
-有哪些值得选购的小家电？
-哪些小家电不建议购买？</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="http://www.zhihu.com/question/663787796/answer/3591217637"
-                        open
-                      >
-                        <summary class="article-expander__title">AI在家电领域有哪些应用，哪些是有实用价值的？中国家电品牌应该如何融入AI时代？</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="http://www.zhihu.com/question/663787796/answer/3591217637?utm_campaign&#x3D;rss&amp;utm_medium&#x3D;rss&amp;utm_source&#x3D;rss&amp;utm_content&#x3D;title">
-                          <div class="article-summary-box-inner media-object">
-                            <span class="media-object__text">
-                              <span>实用的AI产品还没出现，但已经在路上
-前言
-2024年，科技圈最热的关键词是AI人工智
-能，CES打出了“ALL IN AI”主题，MWC 2024上到处能看到AI的字样，NVIDIA因为AI股价节节攀升，Sora文生视频，GPT4o等工具让AI热度节节攀升。
-
-AI完整路径
-AI是对人的意识与思维信息过程的模拟，只是一个思考的大脑，在好用的大脑如果只限于思考，没有好的输入，没有好的输出执行，那就是一个无用的思考。对于家电领域来讲，要从传感器布局来思考如何给AI输入信号，理解用户的操作意图，要从设备自动化运行来思路如果实现AI要做的操控，满足用户对家电的需求。
-
-AI的应用现状
-当下AI的应用落地场景更多的是内部效能提升，如企业内部知识库、代码开发、智能客服等优化企业能效方面的；对于提升产品功能性能的目前还没看到。
-伪AI宣传现状
-中国的家电向来不缺乏喜欢炒概念的公司，市面上充斥各种AI概念宣传，通过端侧单传感器或简单软件功能包装AI。
-
-之前我写过一篇文章，关于智能排烟功能的。有哪些黑科技产品展现了 AI 在智能家电领域的最新突破？ - 知乎
-有哪些黑科技产品展现了 AI 在智能家电领域的最新突破？
-有人把变频电机恒功率输出，会根据风道压力调整风机转速，这样的东西也被包装成了AI，其实这是变频电机的基础功能；这个包装成AI就有欺骗成分。
-有人把加了烟雾传感器，根据检测到的信号判断烟雾大小，调节风机档位的功能包装成了AI；这只有AI的传感输入
-也有通过非接触式红外测温功能的智能排烟方案，这个原理是通过红外照射到灶台锅里再反射到红外接收器上测量灶台锅的温度来判断油烟大小。这个原理是用大量的实际烹饪实验录入人为烹饪行为与锅内温度关联的温度曲线，然后通过大数据计算建立用户烹饪操作行为与烹饪温度曲线的映射关系。这个算法的直接关联不是油烟大小，而是人为操作行为的判断，通过人为操作行为推导出油烟大小。这个勉强算AI小模型，包装成AI概念还算凑合。
-
-
-AI产品化的几大要素
-1、丰富的传感
-传感器要丰富起来，包含视觉，拾音，雷达等，只有有足够的传感的数据输入，AI的能力才能有所作为，AI的思考决策才会正确，感知到用户的真实意图，理解用户，协助用户。
-其中最重要的传感器的视觉传感，视觉输入的信息是多维度的，信息量是极大的，重要性远超其他传感器的总和。
-
-2、智慧的交互
-交互必须是无声息的，又是无处不在的，不需要用户过多的输入或者过于复杂的交互层级，都在AI智能就是智障，给用户制造麻烦。
-AI产品的交互是能理解用户的意图，减少用户的操作，甚至无需用户操作。其中最重要的交互是语言交互，用户最为直接便捷。
-
-
-
-3、自动化的运行
-必须是有自动化的运行装置，理解用户的意图后可以自动化的实现用户的意图需求
-4、无需宣传的用户体验
-最后一点很重要，AI在用户使用过程中的场景设计。
-要做到用户购买时的体验的时候，因为AI用户感受到了超预期的感官体验价值，情绪体验价值，功能体验价值，要思考用什么样的道具与使用场景让用户感受到AI的智能化。
-AI不需要宣传，讲的再多都没有卖场场景化体验有用。
-
-同时也跟各位消费者说，厂家说的再好都不要全信，自己的体验最重要，毕竟家电是一个造词行业，有些东西的实际价值并没有说的那么好听。
-结语
-AI大模型已经是一种公共资源，类似现在的云计算，水、电等基础设施。网上的各种AI应用工具数不胜数，家电企业只要结合企业自身积累的行业数据以及产品的业务场景，就能打造成AI智能家电智能体。
-我是研究厨电智能化的产品经理，一直在构思AI在厨电中的应用场景与路径方案。
-AI的时代已经到来，已经有可预见性的场景价值能给用户超预期的体验，希望与更多与厨电专家共同探讨厨电AI的应用场景与落地策略。
-
-来源：知乎 www.zhihu.com
-本初
-点击下载
-62 个回答，查看全部。
-AI在家电领域有哪些应用，哪些是有实用价值的？中国家电品牌应该怎么样融入AI时代？
-在最新AI已经发布，家电如何运用AI提高消费者需求？</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                </section>
-              </section>
-            </li>
-        </ul>
-      </section>
 
     <footer>
-      <a class="footer-link" href="https://github.com/TiG000/rss0521/actions/runs/11024108300">
-        <time id="build-timestamp" datetime="2024-09-25T00:35:44.733Z">2024-09-25T00:35:44.733Z</time>
+      <a class="footer-link" href="https://github.com/TiG000/rss0521/actions/runs/11043319580">
+        <time id="build-timestamp" datetime="2024-09-26T00:34:22.471Z">2024-09-26T00:34:22.471Z</time>
       </a>
       <a class="footer-link" href="https://github.com/osmoscraft/osmosfeed">osmosfeed 1.15.1</a>
     </footer>
