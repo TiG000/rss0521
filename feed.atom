@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-10-20T00:39:37.677Z</id>
+    <id>urn:2024-10-21T00:37:50.877Z</id>
     <title>osmos::feed</title>
-    <updated>2024-10-20T00:39:37.677Z</updated>
+    <updated>2024-10-21T00:37:50.877Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
         <title type="html"><![CDATA[字节跳动大模型训练被实习生攻击，涉事者已被辞退]]></title>
         <id>https://www.williamlong.info/archives/7464.html</id>
         <link href="https://www.williamlong.info/archives/7464.html"/>
-        <updated>2024-10-19T02:08:34.000Z</updated>
+        <updated>2024-10-20T02:08:34.000Z</updated>
         <summary type="html"><![CDATA[10月18日，多个微信群流传一则消息：“某头部大厂的大模型训练被实习生入侵，注入了破坏代码，导致其训练成果不可靠，可能需要重新训练。据称遭到入侵的代码注入了8000多张卡，带来的损失可能超过千万美元。”
 
 
@@ -439,34 +439,6 @@ o1，而今迈步从头越
 We have found that the performance of o1 consistently improves with more reinforcement learning (train-time compute) and with more time …]]></summary>
         <author>
             <name>知乎用户（登录查看详情）</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[官媒辟谣苹果手机被远程引爆]]></title>
-        <id>https://www.williamlong.info/archives/7457.html</id>
-        <link href="https://www.williamlong.info/archives/7457.html"/>
-        <updated>2024-09-20T14:33:47.000Z</updated>
-        <summary type="html"><![CDATA[近日，黎巴嫩数千台寻呼机和对讲机被远程引爆事件发生后，国外和国内流传一段苹果手机也被远程引爆的视频，引发网友担忧。
-
-
-经核实发现，该视频被张冠李戴，网传视频来自10多年前，美国一个民间科技爱好者的账号。该账号当时是制作的一个高压脉冲发生器，这种设备可以通过高压电流对物体造成破坏。博主会应网友要求拿手机等物品在这台设备上进行破坏试验，其中就包含苹果手机，且当时使用的是第一代的苹果手机。现在流传的苹果手机被引爆的视频，是被自媒体账号断章取义地裁剪了。
-
-
-据悉，在我们国家正规渠道售卖的国行苹果手机，是要经过相关部门的多道检查和审批才可以上市的。
-
-
-该谣言的源头是黎巴嫩近期发生的通信设备爆炸事件。在黎巴嫩多地发生寻呼机和对讲机爆炸后，网络上迅速流传出一段据称苹果手机也被远程引爆的视频。然而，这段视频实际上是被自媒体账号断章取义地裁剪自10多年前美国一个民间科技爱好者的账号。当时，该博主使用高压脉冲发生器对包括第一代苹果手机在内的多种电子设备进行了破坏试验，而非真正的远程引爆。
-
-
-与谣言形成鲜明对比的是，iPhone 16 Pro在电池设计上的创新与安全性。有博主对iPhone 16 Pro进行了拆机，发现其电池采用了钢制外壳，这一设计在行业内尚属少见。钢壳电池相比传统的铝塑膜软包电池，具有更高的表面硬度和更好的电芯保护程度，同时还具备一定的散热改善效果。
-
-
-拆解过程中，博主发现电池保护板位置设有泄压阀，这一设计有助于提升电池的安全性。此外，iPhone 16 Pro的电池重量比上代重了7.1g，容量达到了3582mAh，相比上代增加了308mAh。制造商为国产惠州德赛电池，采用ATL电芯。内部电芯基本填满整个空间，能量密度达到了764Wh/L，比上一代有显著提升。
-
-
-来源：综合环球网、中关村在线]]></summary>
-        <author>
-            <name>user@gmail.com (guest)</name>
         </author>
     </entry>
 </feed>
