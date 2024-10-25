@@ -512,84 +512,12 @@
                 </section>
               </section>
             </li>
-            <li class="card__section">
-              <section class="js-toggle-accordions-scope">
-                <h3 class="source-heading">
-                  <button
-                    class="source-heading__name"
-                    data-action="toggle-accordions"
-                    title="Click to toggle the source, Ctrl + click to toggle all."
-                  >知乎每日精选</button>
-                  <a class="source-heading__link" href="http://www.zhihu.com">Open</a>
-                </h3>
-                <section class="articles-per-source">
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="http://www.zhihu.com/question/19700567/answer/3635928923"
-                        open
-                      >
-                        <summary class="article-expander__title">已经掌握独立建造第三代核电站的技术的国家有哪些？</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="http://www.zhihu.com/question/19700567/answer/3635928923?utm_campaign&#x3D;rss&amp;utm_medium&#x3D;rss&amp;utm_source&#x3D;rss&amp;utm_content&#x3D;title">
-                          <div class="article-summary-box-inner media-object">
-                            <span class="media-object__text">
-                              <span>谢邀 @央视新闻 
-我是“华龙一号”总设计师邢继。10年之后的我们，可以非常确定地回答题主：
-这个名单里，有中国。
-
-这是一道来自2011年6月的提问，就在这道问题提出的3个月前，我们中国自主的百万千万级核电技术的梦想，刚刚被一场发生在日本福岛的核泄漏事故击得粉碎。
-那时候，承载了几代核工业人梦想的型号CP1000即将开工，10多台推土机已经抵达现场开始挖土，仅仅3天之后，事故发生，项目被按下了暂停键。
-福岛核事故对整个核工业发展的影响非常深远。中国作为一个负责任的大国，在核事故发生5天后，国务院发出声明，针对核安全问题提出四条指导性意见，其中有一条就是 中国未来新建的核电站必须满足国际最高安全标准。
-中核集团在第一时间组织专家进行评估后，主动放弃了CP1000，转向全力推进第三代核电技术ACP1000，也就是后来“华龙一号”的自主研发。
-放弃“CP1000”，这个决心下得非常果断，我们的核电站必须要能够应对所有“假设可能会发生”的事情，此前我们的目标离“要达到国际上最高要求”的这个标准还有距离。
-因此，团队受到了相当大的打击。一个准备了12年的计划马上就可以实现，但在下一个瞬间，它变得遥遥无期。
-为什么大家如此沮丧？
-因为研发一个完全具有自主知识产权的型号，是我们中国核电人的梦想。
-1989年，我被派往广东，那时候大亚湾核电站刚刚开工，我所在的核二院派了100多人到业主单位和法国公司参与建设。我被派到了法国公司的现场技术部做现场施工方面的技术支持。
-大亚湾核电站主要的技术全是来自于法国，在装备建造这些领域也主要依靠外国人的技术和管理，甚至连一些最基本的钢筋、水泥等建设材料，都要从外国进口，长期受制于人，感受非常真实。
-在这个庞大的工程里，我们需要从零开始，读懂法国人设计的每一张图纸，见缝插针地问各种原理性的问题：为什么要这么设计，遵循了怎样的标准？
-年轻时候在大亚湾的这段…</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="http://zhuanlan.zhihu.com/p/721952915"
-                        open
-                      >
-                        <summary class="article-expander__title">Reverse-o1:OpenAI o1原理逆向工程图解</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="http://zhuanlan.zhihu.com/p/721952915?utm_campaign&#x3D;rss&amp;utm_medium&#x3D;rss&amp;utm_source&#x3D;rss&amp;utm_content&#x3D;title">
-                          <div class="article-summary-box-inner media-object">
-                            <span class="media-object__text">
-                              <span>OpenAI o1的推出称为横空出世不为过，尽管关于Q*、草莓等各种传闻很久了，用了强化学习增强逻辑推理能力这个大方向大家猜的也八九不离十，但是融合LLM和RL来生成Hidden COT，估计很少人能想到这点，而且目前看效果确实挺好的。
-OpenAI奔向Close的路上越走越远，你要从o1官宣字面来看，除了“强化学习生成Hidden COT”外，基本找不到其它有技术含量的内容。Sora好歹还给出了个粗略的技术框架图，字里行间也透漏不少隐含的技术点，细心点总能发现很多蛛丝马迹，串起来之后整个背后的技术就若隐若现（若对此感兴趣可看下我之前写的分析：技术神秘化的去魅：Sora关键技术逆向工程图解 ）。而且，尽管目前有不少公开文献在用LLM+RL增强大模型的推理能力，但几乎找不到做Hidden COT生成的工作，所以可供直接参考的内容非常少，这为分析o1进一步增添了难度。
-那是否就没办法了呢？倒也不一定，如果多观察细节，再加上一些专业性的推论，我觉得还是有痕迹可循的。本文以相对容易理解的方式来对o1做些技术原理分析，试图回答下列问题：
-除了复杂逻辑推理能力获得极大增强，o1还有其它什么重要意义？
-o1的完整训练过程大致会是怎样的？
-o1是单个模型，还是多个模型？
-O1中的RL状态空间如何定义？行为空间如何定义？会用何种Reward Model？可能用何种训练数据？LLM和RM融合后的模型结构可能会是怎样的？……等等
-为行文中指称方便，我将文中推导的模型称为“Reverse-o1”。当然，里面有些部分有判断依据，有些则是根据主流技术作出的推断，只要OpenAI不官宣技术框架，大概一千个从业者能有一千种解法，我主要参考了AlphaZero的做法，试图在此基础上融合LLM和RL，很多看法比较主观，谨慎参考。
-OpenAI o1的重要意义
-我个人认为OpenAI o1是大模型技术领域的一个…</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                </section>
-              </section>
-            </li>
         </ul>
       </section>
 
     <footer>
-      <a class="footer-link" href="https://github.com/TiG000/rss0521/actions/runs/11490403580">
-        <time id="build-timestamp" datetime="2024-10-24T00:35:50.288Z">2024-10-24T00:35:50.288Z</time>
+      <a class="footer-link" href="https://github.com/TiG000/rss0521/actions/runs/11509698439">
+        <time id="build-timestamp" datetime="2024-10-25T00:36:20.506Z">2024-10-25T00:36:20.506Z</time>
       </a>
       <a class="footer-link" href="https://github.com/osmoscraft/osmosfeed">osmosfeed 1.15.1</a>
     </footer>
