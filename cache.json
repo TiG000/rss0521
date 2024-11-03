@@ -12,12 +12,22 @@
       "siteUrl": "https://www.skyue.com/",
       "articles": [
         {
+          "id": "https://www.skyue.com/24110219.html",
+          "author": "拾月",
+          "description": "上一篇日本关西旅行提及求婚，收到朋友们的留言祝福，未能一一回复，在此感谢大家。从日本回来不久，9月9日到20日，到新加坡出差了两周，本文聊聊新加坡。新加坡很小，樟宜机场只有国际航班。有多小呢，土...",
+          "link": "https://www.skyue.com/24110219.html",
+          "publishedOn": "2024-11-02T11:36:00.000Z",
+          "wordCount": 493,
+          "title": "新加坡出差见闻",
+          "imageUrl": ""
+        },
+        {
           "id": "https://www.skyue.com/24102921.html",
           "author": "拾月",
           "description": "博客断更2个月，打破了保持很久的月更至少一篇。最近有很值得记录的事情，比如接连去了日本、新加坡、越南和景德镇，9月搬回良渚文化村，双十一躲手索尼A7C2相机，等等。接下来会连续更新几篇游记流水账...",
           "link": "https://www.skyue.com/24102921.html",
           "publishedOn": "2024-10-29T13:20:00.000Z",
-          "wordCount": 550,
+          "wordCount": 559,
           "title": "日本关西旅行",
           "imageUrl": ""
         }

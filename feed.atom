@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-11-02T00:35:19.782Z</id>
+    <id>urn:2024-11-03T00:39:23.893Z</id>
     <title>osmos::feed</title>
-    <updated>2024-11-02T00:35:19.782Z</updated>
+    <updated>2024-11-03T00:39:23.893Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[新加坡出差见闻]]></title>
+        <id>https://www.skyue.com/24110219.html</id>
+        <link href="https://www.skyue.com/24110219.html"/>
+        <updated>2024-11-02T11:36:00.000Z</updated>
+        <summary type="html"><![CDATA[上一篇日本关西旅行提及求婚，收到朋友们的留言祝福，未能一一回复，在此感谢大家。从日本回来不久，9月9日到20日，到新加坡出差了两周，本文聊聊新加坡。新加坡很小，樟宜机场只有国际航班。有多小呢，土...]]></summary>
+        <author>
+            <name>拾月</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[上海女子沙白自杀的伦理道德分析]]></title>
         <id>https://www.williamlong.info/archives/7466.html</id>
