@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-11-05T00:35:35.681Z</id>
+    <id>urn:2024-11-06T00:35:18.978Z</id>
     <title>osmos::feed</title>
-    <updated>2024-11-05T00:35:35.681Z</updated>
+    <updated>2024-11-06T00:35:18.978Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[入手iPhone 16 Pro和AirPods 4]]></title>
+        <id>https://www.skyue.com/24110608.html</id>
+        <link href="https://www.skyue.com/24110608.html"/>
+        <updated>2024-11-06T00:31:00.000Z</updated>
+        <summary type="html"><![CDATA[今年换了新款AirPods 4和iPhone 16 Pro，都用了一月有余。AirPods 4上个AirPods还是一代，2018年花946元买的，2021年换过一次电池96元，共计1024元。...]]></summary>
+        <author>
+            <name>拾月</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“姜萍事件”调查结果公布]]></title>
         <id>https://www.williamlong.info/archives/7468.html</id>
