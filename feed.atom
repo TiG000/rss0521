@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-11-08T00:35:25.396Z</id>
+    <id>urn:2024-11-09T00:34:39.908Z</id>
     <title>osmos::feed</title>
-    <updated>2024-11-08T00:35:25.396Z</updated>
+    <updated>2024-11-09T00:34:39.908Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[拔牙]]></title>
+        <id>https://www.skyue.com/24110823.html</id>
+        <link href="https://www.skyue.com/24110823.html"/>
+        <updated>2024-11-08T15:17:00.000Z</updated>
+        <summary type="html"><![CDATA[继南瓜拔牙之后，我昨天也去拔牙了。我的牙片上图是我10月10日拍的牙片，4颗智齿全长出来了。医生看过后，说了两点：左侧上方那颗，已经蛀掉了，得拔掉下面2颗，大部分埋在牙龈中，会有些难拔日常偶尔会...]]></summary>
+        <author>
+            <name>拾月</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[入手iPhone 16 Pro和AirPods 4]]></title>
         <id>https://www.skyue.com/24110608.html</id>

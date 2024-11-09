@@ -12,12 +12,22 @@
       "siteUrl": "https://www.skyue.com/",
       "articles": [
         {
+          "id": "https://www.skyue.com/24110823.html",
+          "author": "拾月",
+          "description": "继南瓜拔牙之后，我昨天也去拔牙了。我的牙片上图是我10月10日拍的牙片，4颗智齿全长出来了。医生看过后，说了两点：左侧上方那颗，已经蛀掉了，得拔掉下面2颗，大部分埋在牙龈中，会有些难拔日常偶尔会...",
+          "link": "https://www.skyue.com/24110823.html",
+          "publishedOn": "2024-11-08T15:17:00.000Z",
+          "wordCount": 482,
+          "title": "拔牙",
+          "imageUrl": ""
+        },
+        {
           "id": "https://www.skyue.com/24110608.html",
           "author": "拾月",
           "description": "今年换了新款AirPods 4和iPhone 16 Pro，都用了一月有余。AirPods 4上个AirPods还是一代，2018年花946元买的，2021年换过一次电池96元，共计1024元。...",
           "link": "https://www.skyue.com/24110608.html",
           "publishedOn": "2024-11-06T00:31:00.000Z",
-          "wordCount": 601,
+          "wordCount": 590,
           "title": "入手iPhone 16 Pro和AirPods 4",
           "imageUrl": ""
         },
@@ -27,7 +37,7 @@
           "description": "上一篇日本关西旅行提及求婚，收到朋友们的留言祝福，未能一一回复，在此感谢大家。从日本回来不久，9月9日到20日，到新加坡出差了两周，本文聊聊新加坡。新加坡很小，樟宜机场只有国际航班。有多小呢，土...",
           "link": "https://www.skyue.com/24110219.html",
           "publishedOn": "2024-11-02T11:36:00.000Z",
-          "wordCount": 572,
+          "wordCount": 580,
           "title": "新加坡出差见闻",
           "imageUrl": ""
         },
@@ -37,7 +47,7 @@
           "description": "博客断更2个月，打破了保持很久的月更至少一篇。最近有很值得记录的事情，比如接连去了日本、新加坡、越南和景德镇，9月搬回良渚文化村，双十一躲手索尼A7C2相机，等等。接下来会连续更新几篇游记流水账...",
           "link": "https://www.skyue.com/24102921.html",
           "publishedOn": "2024-10-29T13:20:00.000Z",
-          "wordCount": 559,
+          "wordCount": 563,
           "title": "日本关西旅行",
           "imageUrl": ""
         }
