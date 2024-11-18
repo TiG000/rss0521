@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-11-17T00:40:36.135Z</id>
+    <id>urn:2024-11-18T00:39:40.081Z</id>
     <title>osmos::feed</title>
-    <updated>2024-11-17T00:40:36.135Z</updated>
+    <updated>2024-11-18T00:39:40.081Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[国庆越南旅行]]></title>
+        <id>https://www.skyue.com/24111708.html</id>
+        <link href="https://www.skyue.com/24111708.html"/>
+        <updated>2024-11-17T00:38:00.000Z</updated>
+        <summary type="html"><![CDATA[国庆7天，跟游侠客的团到越南玩。我们选目的地比较随意，首先国内哪哪人都多，尽量出国，但不想规划于是上游侠客找跟团游，越南团最便宜，且不需要请假，就它了。报团共计8780元，包括了机酒及当地一些团...]]></summary>
+        <author>
+            <name>拾月</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[李子柒已经正式改名并恢复更新]]></title>
         <id>https://www.williamlong.info/archives/7470.html</id>
