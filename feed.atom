@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-11-25T00:39:28.050Z</id>
+    <id>urn:2024-11-26T00:38:10.878Z</id>
     <title>osmos::feed</title>
-    <updated>2024-11-25T00:39:28.050Z</updated>
+    <updated>2024-11-26T00:38:10.878Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[入手索尼A7C2]]></title>
+        <id>https://www.skyue.com/24112604.html</id>
+        <link href="https://www.skyue.com/24112604.html"/>
+        <updated>2024-11-25T20:49:00.000Z</updated>
+        <summary type="html"><![CDATA[双11剁手了索尼A7C2。这是我买的第3台相机。第一台是2014年花了8000多买的尼康D7100，吃了两三年灰，最终卖掉了。第二台是2019年买的索尼A6400（价格忘了），吃灰一年，于202...]]></summary>
+        <author>
+            <name>拾月</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[国庆越南旅行]]></title>
         <id>https://www.skyue.com/24111708.html</id>
