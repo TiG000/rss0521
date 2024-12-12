@@ -1,10 +1,38 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-12-11T00:39:44.457Z</id>
+    <id>urn:2024-12-12T00:39:22.074Z</id>
     <title>osmos::feed</title>
-    <updated>2024-12-11T00:39:44.457Z</updated>
+    <updated>2024-12-12T00:39:22.074Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[谷歌推出突破性量子芯片]]></title>
+        <id>https://www.williamlong.info/archives/7476.html</id>
+        <link href="https://www.williamlong.info/archives/7476.html"/>
+        <updated>2024-12-10T12:54:31.000Z</updated>
+        <summary type="html"><![CDATA[美国谷歌公司9日宣布推出最新量子芯片Willow，谷歌首席执行官孙达尔·皮柴称其为迈向打造实用量子计算机的重要一步。
+
+
+谷歌在官方博客刊文说，Willow取得了两项重大成就：首先，使用更多量子比特进行扩展，可大幅度减少错误，解决了量子纠错领域近30年来一直试图攻克的关键难题。另外，在标准基准计算测试中，Willow展示了非常高的性能。
+
+
+量子比特利用叠加态来进行计算，对环境扰动极其敏感。通常量子比特越多，发生的错误就越多，而新研究有助解决这一难题。这一已发布在《自然》杂志上的研究显示，在Willow芯片中使用的量子比特越多，系统的错误率越低，“取得了‘低于阈值’的历史性成就，即在增加量子比特数量的同时降低错误率”。
+
+
+谷歌量子人工智能实验室创始人和领导者哈特穆特·内文说，作为第一个低于阈值的系统，这是迄今为止最可信的可扩展逻辑量子比特原型。Willow芯片的推出让量子计算向商业应用方向迈进了一大步。下一步挑战是展示量子芯片超越经典计算机，又能解决现实问题的能力。
+
+
+内文还表示，谷歌首创的随机电路采样 (RCS) 基准，已被广泛用于量子计算领域，是当今量子计算机可完成的难度最高的经典基准。Willow基于该基准取得了惊人表现，在不到五分钟的时间完成了当今领先的超级计算机需要10的25次方年才能完成的计算，“这一令人难以置信的数字超出了物理学中已知的时间尺度，远远超过了宇宙年龄”。
+
+
+内文说，人工智能和量子计算将被证明是当代最具变革性的两项技术，先进的人工智能将从量子计算中受益匪浅。这也是他将实验室命名为量子人工智能的原因。
+
+
+来源：新华社]]></summary>
+        <author>
+            <name>user@gmail.com (guest)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Google Adsense税务居住地证明申请教程]]></title>
         <id>https://www.williamlong.info/archives/7475.html</id>
