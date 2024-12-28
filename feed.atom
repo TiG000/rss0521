@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-12-27T00:38:15.683Z</id>
+    <id>urn:2024-12-28T00:35:11.128Z</id>
     <title>osmos::feed</title>
-    <updated>2024-12-27T00:38:15.683Z</updated>
+    <updated>2024-12-28T00:35:11.128Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -357,16 +357,6 @@ Catherine, Princess of Wales（凯瑟琳王妃）]]></summary>
 FTTR（Fiber to the Room），光纤到房间，是将光纤从通信基站一直延伸到家庭室内的每一个角落，从而为家庭用户提供极高速度的互联网接入服务。用光纤代替网线，通过部署光组网终端，实现与家庭网关互连，结合双频Wi-Fi、Wi-Fi6等技术，保障全屋网络覆盖的组网技术。]]></summary>
         <author>
             <name>williamlong.info@gmail.com (williamlong)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[景德镇之行]]></title>
-        <id>https://www.skyue.com/24112805.html</id>
-        <link href="https://www.skyue.com/24112805.html"/>
-        <updated>2024-11-27T21:22:00.000Z</updated>
-        <summary type="html"><![CDATA[现在高铁非常发达，杭州周边周末两天可探索的城市非常多。这不，10月26、27的周末，我们和朋友，去景德镇玩了一趟。高铁单程2个半小时左右。这也是入手索尼A7C2后，第一次带着出去玩。周六在瑶里古...]]></summary>
-        <author>
-            <name>拾月</name>
         </author>
     </entry>
 </feed>
