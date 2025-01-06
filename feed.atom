@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-01-05T00:39:24.502Z</id>
+    <id>urn:2025-01-06T00:37:44.357Z</id>
     <title>osmos::feed</title>
-    <updated>2025-01-05T00:39:24.502Z</updated>
+    <updated>2025-01-06T00:37:44.357Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[我的2024：赶进度]]></title>
+        <id>https://www.skyue.com/25010519.html</id>
+        <link href="https://www.skyue.com/25010519.html"/>
+        <updated>2025-01-05T11:08:00.000Z</updated>
+        <summary type="html"><![CDATA[上篇文章分享了南瓜和我领证的消息，收到很多朋友的祝福，在此一并感谢大家，也祝大家新年快乐！本文对2024年做个例行总结，继续使用去年的模板，内容会串起很多今年发布的博文，既是个人总结，也是对全年...]]></summary>
+        <author>
+            <name>拾月</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2024年财经年度总结]]></title>
         <id>https://www.williamlong.info/archives/7481.html</id>
