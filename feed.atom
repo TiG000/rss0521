@@ -1,10 +1,81 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-02-01T00:38:12.289Z</id>
+    <id>urn:2025-02-02T00:37:37.009Z</id>
     <title>osmos::feed</title>
-    <updated>2025-02-01T00:38:12.289Z</updated>
+    <updated>2025-02-02T00:37:37.009Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[DeepSeek与主流AI模型对比评测]]></title>
+        <id>https://www.williamlong.info/archives/7485.html</id>
+        <link href="https://www.williamlong.info/archives/7485.html"/>
+        <updated>2025-02-01T04:52:57.000Z</updated>
+        <summary type="html"><![CDATA[最近几天，中国低成本大语言模型深度求索（DeepSeek）欧美AI圈引起了不小的震动。据悉，来自杭州的初创企业深度求索1月20日发布DeepSeek-R1，该模型在测试表现、训练成本和开源开放程度等多个基准测试中均超越“ChatGPT之父”美国OpenAI公司的最新模型o1，但成本仅为o1的三十分之一。
+
+
+纽约时报报道称，DeepSeek大模型以极低成本（600万美元）和少量芯片（2000块）实现了与OpenAI等巨头相媲美的性能，挑战了“唯有科技巨头才能研发尖端AI”的行业共识。
+
+
+这一消息激起投资者的恐慌情绪，纷纷抛售美国科技股，导致美国人工智能巨头英伟达股价在1月27日暴跌近16%，市值蒸发近6000亿美元。
+
+
+那么，这款AI大语言模型究竟实力如何？与其他AI聊天机器人相比又有哪些优势和差异？接下来，我对相关产品进行了一些简单的评测。
+
+
+一、自然语言生成测试
+
+
+评估目标是测试AI是否能够提供富有创意的答案，尤其是对于开放性问题。
+
+
+我先测试了一个很简单的例子：“仿照《权力的游戏》里丹妮莉丝·坦格利安的称号，编一个特朗普的称号”。
+
+
+DeepSeek R1给出的答案是：
+
+
+
+唐纳德·特朗普
+
+
+推特风暴之王，高墙铸造者，七海关税之主；
+
+
+不羁金发的咆哮者，破产与复兴的凤凰，红领带之怒；
+
+
+弹劾浪潮中的幸存者，诉讼迷宫中的舞者，真相的弹性诠释者；
+
+
+自由世界的退群者，高尔夫球场领主，玛阿拉歌冬宫守护者。
+
+
+
+ChatGPT给出的答案是：
+
+
+
+美国的救世主，墙之建造者；
+
+
+商业帝国之王，民众的声音；
+
+
+白宫的统治者，现实之破坏者；
+
+
+大国之骄傲，外交之火焰；
+
+
+推特的君王，全球的震撼者。
+
+
+
+从语言的艺术性、现实性、以及中文环境的语感上看，在这个问题上，D…]]></summary>
+        <author>
+            <name>user@gmail.com (recommend)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[博客十周年]]></title>
         <id>https://www.skyue.com/25013022.html</id>
@@ -16,30 +87,10 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[置换房子]]></title>
-        <id>https://www.skyue.com/25012618.html</id>
-        <link href="https://www.skyue.com/25012618.html"/>
-        <updated>2025-01-26T10:21:00.000Z</updated>
-        <summary type="html"><![CDATA[最近置换房子，节奏如下，全程无缝衔接。日期旧房子新房子2024-10-13（周日） 看房：绿汀路的杭珹、建发2024-11-17（周日） 看房：香悦四季轩、远洋西溪公馆、翡翠城二期、华元蒙卡岸2...]]></summary>
-        <author>
-            <name>拾月</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[绍兴、良渚遗址公园]]></title>
-        <id>https://www.skyue.com/25012121.html</id>
-        <link href="https://www.skyue.com/25012121.html"/>
-        <updated>2025-01-21T13:13:00.000Z</updated>
-        <summary type="html"><![CDATA[前段时间周末各种看房，都没出去玩，最近两周有所恢复，上上周末去绍兴玩了两天，上周日到良渚遗址公园玩。绍兴11号在安昌古镇和鉴湖。安昌古镇很热闹，年味不错。鉴湖，主要逛了下先锋书店，先锋书店在全国...]]></summary>
-        <author>
-            <name>拾月</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[TikTok停止在美国服务]]></title>
         <id>https://www.williamlong.info/archives/7484.html</id>
         <link href="https://www.williamlong.info/archives/7484.html"/>
-        <updated>2025-01-19T06:41:14.000Z</updated>
+        <updated>2025-01-30T06:41:14.000Z</updated>
         <summary type="html"><![CDATA[当地时间1月17日，美国最高法院裁定支持短视频社交媒体平台TikTok在美禁令。TikTok的应用程序最早将于19日在美国下架。拜登政府当天宣布，实施这项法律的行动责任将由特朗普政府承担。
 
 
@@ -73,11 +124,21 @@ TikTok首席执行官周受资表示，将尽全力确保TikTok平台未来继�
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[无痛胃肠镜检查]]></title>
-        <id>https://www.skyue.com/25011720.html</id>
-        <link href="https://www.skyue.com/25011720.html"/>
-        <updated>2025-01-17T12:47:00.000Z</updated>
-        <summary type="html"><![CDATA[去年公司请薄世宁医生分享体检知识，他提到3个必要检查中，有一个胃肠镜，联想到我一直消化不太好，体质偏瘦，就想着去做一个。但我很懒，一直拖着，直到上个月便血去医院检查，医生说是痔疮，并建议我做胃肠...]]></summary>
+        <title type="html"><![CDATA[置换房子]]></title>
+        <id>https://www.skyue.com/25012618.html</id>
+        <link href="https://www.skyue.com/25012618.html"/>
+        <updated>2025-01-26T10:21:00.000Z</updated>
+        <summary type="html"><![CDATA[最近置换房子，节奏如下，全程无缝衔接。日期旧房子新房子2024-10-13（周日） 看房：绿汀路的杭珹、建发2024-11-17（周日） 看房：香悦四季轩、远洋西溪公馆、翡翠城二期、华元蒙卡岸2...]]></summary>
+        <author>
+            <name>拾月</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[绍兴、良渚遗址公园]]></title>
+        <id>https://www.skyue.com/25012121.html</id>
+        <link href="https://www.skyue.com/25012121.html"/>
+        <updated>2025-01-21T13:13:00.000Z</updated>
+        <summary type="html"><![CDATA[前段时间周末各种看房，都没出去玩，最近两周有所恢复，上上周末去绍兴玩了两天，上周日到良渚遗址公园玩。绍兴11号在安昌古镇和鉴湖。安昌古镇很热闹，年味不错。鉴湖，主要逛了下先锋书店，先锋书店在全国...]]></summary>
         <author>
             <name>拾月</name>
         </author>
@@ -86,7 +147,7 @@ TikTok首席执行官周受资表示，将尽全力确保TikTok平台未来继�
         <title type="html"><![CDATA[我的三观（世界观、价值观、人生观）]]></title>
         <id>https://www.williamlong.info/archives/7483.html</id>
         <link href="https://www.williamlong.info/archives/7483.html"/>
-        <updated>2025-01-17T11:45:07.000Z</updated>
+        <updated>2025-01-20T11:45:07.000Z</updated>
         <summary type="html"><![CDATA[三观包括：世界观、人生观、价值观。世界观是人们对世界的理解和认知，解决“世界的本质和规律是什么”这一问题，人生观是指对人生的看法，解决“我为什么活着”这一问题，价值观是指判断事情对错的标准，解决了“如何判断善恶”这一问题。
 
 
@@ -123,6 +184,16 @@ TikTok首席执行官周受资表示，将尽全力确保TikTok平台未来继�
 再如：人类起源使用达尔文的进化论来解释，所有生命形式都有共同的祖先，并且物种是通过长期的演化过程逐步改变的，大约在700万至1000万年前，具有直…]]></summary>
         <author>
             <name>user@gmail.com (recommend)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[无痛胃肠镜检查]]></title>
+        <id>https://www.skyue.com/25011720.html</id>
+        <link href="https://www.skyue.com/25011720.html"/>
+        <updated>2025-01-17T12:47:00.000Z</updated>
+        <summary type="html"><![CDATA[去年公司请薄世宁医生分享体检知识，他提到3个必要检查中，有一个胃肠镜，联想到我一直消化不太好，体质偏瘦，就想着去做一个。但我很懒，一直拖着，直到上个月便血去医院检查，医生说是痔疮，并建议我做胃肠...]]></summary>
+        <author>
+            <name>拾月</name>
         </author>
     </entry>
     <entry>
