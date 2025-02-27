@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-02-26T00:37:06.261Z</id>
+    <id>urn:2025-02-27T00:36:57.912Z</id>
     <title>osmos::feed</title>
-    <updated>2025-02-26T00:37:06.261Z</updated>
+    <updated>2025-02-27T00:36:57.912Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[拾月推荐（第38期）]]></title>
+        <id>https://www.skyue.com/25022622.html</id>
+        <link href="https://www.skyue.com/25022622.html"/>
+        <updated>2025-02-26T14:27:00.000Z</updated>
+        <summary type="html"><![CDATA[邮件通讯好久没更新了，尝试恢复更新，也是一次测试，至于测试什么，留下悬念容我下回分解。以下是从收藏夹捞的文章，不那么近期看的。☆ 最好的致敬是学习：DeepSeek R1赏析\_哔哩哔哩\_bi...]]></summary>
+        <author>
+            <name>拾月</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[深入解读《哪吒2》的“我命由我不由天”]]></title>
         <id>https://www.williamlong.info/archives/7487.html</id>
