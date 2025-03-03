@@ -12,12 +12,22 @@
       "siteUrl": "https://www.skyue.com/",
       "articles": [
         {
+          "id": "https://www.skyue.com/25030222.html",
+          "author": "拾月",
+          "description": "周末双方父母约见面，极限操作：南瓜父母：周五跟她姐姐一家开车从高平到杭州，全程12小时左右，今天（周日）上午10点火车回家。我父母：昨天早上7点40火车从九江到杭州，也是今天上午10点火车回家。...",
+          "link": "https://www.skyue.com/25030222.html",
+          "publishedOn": "2025-03-02T14:14:00.000Z",
+          "wordCount": 577,
+          "title": "父母见面",
+          "imageUrl": ""
+        },
+        {
           "id": "https://www.skyue.com/25030100.html",
           "author": "拾月",
           "description": "一个简单的功能介绍和使用说明：1、注册登录后自动进入个人首页，有账户类型、余额、消费记录、充值记录和Newsletter列表。2、点击创建，进入创建页面，可创建自己的RSS转Newsletter...",
           "link": "https://www.skyue.com/25030100.html",
           "publishedOn": "2025-02-28T16:01:00.000Z",
-          "wordCount": 541,
+          "wordCount": 607,
           "title": "RSS to Email使用教程",
           "imageUrl": ""
         },
@@ -27,7 +37,7 @@
           "description": "上一篇拾月推荐（第38期）中提到我在做一个实验，其实是测试我的新项目：RSS to Email。我的博客同时支持RSS和Email订阅，其中Email订阅的服务换过很多次，或是因为价格，或是因为...",
           "link": "https://www.skyue.com/25022823.html",
           "publishedOn": "2025-02-28T15:47:00.000Z",
-          "wordCount": 566,
+          "wordCount": 637,
           "title": "新项目RSS to Email上线",
           "imageUrl": ""
         },
@@ -37,7 +47,7 @@
           "description": "邮件通讯好久没更新了，尝试恢复更新，也是一次测试，至于测试什么，留下悬念容我下回分解。以下是从收藏夹捞的文章，不那么近期看的。☆ 最好的致敬是学习：DeepSeek R1赏析\\_哔哩哔哩\\_bi...",
           "link": "https://www.skyue.com/25022622.html",
           "publishedOn": "2025-02-26T14:27:00.000Z",
-          "wordCount": 528,
+          "wordCount": 596,
           "title": "拾月推荐（第38期）",
           "imageUrl": ""
         },
@@ -47,7 +57,7 @@
           "description": "www.pinfive.today2022年初上线的PinFive.Today，我在文章中说，至少维持三年吧，毕竟服务器买了三年。没想到这么快就到了。目前网站没有活跃用户，我自己最后一次更新停留...",
           "link": "https://www.skyue.com/25021700.html",
           "publishedOn": "2025-02-16T16:09:00.000Z",
-          "wordCount": 638,
+          "wordCount": 687,
           "title": "纪念下pinfive.today",
           "imageUrl": ""
         },
@@ -57,7 +67,7 @@
           "description": "搬离良渚之前置换房子，郡东房子已然易主，临近年关不想搬家，于是反租一个多月。春节返杭直奔未名府找房子，火速租了一间公寓，方便后续盯装修。今天搬家，从2017年7月1日到2025年2月9日，在良渚...",
           "link": "https://www.skyue.com/25021000.html",
           "publishedOn": "2025-02-09T16:43:00.000Z",
-          "wordCount": 569,
+          "wordCount": 626,
           "title": "搬离良渚、哪吒2",
           "imageUrl": ""
         }
@@ -86,16 +96,6 @@
           "publishedOn": "2025-02-10T13:16:16.000Z",
           "wordCount": 182,
           "title": "中医理论不是科学理论",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.williamlong.info/archives/7485.html",
-          "author": "user@gmail.com (recommend)",
-          "description": "最近几天，中国低成本大语言模型深度求索（DeepSeek）欧美AI圈引起了不小的震动。据悉，来自杭州的初创企业深度求索1月20日发布DeepSeek-R1，该模型在测试表现、训练成本和开源开放程度等多个基准测试中均超越“ChatGPT之父”美国OpenAI公司的最新模型o1，但成本仅为o1的三十分之一。\n\r\n\r\n纽约时报报道称，DeepSeek大模型以极低成本（600万美元）和少量芯片（2000块）实现了与OpenAI等巨头相媲美的性能，挑战了“唯有科技巨头才能研发尖端AI”的行业共识。\n\r\n\r\n这一消息激起投资者的恐慌情绪，纷纷抛售美国科技股，导致美国人工智能巨头英伟达股价在1月27日暴跌近16%，市值蒸发近6000亿美元。\n\r\n\r\n那么，这款AI大语言模型究竟实力如何？与其他AI聊天机器人相比又有哪些优势和差异？接下来，我对相关产品进行了一些简单的评测。\n\r\n\r\n一、自然语言生成测试\n\r\n\r\n评估目标是测试AI是否能够提供富有创意的答案，尤其是对于开放性问题。\n\r\n\r\n我先测试了一个很简单的例子：“仿照《权力的游戏》里丹妮莉丝·坦格利安的称号，编一个特朗普的称号”。\n\r\n\r\nDeepSeek R1给出的答案是：\n\r\n\r\n\r\n唐纳德·特朗普\n\r\n\r\n推特风暴之王，高墙铸造者，七海关税之主；\n\r\n\r\n不羁金发的咆哮者，破产与复兴的凤凰，红领带之怒；\n\r\n\r\n弹劾浪潮中的幸存者，诉讼迷宫中的舞者，真相的弹性诠释者；\n\r\n\r\n自由世界的退群者，高尔夫球场领主，玛阿拉歌冬宫守护者。\n\r\n\r\n\r\nChatGPT给出的答案是：\n\r\n\r\n\r\n美国的救世主，墙之建造者；\n\r\n\r\n商业帝国之王，民众的声音；\n\r\n\r\n白宫的统治者，现实之破坏者；\n\r\n\r\n大国之骄傲，外交之火焰；\n\r\n\r\n推特的君王，全球的震撼者。\n\r\n\r\n\r\n从语言的艺术性、现实性、以及中文环境的语感上看，在这个问题上，D…",
-          "link": "https://www.williamlong.info/archives/7485.html",
-          "publishedOn": "2025-02-01T04:52:57.000Z",
-          "wordCount": 229,
-          "title": "DeepSeek与主流AI模型对比评测",
           "imageUrl": null
         }
       ]

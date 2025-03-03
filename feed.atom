@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-03-02T00:39:45.960Z</id>
+    <id>urn:2025-03-03T00:39:24.393Z</id>
     <title>osmos::feed</title>
-    <updated>2025-03-02T00:39:45.960Z</updated>
+    <updated>2025-03-03T00:39:24.393Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[父母见面]]></title>
+        <id>https://www.skyue.com/25030222.html</id>
+        <link href="https://www.skyue.com/25030222.html"/>
+        <updated>2025-03-02T14:14:00.000Z</updated>
+        <summary type="html"><![CDATA[周末双方父母约见面，极限操作：南瓜父母：周五跟她姐姐一家开车从高平到杭州，全程12小时左右，今天（周日）上午10点火车回家。我父母：昨天早上7点40火车从九江到杭州，也是今天上午10点火车回家。...]]></summary>
+        <author>
+            <name>拾月</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[RSS to Email使用教程]]></title>
         <id>https://www.skyue.com/25030100.html</id>
@@ -166,77 +176,6 @@
         <summary type="html"><![CDATA[搬离良渚之前置换房子，郡东房子已然易主，临近年关不想搬家，于是反租一个多月。春节返杭直奔未名府找房子，火速租了一间公寓，方便后续盯装修。今天搬家，从2017年7月1日到2025年2月9日，在良渚...]]></summary>
         <author>
             <name>拾月</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DeepSeek与主流AI模型对比评测]]></title>
-        <id>https://www.williamlong.info/archives/7485.html</id>
-        <link href="https://www.williamlong.info/archives/7485.html"/>
-        <updated>2025-02-01T04:52:57.000Z</updated>
-        <summary type="html"><![CDATA[最近几天，中国低成本大语言模型深度求索（DeepSeek）欧美AI圈引起了不小的震动。据悉，来自杭州的初创企业深度求索1月20日发布DeepSeek-R1，该模型在测试表现、训练成本和开源开放程度等多个基准测试中均超越“ChatGPT之父”美国OpenAI公司的最新模型o1，但成本仅为o1的三十分之一。
-
-
-纽约时报报道称，DeepSeek大模型以极低成本（600万美元）和少量芯片（2000块）实现了与OpenAI等巨头相媲美的性能，挑战了“唯有科技巨头才能研发尖端AI”的行业共识。
-
-
-这一消息激起投资者的恐慌情绪，纷纷抛售美国科技股，导致美国人工智能巨头英伟达股价在1月27日暴跌近16%，市值蒸发近6000亿美元。
-
-
-那么，这款AI大语言模型究竟实力如何？与其他AI聊天机器人相比又有哪些优势和差异？接下来，我对相关产品进行了一些简单的评测。
-
-
-一、自然语言生成测试
-
-
-评估目标是测试AI是否能够提供富有创意的答案，尤其是对于开放性问题。
-
-
-我先测试了一个很简单的例子：“仿照《权力的游戏》里丹妮莉丝·坦格利安的称号，编一个特朗普的称号”。
-
-
-DeepSeek R1给出的答案是：
-
-
-
-唐纳德·特朗普
-
-
-推特风暴之王，高墙铸造者，七海关税之主；
-
-
-不羁金发的咆哮者，破产与复兴的凤凰，红领带之怒；
-
-
-弹劾浪潮中的幸存者，诉讼迷宫中的舞者，真相的弹性诠释者；
-
-
-自由世界的退群者，高尔夫球场领主，玛阿拉歌冬宫守护者。
-
-
-
-ChatGPT给出的答案是：
-
-
-
-美国的救世主，墙之建造者；
-
-
-商业帝国之王，民众的声音；
-
-
-白宫的统治者，现实之破坏者；
-
-
-大国之骄傲，外交之火焰；
-
-
-推特的君王，全球的震撼者。
-
-
-
-从语言的艺术性、现实性、以及中文环境的语感上看，在这个问题上，D…]]></summary>
-        <author>
-            <name>user@gmail.com (recommend)</name>
         </author>
     </entry>
 </feed>
