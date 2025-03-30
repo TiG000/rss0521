@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-03-29T00:38:42.517Z</id>
+    <id>urn:2025-03-30T00:43:01.326Z</id>
     <title>osmos::feed</title>
-    <updated>2025-03-29T00:38:42.517Z</updated>
+    <updated>2025-03-30T00:43:01.326Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -125,40 +125,6 @@
         <summary type="html"><![CDATA[上一篇拾月推荐（第38期）中提到我在做一个实验，其实是测试我的新项目：RSS to Email。我的博客同时支持RSS和Email订阅，其中Email订阅的服务换过很多次，或是因为价格，或是因为...]]></summary>
         <author>
             <name>拾月</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[《魔兽世界》正式服PVP教程]]></title>
-        <id>https://www.williamlong.info/archives/7488.html</id>
-        <link href="https://www.williamlong.info/archives/7488.html"/>
-        <updated>2025-02-28T10:01:08.000Z</updated>
-        <summary type="html"><![CDATA[《魔兽世界》游戏有很多种不同的玩法，无论是PVE还是PVP玩家，都可以在自己的玩法里获得很多快乐，PVE玩家可以参与随机副本、团队副本、大秘境、地下堡等等，PVP玩家可以参与战场、竞技场等等，这篇文章是想帮助部分想要入门魔兽世界PVP却还停留在摸索阶段的玩家，快速的了解魔兽世界PVP相关知识，掌握战场与竞技场的常用技巧，提升胜率与游戏体验。
-
-
-现在，《魔兽世界》11.1版本的第二赛季已经拉开帷幕，为了让更多新玩家能够顺利融入这款游戏，作为一名拥有13个全职业满级角色、累计游戏时长达到8900小时的老玩家，尽管我自认为是休闲玩家，但经过长时间的探索与实践，我也积累了不少宝贵的实战经验。下面，我就来分享一些我在游戏过程中的心得体会。
-
-
-独狼玩家的狂想曲
-
-
-《魔兽世界》11版本对独狼玩家极其友好，无论是PVE还是PVP，均可通过单人独狼玩法高效获取高等级的装备。
-
-
-PVE方面，无需依赖固定队，专注刷地下堡即可获得勇士装备。推荐优先挑战高层大秘境，每周低保奖励能稳定提升装等。
-
-
-PVP方面，独狼玩家就更爽了，除了原有的征服装备、荣誉装备之外，还可以用血腥硬币购买老兵装备，其等级和征服勇士装备相差无几，赛季中后期入场，仅需数日即可兑换全套老兵装（装等接近征服装）。
-
-
-战场VS竞技场
-
-
-新手PVP玩家会面临两个选择，战场还是竞技场，这两个PVP区别非常大，玩法也很不同，两条线路都可以拿到毕业装备。新手建议从战场入手，熟悉PVP机制后再尝试竞技场。
-
-
-对于单人独狼玩家来说，战场分为随机战场、随机史诗战场、评级战场闪电战这三个。建议新手先玩随机战场和随机史诗战场，等PVP荣誉装备毕业后，排评级战场闪电战，这些都可以单人排，新手建议排DPS，不要排治疗或坦克，否则容易坑队伍。史诗战场是40人大型战场，胜负更依赖团队协作，新手装备不好也可以在里面…]]></summary>
-        <author>
-            <name>williamlong.info@gmail.com (williamlong)</name>
         </author>
     </entry>
 </feed>
