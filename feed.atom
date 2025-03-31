@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-03-30T00:43:01.326Z</id>
+    <id>urn:2025-03-31T00:41:50.881Z</id>
     <title>osmos::feed</title>
-    <updated>2025-03-30T00:43:01.326Z</updated>
+    <updated>2025-03-31T00:41:50.881Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -105,26 +105,6 @@
 也就是说，对待他人要尊重其尊严和权利，不能…]]></summary>
         <author>
             <name>williamlong.info@gmail.com (williamlong)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RSS to Email使用教程]]></title>
-        <id>https://www.skyue.com/25030100.html</id>
-        <link href="https://www.skyue.com/25030100.html"/>
-        <updated>2025-02-28T16:01:00.000Z</updated>
-        <summary type="html"><![CDATA[一个简单的功能介绍和使用说明：1、注册登录后自动进入个人首页，有账户类型、余额、消费记录、充值记录和Newsletter列表。2、点击创建，进入创建页面，可创建自己的RSS转Newsletter...]]></summary>
-        <author>
-            <name>拾月</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[新项目RSS to Email上线]]></title>
-        <id>https://www.skyue.com/25022823.html</id>
-        <link href="https://www.skyue.com/25022823.html"/>
-        <updated>2025-02-28T15:47:00.000Z</updated>
-        <summary type="html"><![CDATA[上一篇拾月推荐（第38期）中提到我在做一个实验，其实是测试我的新项目：RSS to Email。我的博客同时支持RSS和Email订阅，其中Email订阅的服务换过很多次，或是因为价格，或是因为...]]></summary>
-        <author>
-            <name>拾月</name>
         </author>
     </entry>
 </feed>
