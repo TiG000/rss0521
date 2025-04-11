@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-04-10T00:38:43.751Z</id>
+    <id>urn:2025-04-11T00:39:59.627Z</id>
     <title>osmos::feed</title>
-    <updated>2025-04-10T00:38:43.751Z</updated>
+    <updated>2025-04-11T00:39:59.627Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -95,16 +95,6 @@
         <link href="https://www.skyue.com/25031322.html"/>
         <updated>2025-03-13T14:42:00.000Z</updated>
         <summary type="html"><![CDATA[在电商行业干久了，经历过多家公司，就会发现：行业内所有产品都在向淘宝靠拢，内部方案沟通，经常被cue的问题就是「淘宝怎么做的」，如果做国际电商，镜像就是「亚马逊怎么做的」。这些公司通常也会定向招...]]></summary>
-        <author>
-            <name>拾月</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[家博会&amp;婚博会]]></title>
-        <id>https://www.skyue.com/25031123.html</id>
-        <link href="https://www.skyue.com/25031123.html"/>
-        <updated>2025-03-11T15:23:00.000Z</updated>
-        <summary type="html"><![CDATA[最近极限操作，装修和备婚并行。2月22日和3月9日南瓜和我去了两趟杭州国际博览中心，分别参加家博会和婚博会。两次会场总体还算热闹，没有人山人海那么夸张，但也络绎不绝。在电商的冲击下，线下博览会仍...]]></summary>
         <author>
             <name>拾月</name>
         </author>
