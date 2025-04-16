@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-04-15T00:40:33.626Z</id>
+    <id>urn:2025-04-16T00:40:50.227Z</id>
     <title>osmos::feed</title>
-    <updated>2025-04-15T00:40:33.626Z</updated>
+    <updated>2025-04-16T00:40:50.227Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -60,16 +60,6 @@
 限制条件：如果有任何限制条件，比…]]></summary>
         <author>
             <name>williamlong.info@gmail.com (williamlong)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[装修日记（1）：各种准备工作]]></title>
-        <id>https://www.skyue.com/25031621.html</id>
-        <link href="https://www.skyue.com/25031621.html"/>
-        <updated>2025-03-16T13:10:00.000Z</updated>
-        <summary type="html"><![CDATA[春节回来后，南瓜和我一直在做装修准备工作，稍作整理，希望对同在装修的朋友有帮助。事情包括：请第三方监理确定装修公司确定装修方案硬装选材硬装大件确定：中央空调、地暖、系统窗、定制柜装修备案拆旧挑些...]]></summary>
-        <author>
-            <name>拾月</name>
         </author>
     </entry>
 </feed>
