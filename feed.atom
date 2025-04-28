@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-04-27T00:43:03.521Z</id>
+    <id>urn:2025-04-28T00:42:11.471Z</id>
     <title>osmos::feed</title>
-    <updated>2025-04-27T00:43:03.521Z</updated>
+    <updated>2025-04-28T00:42:11.471Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[情绪记录]]></title>
+        <id>https://www.skyue.com/25042723.html</id>
+        <link href="https://www.skyue.com/25042723.html"/>
+        <updated>2025-04-27T15:07:00.000Z</updated>
+        <summary type="html"><![CDATA[很久没更新了，今天也没力气写什么，纯纯吐槽。最近两个月，工作压力非常大，原因也很简单，目标没完成，不只是我们的目标没完成，是整个业务的目标没完成，然后自上而下，一层层push，分析原因，上手段。...]]></summary>
+        <author>
+            <name>拾月</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[《暗黑破坏神3》国服回归]]></title>
         <id>https://www.williamlong.info/archives/7495.html</id>
