@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-04-30T00:40:22.886Z</id>
+    <id>urn:2025-05-01T00:45:18.350Z</id>
     <title>osmos::feed</title>
-    <updated>2025-04-30T00:40:22.886Z</updated>
+    <updated>2025-05-01T00:45:18.350Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[柏林和布拉格]]></title>
+        <id>https://www.skyue.com/25043013.html</id>
+        <link href="https://www.skyue.com/25043013.html"/>
+        <updated>2025-04-30T05:54:00.000Z</updated>
+        <summary type="html"><![CDATA[上篇吐槽收到一些博友的回复，有被宽慰到，感谢大家。虽然工作忙，休假时该出门时就出门，拒绝内耗。3月23日至4月4日，到柏林出差，从法国入境，在巴黎玩了一天，中间的周末和同事到布拉格玩了两天。分享...]]></summary>
+        <author>
+            <name>拾月</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[情绪记录]]></title>
         <id>https://www.skyue.com/25042723.html</id>
