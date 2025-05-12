@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-05-11T00:44:25.244Z</id>
+    <id>urn:2025-05-12T00:43:33.581Z</id>
     <title>osmos::feed</title>
-    <updated>2025-05-11T00:44:25.244Z</updated>
+    <updated>2025-05-12T00:43:33.581Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[我们的婚礼]]></title>
+        <id>https://www.skyue.com/25051116.html</id>
+        <link href="https://www.skyue.com/25051116.html"/>
+        <updated>2025-05-11T08:14:00.000Z</updated>
+        <summary type="html"><![CDATA[2025年4月19日，我和南瓜在我的老家九江完成了婚礼仪式，并于5月5日在南瓜老家高平办了出阁仪式。相比领证，两场仪式更具象征意义，过程中也投入了非常多的时间和精力，完成了今年最重要的两件事之一...]]></summary>
+        <author>
+            <name>拾月</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[NotebookLM音频概览支持中文]]></title>
         <id>https://www.williamlong.info/archives/7496.html</id>
