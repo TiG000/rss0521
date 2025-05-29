@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-05-28T00:41:44.230Z</id>
+    <id>urn:2025-05-29T00:41:43.258Z</id>
     <title>osmos::feed</title>
-    <updated>2025-05-28T00:41:44.230Z</updated>
+    <updated>2025-05-29T00:41:43.258Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -249,27 +249,6 @@ NotebookLM访问地址：https://notebooklm.google.com
         <summary type="html"><![CDATA[上篇吐槽收到一些博友的回复，有被宽慰到，感谢大家。虽然工作忙，休假时该出门时就出门，拒绝内耗。3月23日至4月4日，到柏林出差，从法国入境，在巴黎玩了一天，中间的周末和同事到布拉格玩了两天。分享...]]></summary>
         <author>
             <name>拾月</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[贵州茅台2025Q1营收、净利实现双位数增长，国际化市场持续发力，这份超预期的业绩你满意吗？]]></title>
-        <id>https://xueqiu.com/8152922548/333656164</id>
-        <link href="https://xueqiu.com/8152922548/333656164"/>
-        <updated>2025-04-29T11:48:34.000Z</updated>
-        <summary type="html"><![CDATA[4月29日晚，$贵州茅台(SH600519)$ 发布2025年一季报，报告显示，今年第一季度实现营业总收入514.43亿元，同比增$长10.67%，归属于上市公司股东的净利润实现268.47亿元，同比增长11.56%，营业总收入和利润增速均达到两位数增长目标，超越9%既定年度增长目标，增速表现超出预期。值得一提的是，营业...]]></summary>
-        <author>
-            <name>今日话题 的雪球全部动态</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[征文进行时 | 科创+医药双驱动，写下你的掘金密码！]]></title>
-        <id>https://xueqiu.com/8152922548/333532033</id>
-        <link href="https://xueqiu.com/8152922548/333532033"/>
-        <updated>2025-04-29T01:30:47.000Z</updated>
-        <summary type="html"><![CDATA[#科创+医药大爆发，逆袭通道开启！#
-在资本市场浪潮奔涌的当下，科创医药指数ETF（SH588700）正以 "硬科技" 与政策红利的双重赋能，成为投资者锚定生物医药未来的关键坐标。当 AI 算法重构药物研发链条，当国产创新药叩开全球市场大门，当高端医疗器械打破进口垄断壁垒，这只聚焦科创...]]></summary>
-        <author>
-            <name>今日话题 的雪球全部动态</name>
         </author>
     </entry>
 </feed>
