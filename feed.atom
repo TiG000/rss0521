@@ -1,10 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-05-29T00:41:43.258Z</id>
+    <id>urn:2025-05-30T00:41:30.025Z</id>
     <title>osmos::feed</title>
-    <updated>2025-05-29T00:41:43.258Z</updated>
+    <updated>2025-05-30T00:41:30.025Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[来源：雪球App，作者： 今日话题，（https://xueqiu.com/8152922548/336839246）新规后首笔重大合并，强强联合，国产芯片之路再度升级$信创ETF(SH562570)$@科创1...]]></title>
+        <id>https://xueqiu.com/8152922548/336839246</id>
+        <link href="https://xueqiu.com/8152922548/336839246"/>
+        <updated>2025-05-29T06:18:28.000Z</updated>
+        <summary type="html"><![CDATA[新规后首笔重大合并，强强联合，国产芯片之路再度升级$信创ETF(SH562570)$
+科创100君: 早盘热门ETF：$信创ETF(SH562570)$ 
+01 科技巨头强强联合
+本周伊始，一则半导体行业的消息打破宁静。
+上海证券交易所主板上市公司曙光信息产业股份有限公司(简称“中科曙光”)与科创板上市公司海光信息技术股份有限公司(简称“海光信息”)共同宣布，两家公司拟进行战略重组。
+敲一...]]></summary>
+        <author>
+            <name>今日话题 的雪球全部动态</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[大奉打更人]]></title>
         <id>https://www.skyue.com/25052511.html</id>
@@ -239,16 +254,6 @@ NotebookLM访问地址：https://notebooklm.google.com
 来源：IT之家]]></summary>
         <author>
             <name>user@gmail.com (guest)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[柏林和布拉格]]></title>
-        <id>https://www.skyue.com/25043013.html</id>
-        <link href="https://www.skyue.com/25043013.html"/>
-        <updated>2025-04-30T05:54:00.000Z</updated>
-        <summary type="html"><![CDATA[上篇吐槽收到一些博友的回复，有被宽慰到，感谢大家。虽然工作忙，休假时该出门时就出门，拒绝内耗。3月23日至4月4日，到柏林出差，从法国入境，在巴黎玩了一天，中间的周末和同事到布拉格玩了两天。分享...]]></summary>
-        <author>
-            <name>拾月</name>
         </author>
     </entry>
 </feed>
