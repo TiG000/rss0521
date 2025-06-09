@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-06-08T00:47:58.604Z</id>
+    <id>urn:2025-06-09T00:45:37.400Z</id>
     <title>osmos::feed</title>
-    <updated>2025-06-08T00:47:58.604Z</updated>
+    <updated>2025-06-09T00:45:37.400Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[好物推荐：印章、镜头、水果叉]]></title>
+        <id>https://www.skyue.com/25060818.html</id>
+        <link href="https://www.skyue.com/25060818.html"/>
+        <updated>2025-06-08T10:49:00.000Z</updated>
+        <summary type="html"><![CDATA[分享几个近期好物。]]></summary>
+        <author>
+            <name>拾月</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fox Day]]></title>
+        <id>https://www.skyue.com/25060809.html</id>
+        <link href="https://www.skyue.com/25060809.html"/>
+        <updated>2025-06-08T01:41:00.000Z</updated>
+        <summary type="html"><![CDATA[老板英文名叫Nick，用了电影《疯狂动物城》的Nick做头像。周五下午在团队小群突然聊到大家的头像，有人提议要不要都换《疯狂动物城》里的动物做头像，我突发奇想，干脆都换Nick的不同风格头像更好...]]></summary>
+        <author>
+            <name>拾月</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[《暗黑破坏神3》第35赛季开荒指南]]></title>
         <id>https://www.williamlong.info/archives/7502.html</id>
@@ -144,52 +164,6 @@
         <summary type="html"><![CDATA[2025年4月19日，我和南瓜在我的老家九江完成了婚礼仪式，并于5月5日在南瓜老家高平办了出阁仪式。相比领证，两场仪式更具象征意义，过程中也投入了非常多的时间和精力，完成了今年最重要的两件事之一...]]></summary>
         <author>
             <name>拾月</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[播客自动化更新分发教程]]></title>
-        <id>https://www.williamlong.info/archives/7498.html</id>
-        <link href="https://www.williamlong.info/archives/7498.html"/>
-        <updated>2025-05-10T08:03:07.000Z</updated>
-        <summary type="html"><![CDATA[摘要：自动更新和多平台同步播客的方法：找到一些特定材料，分批导入notebooklm，输入提示词，生成音频文件。在喜马拉雅（国内）或spotify（国外）上创建播客，将音频文件上传，并生成RSS Feed。在iTunes、Youtube、网易云音乐等平台创建播客，选择使用RSS，并将其导入。之后，只需要更新喜马拉雅或spotify，即可同步将播客发布到多个平台。
-
-
-今天我将介绍一下怎么用 AI + 自动化工具，实现播客内容的“一次制作、多平台分发”。
-
-
-播客是啥？现在谁还在听？
-
-
-播客（英文：Podcast）是指的是通过数字广播技术制作的，在互联网上传播的音频内容。简单来说，播客就是“可以订阅的音频节目”，你可以把它理解成“音频版的专栏文章”或者“随时能听的电台节目”。它不像直播那样需要你盯着屏幕，也不像视频那样吃流量，适合开车、做饭、散步的时候听。
-
-
-在内容泛滥的今天，播客反而成了注意力稀缺下的“净土”——节奏慢、干货多、听众粘性强。
-
-
-目前主流播客平台包括：
-
-
-国内平台： 喜马拉雅、网易云音乐、小宇宙
-
-
-海外平台： Apple Podcasts、Spotify、YouTube Music、Pocket Casts
-
-
-大部分平台都支持用 RSS Feed 自动订阅内容更新——这就是我们可以“自动同步”的关键点。
-
-
-根据《PodFest China2020中文播客听众与消费调研》显示，中文播客听众最常使用的5个收听渠道是：Apple Podcasts（49.7％）、喜马拉雅（37.9％）、网易云音乐 （35.0％）、微信公众号内嵌音频 （21.9％）和Pocket Casts（19.5％）。
-
-
-
-
-
-为什么要自动更新播客？
-
-
-我们做内容的都知道，最大的问题不仅仅是创作，而且发布太繁琐也是个大问题。你要一条…]]></summary>
-        <author>
-            <name>williamlong.info@gmail.com (williamlong)</name>
         </author>
     </entry>
 </feed>

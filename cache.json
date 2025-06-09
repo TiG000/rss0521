@@ -12,12 +12,32 @@
       "siteUrl": "https://www.skyue.com/",
       "articles": [
         {
+          "id": "https://www.skyue.com/25060818.html",
+          "author": "拾月",
+          "description": "分享几个近期好物。",
+          "link": "https://www.skyue.com/25060818.html",
+          "publishedOn": "2025-06-08T10:49:00.000Z",
+          "wordCount": 562,
+          "title": "好物推荐：印章、镜头、水果叉",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://www.skyue.com/25060809.html",
+          "author": "拾月",
+          "description": "老板英文名叫Nick，用了电影《疯狂动物城》的Nick做头像。周五下午在团队小群突然聊到大家的头像，有人提议要不要都换《疯狂动物城》里的动物做头像，我突发奇想，干脆都换Nick的不同风格头像更好...",
+          "link": "https://www.skyue.com/25060809.html",
+          "publishedOn": "2025-06-08T01:41:00.000Z",
+          "wordCount": 585,
+          "title": "Fox Day",
+          "imageUrl": ""
+        },
+        {
           "id": "https://www.skyue.com/25052511.html",
           "author": "拾月",
           "description": "南瓜在重庆出差，周末没活动，于是我昨天窝家里一天把《大奉打更人》给看完了，40集，1.5倍速。总体上与当年看《大宋少年志》的感觉有点像，朝堂+探案+爱情的题材，再上点「侠之大者，为国为民」的价值...",
           "link": "https://www.skyue.com/25052511.html",
           "publishedOn": "2025-05-25T03:33:00.000Z",
-          "wordCount": 599,
+          "wordCount": 641,
           "title": "大奉打更人",
           "imageUrl": ""
         },
@@ -37,7 +57,7 @@
           "description": "上一篇婚礼记录，收到非常多的祝福，感谢大家。九江和高平婚礼前，各有一次愉快的出行，记录之。富春芳草地4月12日的周末两天，到富春芳草地酒店住了两晚。这家酒店是YB推荐的，他带着女儿去过多次，杭州...",
           "link": "https://www.skyue.com/25051323.html",
           "publishedOn": "2025-05-13T15:50:00.000Z",
-          "wordCount": 636,
+          "wordCount": 635,
           "title": "富春芳草地&amp;只有河南",
           "imageUrl": ""
         },
@@ -47,7 +67,7 @@
           "description": "2025年4月19日，我和南瓜在我的老家九江完成了婚礼仪式，并于5月5日在南瓜老家高平办了出阁仪式。相比领证，两场仪式更具象征意义，过程中也投入了非常多的时间和精力，完成了今年最重要的两件事之一...",
           "link": "https://www.skyue.com/25051116.html",
           "publishedOn": "2025-05-11T08:14:00.000Z",
-          "wordCount": 649,
+          "wordCount": 653,
           "title": "我们的婚礼",
           "imageUrl": ""
         }
@@ -76,16 +96,6 @@
           "publishedOn": "2025-05-19T16:30:54.000Z",
           "wordCount": 96,
           "title": "HBO电视剧《最后生还者》第二季影评",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.williamlong.info/archives/7498.html",
-          "author": "williamlong.info@gmail.com (williamlong)",
-          "description": "摘要：自动更新和多平台同步播客的方法：找到一些特定材料，分批导入notebooklm，输入提示词，生成音频文件。在喜马拉雅（国内）或spotify（国外）上创建播客，将音频文件上传，并生成RSS Feed。在iTunes、Youtube、网易云音乐等平台创建播客，选择使用RSS，并将其导入。之后，只需要更新喜马拉雅或spotify，即可同步将播客发布到多个平台。\n\r\n\r\n今天我将介绍一下怎么用 AI + 自动化工具，实现播客内容的“一次制作、多平台分发”。\n\r\n\r\n播客是啥？现在谁还在听？\n\r\n\r\n播客（英文：Podcast）是指的是通过数字广播技术制作的，在互联网上传播的音频内容。简单来说，播客就是“可以订阅的音频节目”，你可以把它理解成“音频版的专栏文章”或者“随时能听的电台节目”。它不像直播那样需要你盯着屏幕，也不像视频那样吃流量，适合开车、做饭、散步的时候听。\n\r\n\r\n在内容泛滥的今天，播客反而成了注意力稀缺下的“净土”——节奏慢、干货多、听众粘性强。\n\r\n\r\n目前主流播客平台包括：\n\r\n\r\n国内平台： 喜马拉雅、网易云音乐、小宇宙\n\r\n\r\n海外平台： Apple Podcasts、Spotify、YouTube Music、Pocket Casts\n\r\n\r\n大部分平台都支持用 RSS Feed 自动订阅内容更新——这就是我们可以“自动同步”的关键点。\n\r\n\r\n根据《PodFest China2020中文播客听众与消费调研》显示，中文播客听众最常使用的5个收听渠道是：Apple Podcasts（49.7％）、喜马拉雅（37.9％）、网易云音乐 （35.0％）、微信公众号内嵌音频 （21.9％）和Pocket Casts（19.5％）。\n\r\n\r\n\n\r\n\r\n为什么要自动更新播客？\n\r\n\r\n我们做内容的都知道，最大的问题不仅仅是创作，而且发布太繁琐也是个大问题。你要一条…",
-          "link": "https://www.williamlong.info/archives/7498.html",
-          "publishedOn": "2025-05-10T08:03:07.000Z",
-          "wordCount": 204,
-          "title": "播客自动化更新分发教程",
           "imageUrl": null
         }
       ]
