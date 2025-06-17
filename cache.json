@@ -17,7 +17,7 @@
           "description": "端午节去宁波玩。此行的主要目的是探访天一阁。作为中国现存最古老、保存较完好的大型藏书楼，我早已心向往之。",
           "link": "https://www.skyue.com/25061209.html",
           "publishedOn": "2025-06-12T01:25:00.000Z",
-          "wordCount": 566,
+          "wordCount": 611,
           "title": "天一阁",
           "imageUrl": ""
         },
@@ -27,7 +27,7 @@
           "description": "昨日到公司，在电梯遇见YB正在搬运物品，东西不多，想来已经搬完。6月9日是YB在字节的last day。YB在字节有新名字，但我仍习惯称他为YB。",
           "link": "https://www.skyue.com/25061022.html",
           "publishedOn": "2025-06-10T14:06:00.000Z",
-          "wordCount": 588,
+          "wordCount": 602,
           "title": "YB",
           "imageUrl": ""
         },
@@ -37,7 +37,7 @@
           "description": "分享几个近期好物。",
           "link": "https://www.skyue.com/25060818.html",
           "publishedOn": "2025-06-08T10:49:00.000Z",
-          "wordCount": 599,
+          "wordCount": 615,
           "title": "好物推荐：印章、镜头、水果叉",
           "imageUrl": ""
         },
@@ -47,7 +47,7 @@
           "description": "老板英文名叫Nick，用了电影《疯狂动物城》的Nick做头像。周五下午在团队小群突然聊到大家的头像，有人提议要不要都换《疯狂动物城》里的动物做头像，我突发奇想，干脆都换Nick的不同风格头像更好...",
           "link": "https://www.skyue.com/25060809.html",
           "publishedOn": "2025-06-08T01:41:00.000Z",
-          "wordCount": 639,
+          "wordCount": 641,
           "title": "Fox Day",
           "imageUrl": ""
         },
@@ -57,7 +57,7 @@
           "description": "南瓜在重庆出差，周末没活动，于是我昨天窝家里一天把《大奉打更人》给看完了，40集，1.5倍速。总体上与当年看《大宋少年志》的感觉有点像，朝堂+探案+爱情的题材，再上点「侠之大者，为国为民」的价值...",
           "link": "https://www.skyue.com/25052511.html",
           "publishedOn": "2025-05-25T03:33:00.000Z",
-          "wordCount": 627,
+          "wordCount": 629,
           "title": "大奉打更人",
           "imageUrl": ""
         },
@@ -67,7 +67,7 @@
           "description": "周日和南瓜到上海野生动物园一日游，疯狂按快门的一天。",
           "link": "https://www.skyue.com/25052013.html",
           "publishedOn": "2025-05-20T05:25:00.000Z",
-          "wordCount": 616,
+          "wordCount": 627,
           "title": "上海野生动物园",
           "imageUrl": ""
         }
@@ -78,6 +78,16 @@
       "feedUrl": "https://rsshub.app/xueqiu/user/8152922548",
       "siteUrl": "https://xueqiu.com/u/8152922548",
       "articles": [
+        {
+          "id": "https://xueqiu.com/8152922548/338879315",
+          "author": null,
+          "description": "#中国平安分红连涨十三年#\n在金融市场的风云变幻中，中国平安(SH601318)作为行业的领军企业，于近期发布了2024年年报及2025年一季报，交出了一份彰显稳健根基与发展韧性的亮眼答卷。2024年，中国平安实现归属于母公司股东的营运利润 1218.62亿元，同比增长9.1%...",
+          "link": "https://xueqiu.com/8152922548/338879315",
+          "publishedOn": "2025-06-16T03:30:13.000Z",
+          "wordCount": 281,
+          "title": "征文有赏|中国平安2024交出亮眼答卷，分红连涨13年，“财富魔法”大揭秘！",
+          "imageUrl": null
+        },
         {
           "id": "https://xueqiu.com/8152922548/338522451",
           "author": null,
@@ -94,7 +104,7 @@
           "description": "#SU7Ultra成为纽北最速量产电动车# 6月11日，小米汽车正式公布了小米SU7 Ultra量产版首次挑战德国纽博格林北环赛道的圈速成绩。选配赛道专业套装的小米SU7 Ultra量产版以7分04秒957的成绩，强势刷新 “纽北最速量产电动车” 的圈速纪录。\n在配置上，小米SU7 Ultra搭载了与原型车相同的三电系统...",
           "link": "https://xueqiu.com/8152922548/338313891",
           "publishedOn": "2025-06-11T06:09:45.000Z",
-          "wordCount": 275,
+          "wordCount": 266,
           "title": "SU7 Ultra量产版创“纽北最速量产电动车”圈速纪录，登录GT赛事为小米出海国际化做铺垫，你怎么看？",
           "imageUrl": null
         },

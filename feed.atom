@@ -1,10 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-06-16T00:44:32.872Z</id>
+    <id>urn:2025-06-17T00:42:21.802Z</id>
     <title>osmos::feed</title>
-    <updated>2025-06-16T00:44:32.872Z</updated>
+    <updated>2025-06-17T00:42:21.802Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[征文有赏|中国平安2024交出亮眼答卷，分红连涨13年，“财富魔法”大揭秘！]]></title>
+        <id>https://xueqiu.com/8152922548/338879315</id>
+        <link href="https://xueqiu.com/8152922548/338879315"/>
+        <updated>2025-06-16T03:30:13.000Z</updated>
+        <summary type="html"><![CDATA[#中国平安分红连涨十三年#
+在金融市场的风云变幻中，中国平安(SH601318)作为行业的领军企业，于近期发布了2024年年报及2025年一季报，交出了一份彰显稳健根基与发展韧性的亮眼答卷。2024年，中国平安实现归属于母公司股东的营运利润 1218.62亿元，同比增长9.1%...]]></summary>
+        <author>
+            <name>今日话题 的雪球全部动态</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[华为Pura 80系列带来“史上最昂贵相机模组”，欧菲光参与供应其多个摄像头模组]]></title>
         <id>https://xueqiu.com/8152922548/338522451</id>
