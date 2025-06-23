@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-06-22T00:48:02.516Z</id>
+    <id>urn:2025-06-23T00:45:56.582Z</id>
     <title>osmos::feed</title>
-    <updated>2025-06-22T00:48:02.516Z</updated>
+    <updated>2025-06-23T00:45:56.582Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[拾月周刊（第39期）：有福吃粮]]></title>
+        <id>https://www.skyue.com/25062307.html</id>
+        <link href="https://www.skyue.com/25062307.html"/>
+        <updated>2025-06-22T23:07:00.000Z</updated>
+        <summary type="html"><![CDATA[本周封面：有福吃粮。]]></summary>
+        <author>
+            <name>拾月</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[武汉卖房]]></title>
+        <id>https://www.skyue.com/25062211.html</id>
+        <link href="https://www.skyue.com/25062211.html"/>
+        <updated>2025-06-22T03:12:00.000Z</updated>
+        <summary type="html"><![CDATA[我在武汉的房子，终于还是卖掉了。将利息、税费计算在内，粗略估算亏损超过120万——这笔钱甚至够在武汉再买一套。心情比预想中平静，账面浮亏一直存在，自欺欺人毫无意义，如今只是将这笔浮亏变成实际亏损...]]></summary>
+        <author>
+            <name>拾月</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[太原之行（2）：逛博物馆]]></title>
         <id>https://www.skyue.com/25062116.html</id>
