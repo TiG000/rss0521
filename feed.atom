@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-07-04T00:42:21.495Z</id>
+    <id>urn:2025-07-05T00:40:54.249Z</id>
     <title>osmos::feed</title>
-    <updated>2025-07-04T00:42:21.495Z</updated>
+    <updated>2025-07-05T00:40:54.249Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -343,17 +343,6 @@
         <summary type="html"><![CDATA[老板英文名叫Nick，用了电影《疯狂动物城》的Nick做头像。周五下午在团队小群突然聊到大家的头像，有人提议要不要都换《疯狂动物城》里的动物做头像，我突发奇想，干脆都换Nick的不同风格头像更好...]]></summary>
         <author>
             <name>拾月</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[海光信息牵手中科曙光！算力“超巨头”呼之欲出，你如何看待信创行情？]]></title>
-        <id>https://xueqiu.com/8152922548/337598073</id>
-        <link href="https://xueqiu.com/8152922548/337598073"/>
-        <updated>2025-06-05T06:51:07.000Z</updated>
-        <summary type="html"><![CDATA[在资本市场的浪潮中，每一次巨头间的碰撞都可能引发新的动向。比如，近日的信创板块就因一则重磅消息被推至风口浪尖——5月26日，沪主板上市公司中科曙光、科创板上市公司海光信息同时发布公告称，正在筹划由海光信息吸收合并中科曙光，目前两家公司股票正在停牌中。
-市场对此次重组报以极高期...]]></summary>
-        <author>
-            <name>今日话题 的雪球全部动态</name>
         </author>
     </entry>
 </feed>
