@@ -12,12 +12,32 @@
       "siteUrl": "https://www.skyue.com/",
       "articles": [
         {
+          "id": "https://www.skyue.com/25070707.html",
+          "author": "拾月",
+          "description": "本期封面：送报员。",
+          "link": "https://www.skyue.com/25070707.html",
+          "publishedOn": "2025-07-06T23:00:00.000Z",
+          "wordCount": 557,
+          "title": "拾月周刊（第40期）：送报员",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://www.skyue.com/25070616.html",
+          "author": "拾月",
+          "description": "半个月没更新博客，只因MacBook坏了。恢复更新第一篇，就写写此事。一、MacBook Pro抢修记上周三晚上发现我的MacBook充不进电，此时电池只剩20%多电量。等到电量降至10%，我才...",
+          "link": "https://www.skyue.com/25070616.html",
+          "publishedOn": "2025-07-06T08:03:00.000Z",
+          "wordCount": 595,
+          "title": "MacBook抢修记，及新Mac必备软件",
+          "imageUrl": ""
+        },
+        {
           "id": "https://www.skyue.com/25062307.html",
           "author": "拾月",
           "description": "本周封面：有福吃粮。",
           "link": "https://www.skyue.com/25062307.html",
           "publishedOn": "2025-06-22T23:07:00.000Z",
-          "wordCount": 583,
+          "wordCount": 598,
           "title": "拾月周刊（第39期）：有福吃粮",
           "imageUrl": ""
         },
@@ -27,7 +47,7 @@
           "description": "我在武汉的房子，终于还是卖掉了。将利息、税费计算在内，粗略估算亏损超过120万——这笔钱甚至够在武汉再买一套。心情比预想中平静，账面浮亏一直存在，自欺欺人毫无意义，如今只是将这笔浮亏变成实际亏损...",
           "link": "https://www.skyue.com/25062211.html",
           "publishedOn": "2025-06-22T03:12:00.000Z",
-          "wordCount": 634,
+          "wordCount": 656,
           "title": "武汉卖房",
           "imageUrl": ""
         },
@@ -37,7 +57,7 @@
           "description": "书接上文，在太原期间，我们参观了太原北齐壁画博物馆、晋商博物馆和晋祠博物馆。这三座博物馆各具特色，值得细细品味。若有朋友到太原旅行，又恰好喜欢逛博物馆，这三家均十分推荐。下面容我一一道来。",
           "link": "https://www.skyue.com/25062116.html",
           "publishedOn": "2025-06-21T08:37:00.000Z",
-          "wordCount": 621,
+          "wordCount": 617,
           "title": "太原之行（2）：逛博物馆",
           "imageUrl": ""
         },
@@ -47,7 +67,7 @@
           "description": "上个月南瓜抢到了6月14日（周六）周深太原演唱会门票，于是特意在6月13日周五请假一天，连着周末在太原玩三天。南瓜因公司组织山西团建，12号先行抵达太原。三天行程如下：周五上午乘飞机到太原，下午...",
           "link": "https://www.skyue.com/25061822.html",
           "publishedOn": "2025-06-18T14:57:00.000Z",
-          "wordCount": 622,
+          "wordCount": 631,
           "title": "太原之行（1）：拍晋少奶奶写真、听周深演唱会",
           "imageUrl": ""
         },
@@ -57,7 +77,7 @@
           "description": "端午节去宁波玩。此行的主要目的是探访天一阁。作为中国现存最古老、保存较完好的大型藏书楼，我早已心向往之。",
           "link": "https://www.skyue.com/25061209.html",
           "publishedOn": "2025-06-12T01:25:00.000Z",
-          "wordCount": 612,
+          "wordCount": 614,
           "title": "天一阁",
           "imageUrl": ""
         },
@@ -67,7 +87,7 @@
           "description": "昨日到公司，在电梯遇见YB正在搬运物品，东西不多，想来已经搬完。6月9日是YB在字节的last day。YB在字节有新名字，但我仍习惯称他为YB。",
           "link": "https://www.skyue.com/25061022.html",
           "publishedOn": "2025-06-10T14:06:00.000Z",
-          "wordCount": 608,
+          "wordCount": 604,
           "title": "YB",
           "imageUrl": ""
         },
@@ -87,7 +107,7 @@
           "description": "老板英文名叫Nick，用了电影《疯狂动物城》的Nick做头像。周五下午在团队小群突然聊到大家的头像，有人提议要不要都换《疯狂动物城》里的动物做头像，我突发奇想，干脆都换Nick的不同风格头像更好...",
           "link": "https://www.skyue.com/25060809.html",
           "publishedOn": "2025-06-08T01:41:00.000Z",
-          "wordCount": 645,
+          "wordCount": 650,
           "title": "Fox Day",
           "imageUrl": ""
         }

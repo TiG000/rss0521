@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-07-06T00:48:40.329Z</id>
+    <id>urn:2025-07-07T00:46:56.008Z</id>
     <title>osmos::feed</title>
-    <updated>2025-07-06T00:48:40.329Z</updated>
+    <updated>2025-07-07T00:46:56.008Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[拾月周刊（第40期）：送报员]]></title>
+        <id>https://www.skyue.com/25070707.html</id>
+        <link href="https://www.skyue.com/25070707.html"/>
+        <updated>2025-07-06T23:00:00.000Z</updated>
+        <summary type="html"><![CDATA[本期封面：送报员。]]></summary>
+        <author>
+            <name>拾月</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MacBook抢修记，及新Mac必备软件]]></title>
+        <id>https://www.skyue.com/25070616.html</id>
+        <link href="https://www.skyue.com/25070616.html"/>
+        <updated>2025-07-06T08:03:00.000Z</updated>
+        <summary type="html"><![CDATA[半个月没更新博客，只因MacBook坏了。恢复更新第一篇，就写写此事。一、MacBook Pro抢修记上周三晚上发现我的MacBook充不进电，此时电池只剩20%多电量。等到电量降至10%，我才...]]></summary>
+        <author>
+            <name>拾月</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[拾月周刊（第39期）：有福吃粮]]></title>
         <id>https://www.skyue.com/25062307.html</id>
