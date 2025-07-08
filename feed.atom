@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-07-07T00:46:56.008Z</id>
+    <id>urn:2025-07-08T00:42:54.467Z</id>
     <title>osmos::feed</title>
-    <updated>2025-07-07T00:46:56.008Z</updated>
+    <updated>2025-07-08T00:42:54.467Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -194,26 +194,6 @@
         <link href="https://www.skyue.com/25061022.html"/>
         <updated>2025-06-10T14:06:00.000Z</updated>
         <summary type="html"><![CDATA[昨日到公司，在电梯遇见YB正在搬运物品，东西不多，想来已经搬完。6月9日是YB在字节的last day。YB在字节有新名字，但我仍习惯称他为YB。]]></summary>
-        <author>
-            <name>拾月</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[好物推荐：印章、镜头、水果叉]]></title>
-        <id>https://www.skyue.com/25060818.html</id>
-        <link href="https://www.skyue.com/25060818.html"/>
-        <updated>2025-06-08T10:49:00.000Z</updated>
-        <summary type="html"><![CDATA[分享几个近期好物。]]></summary>
-        <author>
-            <name>拾月</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fox Day]]></title>
-        <id>https://www.skyue.com/25060809.html</id>
-        <link href="https://www.skyue.com/25060809.html"/>
-        <updated>2025-06-08T01:41:00.000Z</updated>
-        <summary type="html"><![CDATA[老板英文名叫Nick，用了电影《疯狂动物城》的Nick做头像。周五下午在团队小群突然聊到大家的头像，有人提议要不要都换《疯狂动物城》里的动物做头像，我突发奇想，干脆都换Nick的不同风格头像更好...]]></summary>
         <author>
             <name>拾月</name>
         </author>
