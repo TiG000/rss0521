@@ -17,7 +17,7 @@
           "description": "最近我的博客图床服务又拍云费用飙升，花了些时间分析优化，目前成本已经降至0.2元/天左右，免费额度够用。",
           "link": "https://www.skyue.com/25070821.html",
           "publishedOn": "2025-07-08T13:44:00.000Z",
-          "wordCount": 674,
+          "wordCount": 654,
           "title": "博客图床又拍云成本飙升，如何优化",
           "imageUrl": ""
         },
@@ -27,7 +27,7 @@
           "description": "本期封面：送报员。",
           "link": "https://www.skyue.com/25070707.html",
           "publishedOn": "2025-07-06T23:00:00.000Z",
-          "wordCount": 661,
+          "wordCount": 673,
           "title": "拾月周刊（第40期）：送报员",
           "imageUrl": ""
         },
@@ -37,7 +37,7 @@
           "description": "半个月没更新博客，只因MacBook坏了。恢复更新第一篇，就写写此事。一、MacBook Pro抢修记上周三晚上发现我的MacBook充不进电，此时电池只剩20%多电量。等到电量降至10%，我才...",
           "link": "https://www.skyue.com/25070616.html",
           "publishedOn": "2025-07-06T08:03:00.000Z",
-          "wordCount": 681,
+          "wordCount": 679,
           "title": "MacBook抢修记，及新Mac必备软件",
           "imageUrl": ""
         },
@@ -57,7 +57,7 @@
           "description": "我在武汉的房子，终于还是卖掉了。将利息、税费计算在内，粗略估算亏损超过120万——这笔钱甚至够在武汉再买一套。心情比预想中平静，账面浮亏一直存在，自欺欺人毫无意义，如今只是将这笔浮亏变成实际亏损...",
           "link": "https://www.skyue.com/25062211.html",
           "publishedOn": "2025-06-22T03:12:00.000Z",
-          "wordCount": 639,
+          "wordCount": 643,
           "title": "武汉卖房",
           "imageUrl": ""
         },
@@ -67,7 +67,7 @@
           "description": "书接上文，在太原期间，我们参观了太原北齐壁画博物馆、晋商博物馆和晋祠博物馆。这三座博物馆各具特色，值得细细品味。若有朋友到太原旅行，又恰好喜欢逛博物馆，这三家均十分推荐。下面容我一一道来。",
           "link": "https://www.skyue.com/25062116.html",
           "publishedOn": "2025-06-21T08:37:00.000Z",
-          "wordCount": 613,
+          "wordCount": 610,
           "title": "太原之行（2）：逛博物馆",
           "imageUrl": ""
         },
@@ -77,36 +77,9 @@
           "description": "上个月南瓜抢到了6月14日（周六）周深太原演唱会门票，于是特意在6月13日周五请假一天，连着周末在太原玩三天。南瓜因公司组织山西团建，12号先行抵达太原。三天行程如下：周五上午乘飞机到太原，下午...",
           "link": "https://www.skyue.com/25061822.html",
           "publishedOn": "2025-06-18T14:57:00.000Z",
-          "wordCount": 642,
+          "wordCount": 633,
           "title": "太原之行（1）：拍晋少奶奶写真、听周深演唱会",
           "imageUrl": ""
-        },
-        {
-          "id": "https://www.skyue.com/25061209.html",
-          "author": "拾月",
-          "description": "端午节去宁波玩。此行的主要目的是探访天一阁。作为中国现存最古老、保存较完好的大型藏书楼，我早已心向往之。",
-          "link": "https://www.skyue.com/25061209.html",
-          "publishedOn": "2025-06-12T01:25:00.000Z",
-          "wordCount": 611,
-          "title": "天一阁",
-          "imageUrl": ""
-        }
-      ]
-    },
-    {
-      "title": "月光博客",
-      "feedUrl": "https://www.williamlong.info/rss.xml",
-      "siteUrl": "https://www.williamlong.info/",
-      "articles": [
-        {
-          "id": "https://www.williamlong.info/archives/7503.html",
-          "author": "williamlong.info@gmail.com (williamlong)",
-          "description": "如果你是一位iPhone用户，过去两年你可能经常在新闻里看到AI的爆炸性进展：ChatGPT天天在刷屏，谷歌的Gemini更新比安卓还勤快，微软的Copilot直接长在Office里了，Meta更是开放Llama搞“全民炼模型”。\n\r\n\r\n但打开你的iPhone、Mac、iPad，Apple在哪儿呢？\n\r\n\r\n这不是错觉——苹果确实在AI的大模型时代里掉队了。Siri在2024年才开始“换脑袋”，所谓的“Apple Intelligence”也基本只是系统功能的一次AI润色，看不到任何“突破性”产品或模型架构。\n\r\n\r\n问题不是苹果没钱、没人、没芯片，而是它自己把自己困在了一个无法兼容AI生态的笼子里。\n\r\n\r\n一、苹果AI的“后知后觉”不是偶然，是宿命\n\r\n\r\n这两年，谷歌靠Gemini炫技、微软靠Copilot挣钱、Meta靠Llama圈地、亚马逊把AI当AWS的润滑剂在卖，连特斯拉都靠Dojo堆算力搞人形机器人了。苹果呢？还在说“我们不会看你的数据”。\n\r\n\r\n看上去像是老年机用户在和全世界说：“你们不要太激进，稳一点才是王道。”\n\r\n\r\n但AI不是摄像头，不是芯片，不是一个做工精良的铝合金机壳。AI拼的是数据吞吐、模型能力、云算力的迭代速度。苹果当然知道这一点，但它不愿也不敢放弃最根本的东西——用户隐私与封闭生态。\n\r\n\r\n这就像用方程式赛车的规则在打自行车比赛，你永远都赢不了直道冲刺。\n\r\n\r\n二、苹果在AI上的“三重信仰”：隐私、设备端、本地闭环\n\r\n\r\n苹果的AI哲学简单粗暴地说，就是三句话：\n\r\n\r\n1. 数据不出设备；\n\r\n\r\n2. 算力不靠公有云；\n\r\n\r\n3. 一切都得在苹果生态里闭环。\n\r\n\r\n于是我们看到，“Apple Intelligence”这次大张旗鼓推出了一套PCC（Private Cloud Compute）系统，说它比云还安全，因为用户…",
-          "link": "https://www.williamlong.info/archives/7503.html",
-          "publishedOn": "2025-06-14T09:52:23.000Z",
-          "wordCount": null,
-          "title": "苹果AI的“路径错误”：为什么它在大模型时代掉队了？",
-          "imageUrl": null
         }
       ]
     },
@@ -115,6 +88,16 @@
       "feedUrl": "https://rsshub.app/xueqiu/user/8152922548",
       "siteUrl": "https://xueqiu.com/u/8152922548",
       "articles": [
+        {
+          "id": "https://xueqiu.com/8152922548/342183360",
+          "author": null,
+          "description": "球友们，#资产好配置，不变应万变# 活动已经圆满结束，征集到了很多优质文章，非常感谢球友们的积极参与! \n本次征集活动根据文章内容以及互动数量和互动质量，对文章质量进行评审打分；经过评选，恭喜以下9名球友（排名不分先后）：\n 一等奖一名，可获得688元的奖励：\n 手搓「永久组合」，这届年轻人的投资赢学 @莽叔 \n二等奖三名，可获得388元的奖励：\n 躺平的另一种方案，聊聊雪球的资产配置三分法 @躺红利摊转债 \n用“三分法”践行半仓策略@懒人养基 \n我的永久投资组合，怎么打都赢！@阿帅养基 \n三等奖5名，可获得188元的奖励：\n 我的三分法配置@唯基百科 \n用「5V5排位赛」思维，打赢「资产配置」攻坚战：三张“安全网”构建你的财富护城河@打工人的定投日记 \n我的家庭保障框架@夏令lucky \n分散的好处，超乎你的想象@老丁养基 \n定投一年，收益揭晓！@涨了再喊我 \n此外还有多名参与奖，话题哥将在五个工作日内完成各位球友的征文打赏，请耐心等待！ 也欢迎大家体验雪球三分法，用资产配置应对投资的不确定性！\n 》》点击体验雪球三分法功能《《",
+          "link": "https://xueqiu.com/8152922548/342183360",
+          "publishedOn": "2025-07-11T07:18:46.000Z",
+          "wordCount": 330,
+          "title": "【颁奖】#资产好配置，不变应万变#征文活动收官",
+          "imageUrl": null
+        },
         {
           "id": "https://xueqiu.com/8152922548/342024437",
           "author": null,
@@ -203,16 +186,6 @@
           "publishedOn": "2025-06-16T03:30:13.000Z",
           "wordCount": 293,
           "title": "征文有赏|中国平安2024交出亮眼答卷，分红连涨13年，“财富魔法”大揭秘！",
-          "imageUrl": null
-        },
-        {
-          "id": "https://xueqiu.com/8152922548/338522451",
-          "author": null,
-          "description": "6月11日，华为Pura80系列及全场景新品发布会上，华为正式推出了年度影像旗舰华为Pura 80系列手机。余承东在发布会上直言：“这是一个非常精巧的设计，也是我们历史上最昂贵的相机模组。”\n此次Pura 80 Ultra版本搭载了业界首创一镜双目长焦，做到全面提升影像表现与拍照体验，据供应链人士透露...",
-          "link": "https://xueqiu.com/8152922548/338522451",
-          "publishedOn": "2025-06-12T10:18:09.000Z",
-          "wordCount": 271,
-          "title": "华为Pura 80系列带来“史上最昂贵相机模组”，欧菲光参与供应其多个摄像头模组",
           "imageUrl": null
         }
       ]
