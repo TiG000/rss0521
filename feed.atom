@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-07-13T00:50:32.146Z</id>
+    <id>urn:2025-07-14T00:47:55.446Z</id>
     <title>osmos::feed</title>
-    <updated>2025-07-13T00:50:32.146Z</updated>
+    <updated>2025-07-14T00:47:55.446Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[拾月周记（第41期）：杭州西站]]></title>
+        <id>https://www.skyue.com/25071407.html</id>
+        <link href="https://www.skyue.com/25071407.html"/>
+        <updated>2025-07-13T23:07:00.000Z</updated>
+        <summary type="html"><![CDATA[封面图：周四到上海出差，早上6点多打车去杭州西站时抓拍的照片。]]></summary>
+        <author>
+            <name>拾月</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【颁奖】#资产好配置，不变应万变#征文活动收官]]></title>
         <id>https://xueqiu.com/8152922548/342183360</id>
