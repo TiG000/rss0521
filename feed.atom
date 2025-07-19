@@ -1,10 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-07-18T00:44:23.496Z</id>
+    <id>urn:2025-07-19T00:43:48.102Z</id>
     <title>osmos::feed</title>
-    <updated>2025-07-18T00:44:23.496Z</updated>
+    <updated>2025-07-19T00:43:48.102Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[来源：雪球App，作者： 今日话题，（https://xueqiu.com/8152922548/343106851）过往站内连续两次发起pk话题，大家对创新药会超越黄金，创新要是7月投资主线都非...]]></title>
+        <id>https://xueqiu.com/8152922548/343106851</id>
+        <link href="https://xueqiu.com/8152922548/343106851"/>
+        <updated>2025-07-18T05:24:43.000Z</updated>
+        <summary type="html"><![CDATA[过往站内连续两次发起pk话题，大家对创新药会超越黄金，创新要是7月投资主线都非常认可。创新药也不负众望，热度持续不断攀升。那么创新药的细分赛道上，创新药你更看好港股还是科创板？你是否能拥有三连胜战绩？快来参与最新话题讨论 #创新药机会：港股VS科创板？# 
+工银瑞信基金: 深交所公告显示，港股通创新药ETF工银(159217)已于7月14日被纳入两融标的。ETF被纳入两融标的需满足客户数、资产规模等方面的要求，港股通创新药ETF工银在上市仅3个多月后成功被纳入两融，这意味着其客户数与规模已满足融资融券入选要求，纳入两融也将进一步提升投资者的策略灵活性与资金使用效率...]]></summary>
+        <author>
+            <name>今日话题 的雪球全部动态</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“反内卷”机会凸显，A股新主线来了？把握周期行业“击球”时刻]]></title>
         <id>https://xueqiu.com/8152922548/342717568</id>
@@ -288,16 +299,6 @@ $军工ETF(SH512660)$跟踪中证军工指数，成分股涵盖军工行业优�
         <link href="https://www.skyue.com/25062116.html"/>
         <updated>2025-06-21T08:37:00.000Z</updated>
         <summary type="html"><![CDATA[书接上文，在太原期间，我们参观了太原北齐壁画博物馆、晋商博物馆和晋祠博物馆。这三座博物馆各具特色，值得细细品味。若有朋友到太原旅行，又恰好喜欢逛博物馆，这三家均十分推荐。下面容我一一道来。]]></summary>
-        <author>
-            <name>拾月</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[太原之行（1）：拍晋少奶奶写真、听周深演唱会]]></title>
-        <id>https://www.skyue.com/25061822.html</id>
-        <link href="https://www.skyue.com/25061822.html"/>
-        <updated>2025-06-18T14:57:00.000Z</updated>
-        <summary type="html"><![CDATA[上个月南瓜抢到了6月14日（周六）周深太原演唱会门票，于是特意在6月13日周五请假一天，连着周末在太原玩三天。南瓜因公司组织山西团建，12号先行抵达太原。三天行程如下：周五上午乘飞机到太原，下午...]]></summary>
         <author>
             <name>拾月</name>
         </author>
