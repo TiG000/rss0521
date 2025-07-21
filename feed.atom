@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-07-20T00:51:29.852Z</id>
+    <id>urn:2025-07-21T00:49:55.607Z</id>
     <title>osmos::feed</title>
-    <updated>2025-07-20T00:51:29.852Z</updated>
+    <updated>2025-07-21T00:49:55.607Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[拾月周记（第42期）：搬家]]></title>
+        <id>https://www.skyue.com/25072107.html</id>
+        <link href="https://www.skyue.com/25072107.html"/>
+        <updated>2025-07-20T23:07:00.000Z</updated>
+        <summary type="html"><![CDATA[封面图：紫樾府新家阳台外。周六搬到了未科三兄弟之一的紫樾府，周日收拾时在阳台拍了一张照片，视野非常棒。今年2月从良渚搬到未名府，现在又从未名府搬到紫樾府，挺折腾的，原因下次分享。]]></summary>
+        <author>
+            <name>拾月</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[来源：雪球App，作者： 今日话题，（https://xueqiu.com/8152922548/343106851）过往站内连续两次发起pk话题，大家对创新药会超越黄金，创新要是7月投资主线都非...]]></title>
         <id>https://xueqiu.com/8152922548/343106851</id>
@@ -289,16 +299,6 @@ $军工ETF(SH512660)$跟踪中证军工指数，成分股涵盖军工行业优�
         <link href="https://www.skyue.com/25062211.html"/>
         <updated>2025-06-22T03:12:00.000Z</updated>
         <summary type="html"><![CDATA[我在武汉的房子，终于还是卖掉了。将利息、税费计算在内，粗略估算亏损超过120万——这笔钱甚至够在武汉再买一套。心情比预想中平静，账面浮亏一直存在，自欺欺人毫无意义，如今只是将这笔浮亏变成实际亏损...]]></summary>
-        <author>
-            <name>拾月</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[太原之行（2）：逛博物馆]]></title>
-        <id>https://www.skyue.com/25062116.html</id>
-        <link href="https://www.skyue.com/25062116.html"/>
-        <updated>2025-06-21T08:37:00.000Z</updated>
-        <summary type="html"><![CDATA[书接上文，在太原期间，我们参观了太原北齐壁画博物馆、晋商博物馆和晋祠博物馆。这三座博物馆各具特色，值得细细品味。若有朋友到太原旅行，又恰好喜欢逛博物馆，这三家均十分推荐。下面容我一一道来。]]></summary>
         <author>
             <name>拾月</name>
         </author>
