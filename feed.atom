@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-08-10T00:50:57.331Z</id>
+    <id>urn:2025-08-11T00:48:55.310Z</id>
     <title>osmos::feed</title>
-    <updated>2025-08-10T00:50:57.331Z</updated>
+    <updated>2025-08-11T00:48:55.310Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[25W31：十六的月亮]]></title>
+        <id>https://www.skyue.com/25081107.html</id>
+        <link href="https://www.skyue.com/25081107.html"/>
+        <updated>2025-08-10T23:07:00.000Z</updated>
+        <summary type="html"><![CDATA[本周休婚假，在云南旅行，走东南环线。周六晚，阴历十六，在元阳梯田花窝窝客栈吃着老鸭汤火锅，看到天空的月亮又亮又圆，映着山谷村落里零星的灯光，非常漂亮，随手拍了一张。]]></summary>
+        <author>
+            <name>拾月</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[周记25W30：宝宝15周了]]></title>
         <id>https://www.skyue.com/25080407.html</id>
