@@ -17,7 +17,7 @@
           "description": "周末两天继续Vibe Coding，在做几样东西：围绕钉钉的个人助理系统：自动维护待办清单和项目的OnePage，自动生成日报和周报Obsidian发布到微信公众号的插件。微信API中转服务：微...",
           "link": "https://www.skyue.com/26062821.html",
           "publishedOn": "2026-06-28T13:12:00.000Z",
-          "wordCount": 1071,
+          "wordCount": 1078,
           "title": "vibe coding上瘾，真上瘾",
           "imageUrl": null
         },
@@ -27,7 +27,7 @@
           "description": "Typecho Newsletter插件继Typecho发布和中文日期处理两款Obsidian插件之后，我的第三个vibe coding项目落地了——一款Typecho Newsletter插件...",
           "link": "https://www.skyue.com/26062116.html",
           "publishedOn": "2026-06-21T08:41:00.000Z",
-          "wordCount": 1133,
+          "wordCount": 1130,
           "title": "端午节第三弹：Typecho Newsletter插件；及Claude Code + DeepSeek的使用体验",
           "imageUrl": null
         },
@@ -37,7 +37,7 @@
           "description": "我每天在Obsidian中新建一篇标题为YYYY-MM-DD的笔记记日记，任何笔记中提及日期我都主动关联相应的笔记，但提及日期往往使用自然语言，我现在的处理方式如下图所示：笔记中大量日期引用",
           "link": "https://www.skyue.com/26062020.html",
           "publishedOn": "2026-06-20T12:48:00.000Z",
-          "wordCount": 1098,
+          "wordCount": 1104,
           "title": "Natural Language Dates - Chinese：终于能在Obsidian中处理中文日期了",
           "imageUrl": null
         },
@@ -47,7 +47,7 @@
           "description": "又vibe coding了。这次开发了一款Obsidian插件，实现一键发送笔记到Typecho博客。插件已经上架Obsidian插件市场。插件市场下载：Typecho Publisher - ...",
           "link": "https://www.skyue.com/26062014.html",
           "publishedOn": "2026-06-20T06:51:00.000Z",
-          "wordCount": 1124,
+          "wordCount": 1130,
           "title": "Obsidian笔记如何一键发布到Typecho？试试我开发的这款插件",
           "imageUrl": null
         },
@@ -57,7 +57,7 @@
           "description": "上周末连着周一，到宜兴玩了三天，超级休闲。行程如下：周六到宜兴，先逛陶二厂、蜀山古南街和东坡书院，然后开车到知春卢仝山房坐了一会。晚上住希尔顿欢朋酒店(宜兴人民中路店)，附近逛吃。周日到窑湖小镇...",
           "link": "https://www.skyue.com/26061321.html",
           "publishedOn": "2026-06-13T13:27:00.000Z",
-          "wordCount": 1093,
+          "wordCount": 1099,
           "title": "宜兴三日游",
           "imageUrl": null
         },
@@ -67,7 +67,7 @@
           "description": "本文为装修系列第4篇，前序文章：装修日记（1）：各种准备工作装修日记（2）：硬装装修日记（3）：软装去年装修收尾时，部分家电因担心贬值而未买。我们计划今年七月搬入，所以趁着近期的618大促买了几...",
           "link": "https://www.skyue.com/26060714.html",
           "publishedOn": "2026-06-07T06:24:00.000Z",
-          "wordCount": 1126,
+          "wordCount": 1110,
           "title": "装修日记（4）：618买家电",
           "imageUrl": null
         }
@@ -78,6 +78,16 @@
       "feedUrl": "https://www.williamlong.info/rss.xml",
       "siteUrl": "https://www.williamlong.info/",
       "articles": [
+        {
+          "id": "https://www.williamlong.info/archives/7552.html",
+          "author": "user@gmail.com (guest)",
+          "description": "韩国棋院于7月1日宣布，为庆祝围棋AI“AlphaGo”诞生十周年，将举行申真谞九段与目前实力最强的围棋人工智能（AI）KataGo的让子三番棋比赛，申真谞受让两子。这是继10年前李世石九段与AlphaGo展开世纪大战之后，再次上演的超大型AI围棋赛事。\n\r\n\r\n“人类最强”围棋棋手申真谞九段与KataGo对决的赛事名为“强数学·韩经棋神战”。比赛将于17日、19日和21日连续三天进行。本次赛事由韩经传媒集团主办，韩国棋院承办，GoodBook Shinagosa负责策划与赞助。\n\r\n\r\n将于17日、19日和21日举行的“强数学·韩经棋神战”，旨在纪念AlphaGo震惊世界10周年，以再次挑战人类极限为宗旨而策划。27岁青年申真谞的登场，预示着一场与10年前截然不同的胜负较量。申真谞九段在深刻理解AI招法的同时，又结合了人类特有的棋感，因此被冠以“申工智能”的绰号。\n\r\n\r\n考虑到完美无瑕的AI与人类之间客观存在的实力差距，本次比赛采用了申真谞九段先让两子的“让子棋”赛制。申真谞九段每局可获得5000万韩元的对局费，每赢一局还将获得5000万韩元的胜局奖金。若申真谞九段能取得2场及以上胜利，还将获得现代汽车旗下顶级轿车Genesis G90作为奖励。\n\r\n\r\n申真谞九段拥有5小时的保留时间，之后每手棋有30秒读秒；而KataGo则必须在20秒内落下每一手棋。此举旨在让人类拥有充足的时间与AI一较高下。既然给予了人类代表充分的思考时间，因此即使局势陷入劣势，也不能宣布“中盘认输（不计算败局）”，必须将棋局进行到底。比赛期间没有中场休息时间。\n\r\n\r\n本次赛事是一个历史性的舞台，旨在衡量人类究竟能多大程度地接近这位拥有绝对实力、堪称“围棋之神”的AI。在AI出现之前，世界围棋界的超一流高手们常说：“如果与围棋之神对弈，会让三子”。随着本次对局结果的出炉，人类的能力值有望迎来全新的评估。\n\r\n\r\n围棋人工智能（AI）“KataGo”被认为是自AlphaGo问世以来，当前实力最强的围棋AI程序。全世界的职业棋手都在使用KataGo进行布局研究、赛后复盘和日常训练。AI不仅超越了人类的竞争对手，更扮演起了人类“最高导师”的角色。\n\r\n\r\n本次对局将在位于首尔忠正路的韩国经济TV大楼11层尖端演播室中进行直播。解说由李贤旭九段担任，柳承熙担任主持人。节目计划利用虚拟现实（VR）设备和视频墙，在解说演播室中呈现以往围棋转播中从未有过的丰富多元的画面。此外，在17日直播开始前播出的韩经TV《新奇的经济脱口秀 Quick》节目中，申真谞九段将与AI专家一道，回顾2016年AlphaGo震惊世界以来10年间AI的发展轨迹以及人类围棋的进化历程。\n\r\n\r\n17日和19日的对局由韩国经济TV、21日的对局由围棋TV于上午10点起进行直播。",
+          "link": "https://www.williamlong.info/archives/7552.html",
+          "publishedOn": "2026-07-01T14:06:58.000Z",
+          "wordCount": null,
+          "title": "申真谞九段受让两子挑战KataGo",
+          "imageUrl": null
+        },
         {
           "id": "https://www.williamlong.info/archives/7550.html",
           "author": "user@gmail.com (guest)",
