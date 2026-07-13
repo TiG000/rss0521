@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-07-12T01:17:09.219Z</id>
+    <id>urn:2026-07-13T01:18:42.929Z</id>
     <title>osmos::feed</title>
-    <updated>2026-07-12T01:17:09.219Z</updated>
+    <updated>2026-07-13T01:18:42.929Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[搬家]]></title>
+        <id>https://www.skyue.com/26071218.html</id>
+        <link href="https://www.skyue.com/26071218.html"/>
+        <updated>2026-07-12T10:36:00.000Z</updated>
+        <summary type="html"><![CDATA[在《装修日记（4）》中预告过7月搬家，本周五正式搬入未名府新家，周末收拾了两天。从上周末开始，就在紫樾府陆陆续续打包行李，在这里住了一年，东西还真不少。找蓝犀牛搬家，约了最大的箱货。]]></summary>
+        <author>
+            <name>拾月</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[重庆公安局长悬空 中国公安部长助理谭权出席重庆市委会议]]></title>
         <id>https://www.zaobao.com/news/china/story20260710-9344108</id>
