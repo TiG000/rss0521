@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-07-13T01:18:42.929Z</id>
+    <id>urn:2026-07-14T01:08:02.268Z</id>
     <title>osmos::feed</title>
-    <updated>2026-07-13T01:18:42.929Z</updated>
+    <updated>2026-07-14T01:08:02.268Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -10,7 +10,7 @@
         <id>https://www.skyue.com/26071218.html</id>
         <link href="https://www.skyue.com/26071218.html"/>
         <updated>2026-07-12T10:36:00.000Z</updated>
-        <summary type="html"><![CDATA[在《装修日记（4）》中预告过7月搬家，本周五正式搬入未名府新家，周末收拾了两天。从上周末开始，就在紫樾府陆陆续续打包行李，在这里住了一年，东西还真不少。找蓝犀牛搬家，约了最大的箱货。]]></summary>
+        <summary type="html"><![CDATA[在《装修日记（4）》中预告过7月搬家，本周五正式搬入未名府新家，周末收拾了两天。从上周末开始，就在紫樾府陆陆续续打包行李，在这里住了一年，东西还真不少。找蓝犀牛搬家，约了最大的厢货。]]></summary>
         <author>
             <name>拾月</name>
         </author>
@@ -765,16 +765,6 @@ https://feedx.site]]></summary>
         <link href="https://www.skyue.com/26062014.html"/>
         <updated>2026-06-20T06:51:00.000Z</updated>
         <summary type="html"><![CDATA[又vibe coding了。这次开发了一款Obsidian插件，实现一键发送笔记到Typecho博客。插件已经上架Obsidian插件市场。插件市场下载：Typecho Publisher - ...]]></summary>
-        <author>
-            <name>拾月</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[宜兴三日游]]></title>
-        <id>https://www.skyue.com/26061321.html</id>
-        <link href="https://www.skyue.com/26061321.html"/>
-        <updated>2026-06-13T13:27:00.000Z</updated>
-        <summary type="html"><![CDATA[上周末连着周一，到宜兴玩了三天，超级休闲。行程如下：周六到宜兴，先逛陶二厂、蜀山古南街和东坡书院，然后开车到知春卢仝山房坐了一会。晚上住希尔顿欢朋酒店(宜兴人民中路店)，附近逛吃。周日到窑湖小镇...]]></summary>
         <author>
             <name>拾月</name>
         </author>
