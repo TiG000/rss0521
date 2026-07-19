@@ -17,7 +17,7 @@
           "description": "在《装修日记（4）》中预告过7月搬家，本周五正式搬入未名府新家，周末收拾了两天。从上周末开始，就在紫樾府陆陆续续打包行李，在这里住了一年，东西还真不少。找蓝犀牛搬家，约了最大的厢货。",
           "link": "https://www.skyue.com/26071218.html",
           "publishedOn": "2026-07-12T10:36:00.000Z",
-          "wordCount": 1041,
+          "wordCount": 1032,
           "title": "搬家",
           "imageUrl": null
         },
@@ -27,7 +27,7 @@
           "description": "周末两天继续Vibe Coding，在做几样东西：围绕钉钉的个人助理系统：自动维护待办清单和项目的OnePage，自动生成日报和周报Obsidian发布到微信公众号的插件。微信API中转服务：微...",
           "link": "https://www.skyue.com/26062821.html",
           "publishedOn": "2026-06-28T13:12:00.000Z",
-          "wordCount": 1097,
+          "wordCount": 1111,
           "title": "vibe coding上瘾，真上瘾",
           "imageUrl": null
         },
@@ -37,7 +37,7 @@
           "description": "Typecho Newsletter插件继Typecho发布和中文日期处理两款Obsidian插件之后，我的第三个vibe coding项目落地了——一款Typecho Newsletter插件...",
           "link": "https://www.skyue.com/26062116.html",
           "publishedOn": "2026-06-21T08:41:00.000Z",
-          "wordCount": 1132,
+          "wordCount": 1135,
           "title": "端午节第三弹：Typecho Newsletter插件；及Claude Code + DeepSeek的使用体验",
           "imageUrl": null
         },
@@ -47,7 +47,7 @@
           "description": "我每天在Obsidian中新建一篇标题为YYYY-MM-DD的笔记记日记，任何笔记中提及日期我都主动关联相应的笔记，但提及日期往往使用自然语言，我现在的处理方式如下图所示：笔记中大量日期引用",
           "link": "https://www.skyue.com/26062020.html",
           "publishedOn": "2026-06-20T12:48:00.000Z",
-          "wordCount": 1104,
+          "wordCount": 1116,
           "title": "Natural Language Dates - Chinese：终于能在Obsidian中处理中文日期了",
           "imageUrl": null
         },
@@ -57,7 +57,7 @@
           "description": "又vibe coding了。这次开发了一款Obsidian插件，实现一键发送笔记到Typecho博客。插件已经上架Obsidian插件市场。插件市场下载：Typecho Publisher - ...",
           "link": "https://www.skyue.com/26062014.html",
           "publishedOn": "2026-06-20T06:51:00.000Z",
-          "wordCount": 1127,
+          "wordCount": 1129,
           "title": "Obsidian笔记如何一键发布到Typecho？试试我开发的这款插件",
           "imageUrl": null
         }
