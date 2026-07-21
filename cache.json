@@ -17,7 +17,7 @@
           "description": "在《装修日记（4）》中预告过7月搬家，本周五正式搬入未名府新家，周末收拾了两天。从上周末开始，就在紫樾府陆陆续续打包行李，在这里住了一年，东西还真不少。找蓝犀牛搬家，约了最大的厢货。",
           "link": "https://www.skyue.com/26071218.html",
           "publishedOn": "2026-07-12T10:36:00.000Z",
-          "wordCount": 1039,
+          "wordCount": 1033,
           "title": "搬家",
           "imageUrl": null
         },
@@ -27,18 +27,8 @@
           "description": "周末两天继续Vibe Coding，在做几样东西：围绕钉钉的个人助理系统：自动维护待办清单和项目的OnePage，自动生成日报和周报Obsidian发布到微信公众号的插件。微信API中转服务：微...",
           "link": "https://www.skyue.com/26062821.html",
           "publishedOn": "2026-06-28T13:12:00.000Z",
-          "wordCount": 1105,
+          "wordCount": 1101,
           "title": "vibe coding上瘾，真上瘾",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.skyue.com/26062116.html",
-          "author": "拾月",
-          "description": "Typecho Newsletter插件继Typecho发布和中文日期处理两款Obsidian插件之后，我的第三个vibe coding项目落地了——一款Typecho Newsletter插件...",
-          "link": "https://www.skyue.com/26062116.html",
-          "publishedOn": "2026-06-21T08:41:00.000Z",
-          "wordCount": 1132,
-          "title": "端午节第三弹：Typecho Newsletter插件；及Claude Code + DeepSeek的使用体验",
           "imageUrl": null
         }
       ]
