@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-08-08T00:37:27.757Z</id>
+    <id>urn:2026-08-09T00:39:21.796Z</id>
     <title>osmos::feed</title>
-    <updated>2026-08-08T00:37:27.757Z</updated>
+    <updated>2026-08-09T00:39:21.796Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -748,34 +748,6 @@ https://feedx.site]]></summary>
         <summary type="html"><![CDATA[在《装修日记（4）》中预告过7月搬家，本周五正式搬入未名府新家，周末收拾了两天。从上周末开始，就在紫樾府陆陆续续打包行李，在这里住了一年，东西还真不少。找蓝犀牛搬家，约了最大的厢货。]]></summary>
         <author>
             <name>拾月</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[豆包千问宣布下线智能体功能]]></title>
-        <id>https://www.williamlong.info/archives/7553.html</id>
-        <link href="https://www.williamlong.info/archives/7553.html"/>
-        <updated>2026-07-10T02:57:39.000Z</updated>
-        <summary type="html"><![CDATA[中国两大科企阿里巴巴旗下人工智能（AI）应用通义千问和字节跳动旗下的AI应有豆包星期六（7月4日）宣布，将于7月15日下线智能体功能。此举恰逢中国官方公布的《人工智能拟人化互动服务管理暂行办法》施行之日。
-
-
-综合华尔街见闻和中国经济网报道，豆包发布《豆包智能体功能下线通知》，确认智能体功能将于7月15日下线，并将用户引流至字节跳动旗下猫箱App承接相关需求。
-
-
-豆包称，智能体功能下线后，用户仍可在一段时间内查看并自行保存智能体信息及历史对话数据。10月15日后，豆包将根据《隐私政策》对智能体相关数据进行处理，后续将无法在豆包内查看或恢复。如有重要内容，建议通过截图或分享导出文本的方式提前完成备份。
-
-
-通义千问则向用户推送下线提醒，指千问智能体功能与服务7月15日彻底下线后，用户将无法访问相关智能体配置及历史对话记录。用户可以在下线前通过复制、截图、导出对话等方式保存智能体配置信息及重要对话记录。
-
-
-中国国家网信办、国家发展改革委、工业和信息化部、公安部、市场监管总局4月10日联合公布《人工智能拟人化互动服务管理暂行办法》，自7月15日起施行。
-
-
-《办法》针对AI拟人化互动、角色扮演类服务等明确了内容安全、知识产权保护、未成年人防护等监管规则。
-
-
-上海市委网信办6月26日通报“清朗·整治AI应用乱象”专项行动第一阶段成果，宣布累计下架违规智能体1万4000余个。]]></summary>
-        <author>
-            <name>user@gmail.com (guest)</name>
         </author>
     </entry>
 </feed>
