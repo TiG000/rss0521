@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-08-27T05:13:28.970Z</id>
+    <id>urn:2026-08-28T07:12:28.694Z</id>
     <title>osmos::feed</title>
-    <updated>2026-08-27T05:13:28.970Z</updated>
+    <updated>2026-08-28T07:12:28.694Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[高加索三国旅行]]></title>
+        <id>https://www.skyue.com/26082721.html</id>
+        <link href="https://www.skyue.com/26082721.html"/>
+        <updated>2026-08-27T13:05:00.000Z</updated>
+        <summary type="html"><![CDATA[本文作者：南瓜2026年6月16日 — 6月30日 · 阿塞拜疆 / 格鲁吉亚 / 亚美尼亚从高加索回来已经两个月了，懒惰的人让豆包根据当时的朋友圈、相册和随记整理流水账游记。]]></summary>
+        <author>
+            <name>拾月</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Feedglot内测邀请]]></title>
         <id>https://www.skyue.com/26082214.html</id>
