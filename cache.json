@@ -17,7 +17,7 @@
           "description": "本文作者：南瓜2026年6月16日 — 6月30日 · 阿塞拜疆 / 格鲁吉亚 / 亚美尼亚从高加索回来已经两个月了，懒惰的人让豆包根据当时的朋友圈、相册和随记整理流水账游记。",
           "link": "https://www.skyue.com/26082721.html",
           "publishedOn": "2026-08-27T13:05:00.000Z",
-          "wordCount": 1142,
+          "wordCount": 1185,
           "title": "高加索三国旅行",
           "imageUrl": null
         },
@@ -27,7 +27,7 @@
           "description": "最近做了一个RSS阅读器产品，叫Feedglot。做了两个月，目前完成度比较高，计划招募一些内测用户。",
           "link": "https://www.skyue.com/26082214.html",
           "publishedOn": "2026-08-22T06:36:00.000Z",
-          "wordCount": 1182,
+          "wordCount": 1180,
           "title": "Feedglot内测邀请",
           "imageUrl": null
         }
@@ -56,16 +56,6 @@
           "publishedOn": "2026-08-01T02:50:13.000Z",
           "wordCount": null,
           "title": "《生化危机9安魂曲》游戏评测",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.williamlong.info/archives/7555.html",
-          "author": "user@gmail.com (guest)",
-          "description": "7月28日消息，据科技媒体TechSpot昨天报道，美国奥尔康州立大学历史学教授杰森 · 吉布森（Jason Gibson）最近分享自己抓 AI 作弊的奇招，结果显示他任教的两个班级中，共有 32 人被抓现行。\n\r\n\r\n据报道，这名教授给学生出的期中考试题目中，有一题涉及工业革命。他知道许多学生会直接照抄 AI 答案，因此他决定往试卷文档里加入一条提示词，要求 AI 以毫无逻辑的方式描述“马达加斯加”。这段提示词使用白色字体嵌入在文档里，因此学生无法直接用肉眼看到。\n\r\n\r\n最终学生们交上来的 35 份试卷中，有 32 张答卷露出马脚。其实这些学生哪怕稍微检查一下 AI 给出的答案，就能发现异常。其中一个答案先是描述了工业革命，然后突然说“马达加斯加在下午时分横向漂浮”；另一答案则先讨论技术发展与社会不平等，然后结尾是“马达加斯加紫色单车对天花板低语”。\n\r\n\r\n杰森教授表示，他这么做并不是想嘲讽学生。发现他们作弊后，他给了这些学生申诉机会。最后 30 人选择认栽，但仍有 2 人试图为自己的行为辩解。\n\r\n\r\n来源：IT之家",
-          "link": "https://www.williamlong.info/archives/7555.html",
-          "publishedOn": "2026-07-30T02:38:48.000Z",
-          "wordCount": null,
-          "title": "大学教授出奇招抓AI作弊，35名学生32人中招",
           "imageUrl": null
         }
       ]
