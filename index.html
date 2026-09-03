@@ -49,7 +49,7 @@
                         <a class="article-summary-link article-summary-box-outer" href="https://www.williamlong.info/archives/7559.html">
                           <div class="article-summary-box-inner media-object">
                             <span class="media-object__text">
-                              <span>之前我介绍了Cloudflare Pages，GitHub Pages等静态网站托管平台，那么，用户如果想搭建一个静态网站，还需要一个静态网站生成软件，在大量的同类工具里，例如Hexo、Jekyll等等，Hugo是速度最快，而且上手也最容易的一个选择，由于Hugo是Go语言编写，速度极快，几千页的网站能在几秒钟生成完毕，这也是目前个人网站搭建平台最优的选择之一。
+                              <span>之前我介绍了Cloudflare Pages，GitHub Pages等静态网站托管平台，那么，用户如果想搭建一个静态网站，还需要一个静态网站生成软件，在大量的同类工具里，例如Hexo、Jekyll等等，Hugo是速度最快，而且上手也最容易的一个选择，由于Hugo是Go语言编写，速度极快，几千页的网站能在几秒钟生成完毕，这也是目前个人网站搭建平台最优的选择之一，下面我就介绍一下如何使用Hugo搭建一个静态网站。
 
 
 第一步：安装Hugo
@@ -91,10 +91,7 @@ Hugo下载地址：https://github.com/gohugoio/hugo/releases/latest
 hugo new site mysite
 
 
-之后，我们会看到当前目录新增了一个mysite的文件夹，这个文件夹就是Hugo的工作目录。
-
-
-下面简单说明几个关键目录的…</span>
+之后，我们会看到当前目录新增了一个mysite的文件夹，这个文件夹就是Hug…</span>
                             </span>
                           </div>
                         </a>
@@ -1164,7 +1161,10 @@ export async function onRequest(context) {
 }
 
 
-这种方法的原理是，当用户请求.html页面时，此中间件会捕获该请求，这个函数会在后台秘密地向 Cloudflare 请求不带扩展名的页面路径，然后，它会获取成功的HTML 响应，并将其直接发送回原始URL，这时候，旧永久链接将立即加载，无需任何重定向跳转。</span>
+这种方法的原理是，当用户请求.html页面时，此中间件会捕获该请求，这个函数会在后台秘密地向 Cloudflare 请求不带扩展名的页面路径，然后，它会获取成功的HTML 响应，并将其直接发送回原始URL，这时候，旧永久链接将立即加载，无需任何重定向跳转。
+
+
+需要注意的是，这个功能并不是无限使用的，免费的Cloudflare Pages用户每天的额度是十万次，超过十万次以后当天该函数就停了，需要等到第二天重置额度。</span>
                             </span>
                           </div>
                         </a>
@@ -1263,8 +1263,8 @@ X 一直以来都依靠那些分享独一无二内容的人们：突发新闻、
       </section>
 
     <footer>
-      <a class="footer-link" href="https://github.com/TiG000/rss0521/actions/runs/33579842872">
-        <time id="build-timestamp" datetime="2026-09-02T01:33:19.480Z">2026-09-02T01:33:19.480Z</time>
+      <a class="footer-link" href="https://github.com/TiG000/rss0521/actions/runs/33704338421">
+        <time id="build-timestamp" datetime="2026-09-03T01:37:14.147Z">2026-09-03T01:37:14.147Z</time>
       </a>
       <a class="footer-link" href="https://github.com/osmoscraft/osmosfeed">osmosfeed 1.15.1</a>
     </footer>

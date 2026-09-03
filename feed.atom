@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-09-02T01:33:19.498Z</id>
+    <id>urn:2026-09-03T01:37:14.163Z</id>
     <title>osmos::feed</title>
-    <updated>2026-09-02T01:33:19.498Z</updated>
+    <updated>2026-09-03T01:37:14.163Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -10,7 +10,7 @@
         <id>https://www.williamlong.info/archives/7559.html</id>
         <link href="https://www.williamlong.info/archives/7559.html"/>
         <updated>2026-08-30T14:14:30.000Z</updated>
-        <summary type="html"><![CDATA[之前我介绍了Cloudflare Pages，GitHub Pages等静态网站托管平台，那么，用户如果想搭建一个静态网站，还需要一个静态网站生成软件，在大量的同类工具里，例如Hexo、Jekyll等等，Hugo是速度最快，而且上手也最容易的一个选择，由于Hugo是Go语言编写，速度极快，几千页的网站能在几秒钟生成完毕，这也是目前个人网站搭建平台最优的选择之一。
+        <summary type="html"><![CDATA[之前我介绍了Cloudflare Pages，GitHub Pages等静态网站托管平台，那么，用户如果想搭建一个静态网站，还需要一个静态网站生成软件，在大量的同类工具里，例如Hexo、Jekyll等等，Hugo是速度最快，而且上手也最容易的一个选择，由于Hugo是Go语言编写，速度极快，几千页的网站能在几秒钟生成完毕，这也是目前个人网站搭建平台最优的选择之一，下面我就介绍一下如何使用Hugo搭建一个静态网站。
 
 
 第一步：安装Hugo
@@ -52,10 +52,7 @@ Hugo下载地址：https://github.com/gohugoio/hugo/releases/latest
 hugo new site mysite
 
 
-之后，我们会看到当前目录新增了一个mysite的文件夹，这个文件夹就是Hugo的工作目录。
-
-
-下面简单说明几个关键目录的…]]></summary>
+之后，我们会看到当前目录新增了一个mysite的文件夹，这个文件夹就是Hug…]]></summary>
         <author>
             <name>williamlong.info@gmail.com (williamlong)</name>
         </author>
@@ -760,7 +757,10 @@ export async function onRequest(context) {
 }
 
 
-这种方法的原理是，当用户请求.html页面时，此中间件会捕获该请求，这个函数会在后台秘密地向 Cloudflare 请求不带扩展名的页面路径，然后，它会获取成功的HTML 响应，并将其直接发送回原始URL，这时候，旧永久链接将立即加载，无需任何重定向跳转。]]></summary>
+这种方法的原理是，当用户请求.html页面时，此中间件会捕获该请求，这个函数会在后台秘密地向 Cloudflare 请求不带扩展名的页面路径，然后，它会获取成功的HTML 响应，并将其直接发送回原始URL，这时候，旧永久链接将立即加载，无需任何重定向跳转。
+
+
+需要注意的是，这个功能并不是无限使用的，免费的Cloudflare Pages用户每天的额度是十万次，超过十万次以后当天该函数就停了，需要等到第二天重置额度。]]></summary>
         <author>
             <name>williamlong.info@gmail.com (williamlong)</name>
         </author>
