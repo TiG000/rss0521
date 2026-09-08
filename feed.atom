@@ -1,10 +1,44 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-09-07T01:24:40.957Z</id>
+    <id>urn:2026-09-08T01:34:08.885Z</id>
     <title>osmos::feed</title>
-    <updated>2026-09-07T01:24:40.957Z</updated>
+    <updated>2026-09-08T01:34:08.885Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[使用VS Code和Github打造免费网站系统]]></title>
+        <id>https://www.williamlong.info/archives/7561.html</id>
+        <link href="https://www.williamlong.info/archives/7561.html"/>
+        <updated>2026-09-07T11:33:14.000Z</updated>
+        <summary type="html"><![CDATA[以前搭建博客或CMS网站，绝大多数人都会选择WordPress、Typecho、Zblog等基于PHP+MySQL的动态CMS系统，这类传统程序虽然功能成熟、后台可视化易用，但对于个人博客场景来说，存在成本高、维护麻烦、性能差、不安全等一系列问题。
+
+
+这样的系统存在的问题是，需要服务器支持php、mysql数据库等服务，服务器成本较高，php程序漏洞多，很容易被挂马、被注入攻击，而且遇到大流量访问，服务器往往会遇到各种瓶颈，出现卡顿、报错等情况。
+
+
+因此，很多人尝试使用Hugo等静态网站系统来搭建博客或CMS网站，由于Hugo本身并没有markdown写作界面，因此需要使用第三方的CMS系统来实现写作和管理文章的功能。
+
+
+很多新手一般会选择用Obsidian来写markdown文章，把仓库建立在Hugo站点目录下，搭配各类发布插件推送到Github，但实际使用后就会发现，相关配置繁琐、坑点极多，各种BUG不断，调试排查全靠自己上网摸索。
+
+
+实际上，现在AI时代已经到来了，我们完全可以采用另外一个简单易用方案来实现免费CMS网站的功能，经过实测对比，VS Code + Front Matter CMS + Hugo + GitHub 是目前最适合新手、最稳定、零折腾的免费个人博客网站方案。
+
+
+一、工作原理
+
+
+整体逻辑并不复杂，在 VS Code 装好 Front Matter CMS 插件，利用插件自动处理文章头部配置，直接写 Markdown 内容；写完把代码提交推送到 GitHub 仓库；仓库收到更新后触发 GitHub Actions，云端自动调用 Hugo 编译生成静态网页；最后由 GitHub Pages 对外提供网站访问。
+
+
+简单说，我们只需要专注写内容，配置、编译、上线这些步骤都交给工具自动完成。
+
+
+二、前置环境准…]]></summary>
+        <author>
+            <name>williamlong.info@gmail.com (williamlong)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[母亲被配音兼职诈骗]]></title>
         <id>https://www.williamlong.info/archives/7560.html</id>
