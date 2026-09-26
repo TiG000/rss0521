@@ -17,18 +17,8 @@
           "description": "本周二收到App Store邮件通知，iOS版Feedglot已审核通过，终于上架了。Feedglot是一款支持沉浸式翻译能力的RSS阅读器，源于我自己订阅、阅读英文博客的需求。更多介绍可以参考...",
           "link": "https://www.skyue.com/26092422.html",
           "publishedOn": "2026-09-24T14:35:00.000Z",
-          "wordCount": 1267,
+          "wordCount": 1288,
           "title": "iOS版Feedglot正式上架App Store",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.skyue.com/26082721.html",
-          "author": "拾月",
-          "description": "本文作者：南瓜2026年6月16日 — 6月30日 · 阿塞拜疆 / 格鲁吉亚 / 亚美尼亚从高加索回来已经两个月了，懒惰的人让豆包根据当时的朋友圈、相册和随记整理流水账游记。",
-          "link": "https://www.skyue.com/26082721.html",
-          "publishedOn": "2026-08-27T13:05:00.000Z",
-          "wordCount": 1391,
-          "title": "高加索三国旅行",
           "imageUrl": null
         }
       ]
@@ -43,7 +33,7 @@
           "author": "williamlong.info@gmail.com (williamlong)",
           "description": "如何替换WordPress这样的动态CMS网站，上文提到的VS Code + Front Matter CMS + Hugo + GitHub是一个免费方案，但对于普通用户来说，使用VS Code还是有一定难度，无法像WordPress那样全部在网站上操作，因此，这里介绍一个更为简单的和WordPress一样的可视化后台的博客方案：PagesCMS + Hugo + GitHub Pages。\n\r\n\r\n这套方案可以完美替代传统的WordPress系统，具有静态网站高速访问、全自动部署、可视化后台发文的三大特点，没有任何费用，个人用户可以长期零成本使用，个人博客、技术随笔、笔记站点完全够用。\n\r\n\r\n一、架构原理\n\r\n\r\n这套方案使用PagesCMS这个免费服务，技术人员可以搭好系统配置，做完初期的配置设置，之后，没有任何技术基础的客户可以使用Github账号登陆Pages‑CMS，然后通过网站的CMS界面发布和管理文章，保存提交之后，Github Actions自动部署发布，网站自动实时更新。\n\r\n\r\n二、搭建流程\n\r\n\r\n1、创建 GitHub 专属网站仓库\n\r\n\r\n登录 GitHub，新建仓库，仓库名为：你的用户名.github.io，选择 Public 公开仓库，初始化空白仓库。\n\r\n\r\n2、创建 Hugo 网站\n\r\n\r\n本地克隆仓库，新建并初始化一个Hugo站点，同步该仓库。\n\r\n\r\n3、配置 GitHub Actions \n\r\n\r\n访问GitHub仓库，在Settings-Pages-Deployment source 选项选择 GitHub Actions，选择浏览工作流模板，选用Hugo模板，点击 Configure，保存文件，工作流配置就写入仓库，自动部署正式生效。\n\r\n\r\n4、配置 PagesCMS 后台\n\r\n\r\n使用GitHub登陆PagesCMS网站，…",
           "link": "https://www.williamlong.info/archives/7562.html",
-          "publishedOn": "2026-09-08T12:19:18.000Z",
+          "publishedOn": "2026-09-20T12:19:18.000Z",
           "wordCount": 243,
           "title": "使用PagesCMS和GitHub打造免费CMS网站",
           "imageUrl": null
@@ -53,7 +43,7 @@
           "author": "williamlong.info@gmail.com (williamlong)",
           "description": "以前搭建博客或CMS网站，绝大多数人都会选择WordPress、Typecho、Zblog等基于PHP+MySQL的动态CMS系统，这类传统程序虽然功能成熟、后台可视化易用，但对于个人博客场景来说，存在成本高、维护麻烦、性能差、不安全等一系列问题。\n\r\n\r\n这样的系统存在的问题是，需要服务器支持php、mysql数据库等服务，服务器成本较高，php程序漏洞多，很容易被挂马、被注入攻击，而且遇到大流量访问，服务器往往会遇到各种瓶颈，出现卡顿、报错等情况。\n\r\n\r\n因此，很多人尝试使用Hugo等静态网站系统来搭建博客或CMS网站，由于Hugo本身并没有markdown写作界面，因此需要使用第三方的CMS系统来实现写作和管理文章的功能。\n\r\n\r\n很多新手一般会选择用Obsidian来写markdown文章，把仓库建立在Hugo站点目录下，搭配各类发布插件推送到Github，但实际使用后就会发现，相关配置繁琐、坑点极多，各种BUG不断，调试排查全靠自己上网摸索。\n\r\n\r\n实际上，现在AI时代已经到来了，我们完全可以采用另外一个简单易用方案来实现免费CMS网站的功能，经过实测对比，VS Code + Front Matter CMS + Hugo + GitHub 是目前最适合新手、最稳定、零折腾的免费个人博客网站方案。\n\r\n\r\n一、工作原理\n\r\n\r\n整体逻辑并不复杂，在 VS Code 装好 Front Matter CMS 插件，利用插件自动处理文章头部配置，直接写 Markdown 内容；写完把代码提交推送到 GitHub 仓库；仓库收到更新后触发 GitHub Actions，云端自动调用 Hugo 编译生成静态网页；最后由 GitHub Pages 对外提供网站访问。\n\r\n\r\n简单说，我们只需要专注写内容，配置、编译、上线这些步骤都交给工具自动完成。\n\r\n\r\n二、前置环境准…",
           "link": "https://www.williamlong.info/archives/7561.html",
-          "publishedOn": "2026-09-07T11:33:14.000Z",
+          "publishedOn": "2026-09-10T11:33:14.000Z",
           "wordCount": 312,
           "title": "使用VS Code和Github打造免费网站系统",
           "imageUrl": null
