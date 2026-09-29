@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-09-28T02:05:43.809Z</id>
+    <id>urn:2026-09-29T02:51:51.782Z</id>
     <title>osmos::feed</title>
-    <updated>2026-09-28T02:05:43.809Z</updated>
+    <updated>2026-09-29T02:51:51.782Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -287,58 +287,6 @@ XX市场监督管理局接到你投诉事项，针对您的投诉内容，您投
 
 
 希望这篇真实的维权实录，希望能够帮更多家庭避开同类陷阱，让那些无良培训机构不再肆意收割老年人群体。]]></summary>
-        <author>
-            <name>williamlong.info@gmail.com (williamlong)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hugo搭建静态网站教程]]></title>
-        <id>https://www.williamlong.info/archives/7559.html</id>
-        <link href="https://www.williamlong.info/archives/7559.html"/>
-        <updated>2026-08-30T14:14:30.000Z</updated>
-        <summary type="html"><![CDATA[之前我介绍了Cloudflare Pages，GitHub Pages等静态网站托管平台，那么，用户如果想搭建一个静态网站，还需要一个静态网站生成软件，在大量的同类工具里，例如Hexo、Jekyll等等，Hugo是速度最快，而且上手也最容易的一个选择，由于Hugo是Go语言编写，速度极快，几千页的网站能在几秒钟生成完毕，这也是目前个人网站搭建平台最优的选择之一，下面我就介绍一下如何使用Hugo搭建一个静态网站。
-
-
-第一步：安装Hugo
-
-
-安装Hugo之前，首先要先从下面的两个地址来安装Git和Go：
-
-
-Git下载地址：https://git-scm.com/install/
-
-
-Go下载地址：https://go.dev/dl/
-
-
-安装完成之后，就可以从下面的地址来安装Hugo：
-
-
-Hugo下载地址：https://github.com/gohugoio/hugo/releases/latest
-
-
-地址里有很多个Hugo版本，建议选择下载 Hugo Extended 这个版本，大多数包管理器默认安装的就是这个版本。
-
-
-对于Windows系统来说，Hugo本身只有一个EXE文件，下载后将其放在任意目录均可，但该目录需要在“系统变量”的Path里才行，比如C:\Windows目录。
-
-
-之后，打开cmd或者powershell，输入hugo version可以查看当前Hugo程序的版本号。
-
-
-第二步：创建站点
-
-
-安装好之后，就可以使用Hugo来搭建网站了。
-
-
-先创建一个目录，然后用一条命令就能生成一个新静态网站的基础目录结构：（本例创建的站点名为mysite，大家可以自定义）：
-
-
-hugo new site mysite
-
-
-之后，我们会看到当前目录新增了一个mysite的文件夹，这个文件夹就是Hug…]]></summary>
         <author>
             <name>williamlong.info@gmail.com (williamlong)</name>
         </author>
