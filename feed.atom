@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-10-04T02:57:48.487Z</id>
+    <id>urn:2026-10-05T02:31:16.836Z</id>
     <title>osmos::feed</title>
-    <updated>2026-10-04T02:57:48.487Z</updated>
+    <updated>2026-10-05T02:31:16.836Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Mac版Feedglot正式上架Mac App Store]]></title>
+        <id>https://www.skyue.com/26100414.html</id>
+        <link href="https://www.skyue.com/26100414.html"/>
+        <updated>2026-10-04T06:34:00.000Z</updated>
+        <summary type="html"><![CDATA[继iOS版之后，Mac版Feedglot也于10月1日正式审核通过了，欢迎大家下载使用。Mac下载地址： Mac App StoreiOS下载地址：iOS App Store]]></summary>
+        <author>
+            <name>拾月</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[《纽约时报》：21世纪最佳电影100部]]></title>
         <id>https://www.williamlong.info/archives/7564.html</id>
