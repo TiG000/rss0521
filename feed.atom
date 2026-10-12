@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-10-11T02:22:00.453Z</id>
+    <id>urn:2026-10-12T02:46:30.992Z</id>
     <title>osmos::feed</title>
-    <updated>2026-10-11T02:22:00.453Z</updated>
+    <updated>2026-10-12T02:46:30.992Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[假期带娃]]></title>
+        <id>https://www.skyue.com/26101123.html</id>
+        <link href="https://www.skyue.com/26101123.html"/>
+        <updated>2026-10-11T15:03:00.000Z</updated>
+        <summary type="html"><![CDATA[中秋加国庆连休13天，没有长途旅行，全程带娃 + 刷短剧。4月底，草莓3个半月大的时候，跟着岳父、岳母和南瓜回了高平老家，五一劳动节，我去高平待了几天，之后我回杭州上班，草莓则一直留在高平直到这...]]></summary>
+        <author>
+            <name>拾月</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Mac版Feedglot正式上架Mac App Store]]></title>
         <id>https://www.skyue.com/26100414.html</id>
