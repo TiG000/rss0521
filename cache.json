@@ -17,7 +17,7 @@
           "description": "恢复写周记。",
           "link": "https://www.skyue.com/26101822.html",
           "publishedOn": "2026-10-18T14:43:00.000Z",
-          "wordCount": 1296,
+          "wordCount": 1307,
           "title": "2026W42：桂博园和良渚遗址公园",
           "imageUrl": null
         },
@@ -27,7 +27,7 @@
           "description": "中秋加国庆连休13天，没有长途旅行，全程带娃 + 刷短剧。4月底，草莓3个半月大的时候，跟着岳父、岳母和南瓜回了高平老家，五一劳动节，我去高平待了几天，之后我回杭州上班，草莓则一直留在高平直到这...",
           "link": "https://www.skyue.com/26101123.html",
           "publishedOn": "2026-10-11T15:03:00.000Z",
-          "wordCount": 1320,
+          "wordCount": 1321,
           "title": "假期带娃",
           "imageUrl": null
         },
@@ -37,7 +37,7 @@
           "description": "继iOS版之后，Mac版Feedglot也于10月1日正式审核通过了，欢迎大家下载使用。Mac下载地址： Mac App StoreiOS下载地址：iOS App Store",
           "link": "https://www.skyue.com/26100414.html",
           "publishedOn": "2026-10-04T06:34:00.000Z",
-          "wordCount": 1308,
+          "wordCount": 1302,
           "title": "Mac版Feedglot正式上架Mac App Store",
           "imageUrl": null
         },
@@ -47,7 +47,7 @@
           "description": "本周二收到App Store邮件通知，iOS版Feedglot已审核通过，终于上架了。Feedglot是一款支持沉浸式翻译能力的RSS阅读器，源于我自己订阅、阅读英文博客的需求。更多介绍可以参考...",
           "link": "https://www.skyue.com/26092422.html",
           "publishedOn": "2026-09-24T14:35:00.000Z",
-          "wordCount": 1325,
+          "wordCount": 1323,
           "title": "iOS版Feedglot正式上架App Store",
           "imageUrl": null
         }
@@ -76,16 +76,6 @@
           "publishedOn": "2026-09-30T03:23:54.000Z",
           "wordCount": null,
           "title": "《纽约时报》：21世纪最佳电视剧100部",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.williamlong.info/archives/7562.html",
-          "author": "williamlong.info@gmail.com (williamlong)",
-          "description": "如何替换WordPress这样的动态CMS网站，上文提到的VS Code + Front Matter CMS + Hugo + GitHub是一个免费方案，但对于普通用户来说，使用VS Code还是有一定难度，无法像WordPress那样全部在网站上操作，因此，这里介绍一个更为简单的和WordPress一样的可视化后台的博客方案：PagesCMS + Hugo + GitHub Pages。\n\r\n\r\n这套方案可以完美替代传统的WordPress系统，具有静态网站高速访问、全自动部署、可视化后台发文的三大特点，没有任何费用，个人用户可以长期零成本使用，个人博客、技术随笔、笔记站点完全够用。\n\r\n\r\n一、架构原理\n\r\n\r\n这套方案使用PagesCMS这个免费服务，技术人员可以搭好系统配置，做完初期的配置设置，之后，没有任何技术基础的客户可以使用Github账号登陆Pages‑CMS，然后通过网站的CMS界面发布和管理文章，保存提交之后，Github Actions自动部署发布，网站自动实时更新。\n\r\n\r\n二、搭建流程\n\r\n\r\n1、创建 GitHub 专属网站仓库\n\r\n\r\n登录 GitHub，新建仓库，仓库名为：你的用户名.github.io，选择 Public 公开仓库，初始化空白仓库。\n\r\n\r\n2、创建 Hugo 网站\n\r\n\r\n本地克隆仓库，新建并初始化一个Hugo站点，同步该仓库。\n\r\n\r\n3、配置 GitHub Actions \n\r\n\r\n访问GitHub仓库，在Settings-Pages-Deployment source 选项选择 GitHub Actions，选择浏览工作流模板，选用Hugo模板，点击 Configure，保存文件，工作流配置就写入仓库，自动部署正式生效。\n\r\n\r\n4、配置 PagesCMS 后台\n\r\n\r\n使用GitHub登陆PagesCMS网站，…",
-          "link": "https://www.williamlong.info/archives/7562.html",
-          "publishedOn": "2026-09-20T12:19:18.000Z",
-          "wordCount": null,
-          "title": "使用PagesCMS和GitHub打造免费CMS网站",
           "imageUrl": null
         }
       ]
