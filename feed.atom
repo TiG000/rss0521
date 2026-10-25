@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-10-24T02:05:50.460Z</id>
+    <id>urn:2026-10-25T01:52:12.812Z</id>
     <title>osmos::feed</title>
-    <updated>2026-10-24T02:05:50.460Z</updated>
+    <updated>2026-10-25T01:52:12.812Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -131,16 +131,6 @@
 11. …]]></summary>
         <author>
             <name>williamlong.info@gmail.com (williamlong)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[iOS版Feedglot正式上架App Store]]></title>
-        <id>https://www.skyue.com/26092422.html</id>
-        <link href="https://www.skyue.com/26092422.html"/>
-        <updated>2026-09-24T14:35:00.000Z</updated>
-        <summary type="html"><![CDATA[本周二收到App Store邮件通知，iOS版Feedglot已审核通过，终于上架了。Feedglot是一款支持沉浸式翻译能力的RSS阅读器，源于我自己订阅、阅读英文博客的需求。更多介绍可以参考...]]></summary>
-        <author>
-            <name>拾月</name>
         </author>
     </entry>
 </feed>
