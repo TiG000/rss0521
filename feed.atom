@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-10-25T01:52:12.812Z</id>
+    <id>urn:2026-10-26T01:54:00.772Z</id>
     <title>osmos::feed</title>
-    <updated>2026-10-25T01:52:12.812Z</updated>
+    <updated>2026-10-26T01:54:00.772Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[2026W43：杂记]]></title>
+        <id>https://www.skyue.com/26102522.html</id>
+        <link href="https://www.skyue.com/26102522.html"/>
+        <updated>2026-10-25T14:34:00.000Z</updated>
+        <summary type="html"><![CDATA[杂记周二出差去北京，第一次到阿里的朝阳科技园，B区的中庭风格很强烈，室内的滑滑梯给我留了下深刻的印象。原计划周五回，实际周四晚上就回来了，YB提议的提前回杭，我求之不得，也想早点回家看草莓。]]></summary>
+        <author>
+            <name>拾月</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2026W42：桂博园和良渚遗址公园]]></title>
         <id>https://www.skyue.com/26101822.html</id>
