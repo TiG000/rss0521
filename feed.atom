@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-10-29T02:59:54.276Z</id>
+    <id>urn:2026-10-30T03:05:22.786Z</id>
     <title>osmos::feed</title>
-    <updated>2026-10-29T02:59:54.276Z</updated>
+    <updated>2026-10-30T03:05:22.786Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -194,61 +194,6 @@
 
 
 07.…]]></summary>
-        <author>
-            <name>williamlong.info@gmail.com (williamlong)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[《纽约时报》：21世纪最佳电视剧100部]]></title>
-        <id>https://www.williamlong.info/archives/7563.html</id>
-        <link href="https://www.williamlong.info/archives/7563.html"/>
-        <updated>2026-09-30T03:23:54.000Z</updated>
-        <summary type="html"><![CDATA[2026年9月25日，《纽约时报》发布“21世纪最佳100部电视剧”（The 100 Best TV Shows of the 21st Century）榜单，评选范围涵盖2000年1月1日至今播出的所有电视剧集。该榜单由500多名明星演员、剧集运作人及其他电视从业者共同投票产生，排名有先后之分。
-
-
-在超过500名参与投票的人中，既有伊丽莎白·莫斯、亚当·斯科特、布莱恩·科兰斯顿、萝丝·拜恩、科尔曼·多明戈和杰森·贝特曼等演员，也有达蒙·林德洛夫、莉娜·邓纳姆、莉娜·韦瑟和诺亚·霍利等剧集主创。
-
-
-投票规则是，每位投票人最多选出 10 部符合时间门槛的剧集；还使用剧集两两对决的对比投票方式，综合计算最终排名。
-
-
-榜单显示，《绝命毒师》位居榜首，《火线》和《广告狂人》分列第二、三位。《继承之战》与《伦敦生活》跻身前五。《权力的游戏》《副总统》《我为喜剧狂》《抑制热情》《亚特兰大》进入前十名。
-
-
-详细的榜单排名如下：
-
-
-1. 《绝命毒师》 Breaking Bad (2008-2013)
-
-
-2. 《火线》 The Wire (2002-2008)
-
-
-3. 《广告狂人》 Mad Men (2007-2015)
-
-
-4. 《继承之战》 Succession (2018-2023)
-
-
-5. 《伦敦生活》 Fleabag (2016-2019)
-
-
-6. 《权力的游戏》 Game of Thrones (2011-2019)
-
-
-7. 《副总统》 Veep (2012-2019)
-
-
-8. 《我为喜剧狂》 30 Rock (2006-2013)
-
-
-9. 《抑制热情》 Curb Your Enthusiasm (2000-2024)
-
-
-10. 《亚特兰大》 Atlanta (2016-2022)
-
-
-11. …]]></summary>
         <author>
             <name>williamlong.info@gmail.com (williamlong)</name>
         </author>
