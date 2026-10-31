@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-10-30T03:05:22.786Z</id>
+    <id>urn:2026-10-31T02:52:31.068Z</id>
     <title>osmos::feed</title>
-    <updated>2026-10-30T03:05:22.786Z</updated>
+    <updated>2026-10-31T02:52:31.068Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
         <title type="html"><![CDATA[徽剑被杀的反思：当歹徒冒充警察抓人，自媒体人该如何自保？]]></title>
         <id>https://www.williamlong.info/archives/7567.html</id>
         <link href="https://www.williamlong.info/archives/7567.html"/>
-        <updated>2026-10-28T16:21:23.000Z</updated>
+        <updated>2026-10-30T02:21:23.000Z</updated>
         <summary type="html"><![CDATA[最近徽剑（吴恺）案二审裁定书公开，很多人才知晓，这位长期曝光境外电诈的自媒体人，早已在两年前遭遇跨境买凶绑架，最终遇害。看完案件细节，我心里久久无法平静，越琢磨，越是细思极恐。
 
 
@@ -153,49 +153,6 @@
         <summary type="html"><![CDATA[继iOS版之后，Mac版Feedglot也于10月1日正式审核通过了，欢迎大家下载使用。Mac下载地址： Mac App StoreiOS下载地址：iOS App Store]]></summary>
         <author>
             <name>拾月</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[《纽约时报》：21世纪最佳电影100部]]></title>
-        <id>https://www.williamlong.info/archives/7564.html</id>
-        <link href="https://www.williamlong.info/archives/7564.html"/>
-        <updated>2026-10-01T03:44:06.000Z</updated>
-        <summary type="html"><![CDATA[2025年6月27日，《纽约时报》数据新闻部门发布“21世纪最佳电影100部”（The 100 Best Movies of the 21st Century）榜单，评选范围涵盖2000年1月1日以来全球发行的电影作品。该榜单通过邀请奉俊昊、阿莫多瓦、李沧东等导演，米奇·麦迪逊、卡莉·史派妮等演员及影评人共计超过500位从业者，以每人提名10部影片的方式汇总生成。
-
-
-评选人包括导演阿莫多瓦、奉俊昊、李沧东、王子逸、索菲娅·科波拉、席琳·宋、肖恩·贝克、约阿希姆·提尔、卢卡·瓜达尼诺、埃德加·赖特、穆罕默德·拉索罗夫等大咖，还有米奇·麦迪逊、卡莉·史派妮、卡西·阿弗莱克在内的演员，以及制片人艾米·帕斯卡、作家史蒂芬·金等各领域的人物。
-
-
-投票方式是，每位投票者选出自己心中10部2000年1月1日之后上映的影片，使用两两对决的算法统计加权得分生成排名，不限国家、语言、类型，剧情片、动画、纪录片都纳入评选。
-
-
-榜单前五名依次为奉俊昊执导的《寄生虫》、大卫·林奇的《穆赫兰道》、保罗·托马斯·安德森的《血色将至》、王家卫的《花样年华》以及巴里·詹金斯的《月光男孩》。入选作品覆盖韩国、美国、中国、法国等国家地区，包含剧情片《逃出绝命镇》、动画片《千与千寻》等多种类型。李安执导的《卧虎藏龙》（第15名）与杨德昌的《一一》（第40名）等华语影片亦入围榜单。
-
-
-详细的榜单排名如下：
-
-
-01. 《寄生虫》(2019)，奉俊昊 执导
-
-
-02. 《穆赫兰道》(2001)，大卫·林奇 执导
-
-
-03. 《血色将至》(2007)，保罗·托马斯·安德森 执导
-
-
-04. 《花样年华》(2000)，王家卫 执导
-
-
-05. 《月光男孩》(2016)，巴里·詹金斯 执导
-
-
-06. 《老无所依》(2007)，伊桑·科恩 & 乔尔·科恩 执导
-
-
-07.…]]></summary>
-        <author>
-            <name>williamlong.info@gmail.com (williamlong)</name>
         </author>
     </entry>
 </feed>
