@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-11-01T02:44:59.820Z</id>
+    <id>urn:2026-11-02T02:53:34.962Z</id>
     <title>osmos::feed</title>
-    <updated>2026-11-01T02:44:59.820Z</updated>
+    <updated>2026-11-02T02:53:34.962Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[2026年第44周]]></title>
+        <id>https://www.skyue.com/26110118.html</id>
+        <link href="https://www.skyue.com/26110118.html"/>
+        <updated>2026-11-01T10:33:00.000Z</updated>
+        <summary type="html"><![CDATA[2026年第33周周记，草莓生病、周末阿里公园溜娃，Codex无法使用、拔草NAS……]]></summary>
+        <author>
+            <name>拾月</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[徽剑被杀的反思：当歹徒冒充警察抓人，自媒体人该如何自保？]]></title>
         <id>https://www.williamlong.info/archives/7567.html</id>
