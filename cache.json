@@ -17,7 +17,7 @@
           "description": "2026年第33周周记，草莓生病、周末阿里公园溜娃，Codex无法使用、拔草NAS……",
           "link": "https://www.skyue.com/26110118.html",
           "publishedOn": "2026-11-01T10:33:00.000Z",
-          "wordCount": 520,
+          "wordCount": 536,
           "title": "2026年第44周",
           "imageUrl": null
         },
@@ -27,7 +27,7 @@
           "description": "杂记周二出差去北京，第一次到阿里的朝阳科技园，B区的中庭风格很强烈，室内的滑滑梯给我留了下深刻的印象。原计划周五回，实际周四晚上就回来了，YB提议的提前回杭，我求之不得，也想早点回家看草莓。",
           "link": "https://www.skyue.com/26102522.html",
           "publishedOn": "2026-10-25T14:34:00.000Z",
-          "wordCount": 544,
+          "wordCount": 547,
           "title": "2026W43：杂记",
           "imageUrl": null
         },
@@ -37,7 +37,7 @@
           "description": "恢复写周记。",
           "link": "https://www.skyue.com/26101822.html",
           "publishedOn": "2026-10-18T14:43:00.000Z",
-          "wordCount": 533,
+          "wordCount": 529,
           "title": "2026W42：桂博园和良渚遗址公园",
           "imageUrl": null
         },
@@ -47,7 +47,7 @@
           "description": "中秋加国庆连休13天，没有长途旅行，全程带娃 + 刷短剧。4月底，草莓3个半月大的时候，跟着岳父、岳母和南瓜回了高平老家，五一劳动节，我去高平待了几天，之后我回杭州上班，草莓则一直留在高平直到这...",
           "link": "https://www.skyue.com/26101123.html",
           "publishedOn": "2026-10-11T15:03:00.000Z",
-          "wordCount": 525,
+          "wordCount": 538,
           "title": "假期带娃",
           "imageUrl": null
         }
@@ -58,6 +58,16 @@
       "feedUrl": "https://www.williamlong.info/rss.xml",
       "siteUrl": "https://www.williamlong.info/",
       "articles": [
+        {
+          "id": "https://www.williamlong.info/archives/7568.html",
+          "author": "williamlong.info@gmail.com (williamlong)",
+          "description": "三年前在阿里云续费三年的服务器又要到期了，面临续费的问题。这台服务器的配置是两核4G内存，硬盘容量80G，安装的操作系统是 Windows Server 2012，这台服务器运行着我在国内备案的网站（月光博客等网站）。除了这台服务器之外，我还在美国购买了一台一核512兆内存，10G硬盘的小服务器，上面装的是 CentOS 7.8 和宝塔面板 7.7，这个服务器运行着我在国外的网站以及一些第三方客户的网站。\n\r\n\r\n由于国内网站备案必须要国内的服务器，因此购买服务器还是必要的。问题是继续用这个 Windows 服务器，还是换一个其他的系统。\n\r\n\r\n反复权衡之后，我不打算继续续费目前这台 Windows 服务器，准备直接新购一台更低配置的 Linux 服务器。做出这个决定，很大一部分原因来自于之前在美国那台服务器上遇到的一件怪事。\n\r\n\r\n一次奇怪的网站事件\n\r\n\r\n我之前就遇到过这样一个问题：我的美国服务器经常出现一个奇怪的现象，就是 CPU 经常跑满 100%，资源消耗极大。我原先在服务器上安装的服务很多，有 PHP、MySQL 等等。由于我对Linux不熟悉，可以算是一窍不通，很多基础命令都不会，纯属于业余折腾服务器的普通管理员，靠自己排查根本无从下手，因此一直找不到解决方法，我一直以为是我购买的配置太低，或者是上面的网站被其他人攻击。于是我在 Cloudflare 防火墙上做了很多防护措施，但是收益并不是特别明显，问题还是没有很好地解决。\n\r\n\r\n后来AI发展起来之后，我开始尝试通过AI来管理服务器。也就是使用本地AI软件+SSH MCP的方式，给 AI 赋予管理员权限，通过 SSH 远程连服务器，进行数据分析和错误排查。\n\r\n\r\n首次排查过程的时候，AI登录进入我的服务器，几分钟时间吭哧吭哧跑了几十个脚本，然后得出结论，认为我的512M内存跑了宝塔+PHP+MySQ…",
+          "link": "https://www.williamlong.info/archives/7568.html",
+          "publishedOn": "2026-11-01T13:49:43.000Z",
+          "wordCount": null,
+          "title": "个人站长服务器迁移实战：从 Windows 转到 Linux，AI 帮我全搞定",
+          "imageUrl": null
+        },
         {
           "id": "https://www.williamlong.info/archives/7567.html",
           "author": "williamlong.info@gmail.com (williamlong)",
