@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-11-08T02:51:09.188Z</id>
+    <id>urn:2026-11-09T03:09:02.695Z</id>
     <title>osmos::feed</title>
-    <updated>2026-11-08T02:51:09.188Z</updated>
+    <updated>2026-11-09T03:09:02.695Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[2026年第45周]]></title>
+        <id>https://www.skyue.com/26110822.html</id>
+        <link href="https://www.skyue.com/26110822.html"/>
+        <updated>2026-11-08T14:46:00.000Z</updated>
+        <summary type="html"><![CDATA[生活片段草莓的咳嗽好了，我们也安心了，之前取消的疫苗接种，重新安排在了下周五。-这周开始降温了，入冬的细节在家洗漱要等热水出来公司洗手间水龙头提供热水了穿橡胶拖鞋必须先穿袜子睡觉时手放在被子里面...]]></summary>
+        <author>
+            <name>拾月</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Feedglot支持Agent调用了]]></title>
         <id>https://www.skyue.com/26110522.html</id>
