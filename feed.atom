@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-11-15T03:18:33.024Z</id>
+    <id>urn:2026-11-16T03:20:38.734Z</id>
     <title>osmos::feed</title>
-    <updated>2026-11-15T03:18:33.024Z</updated>
+    <updated>2026-11-16T03:20:38.735Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[玉鸟集溜娃]]></title>
+        <id>https://www.skyue.com/26111523.html</id>
+        <link href="https://www.skyue.com/26111523.html"/>
+        <updated>2026-11-15T15:46:00.000Z</updated>
+        <summary type="html"><![CDATA[今天去了良渚文化村。上午去永旺梦乐城参加由孩子王举办的宝宝爬爬赛，草莓爬了第四名，较第三名落后2秒，表现已经不错了。这是草莓第一次参加游戏比赛。中午在永旺的绿茶餐厅吃饭，给岳父补过生日。]]></summary>
+        <author>
+            <name>拾月</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2026年第45周]]></title>
         <id>https://www.skyue.com/26110822.html</id>
