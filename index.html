@@ -50,6 +50,68 @@
                           <div class="article-summary-box-inner media-object">
                             <span class="media-object__text">
                               <span>今天去了良渚文化村。上午去永旺梦乐城参加由孩子王举办的宝宝爬爬赛，草莓爬了第四名，较第三名落后2秒，表现已经不错了。这是草莓第一次参加游戏比赛。中午在永旺的绿茶餐厅吃饭，给岳父补过生日。</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;2
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
+        </ul>
+      </section>
+      <section class="daily-content js-toggle-accordions-scope">
+        <h2 class="daily-heading">
+          <button
+            class="daily-heading-toggle"
+            data-action="toggle-accordions"
+            title="Click to toggle the day, Ctrl + click to toggle all."
+          >
+            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2026-11-10 datetime="2026-11-10T15:22:43.000Z">2026-11-10</time>
+            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2026-11-10 datetime="2026-11-10T15:22:43.000Z"></time>
+          </button>
+        </h2>
+        <ul class="sources card">
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >月光博客</button>
+                  <a class="source-heading__link" href="https://www.williamlong.info/">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://www.williamlong.info/archives/7569.html"
+                        open
+                      >
+                        <summary class="article-expander__title">折腾博客：Z-Blog静态化改造，从Windows换到Linux</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://www.williamlong.info/archives/7569.html">
+                          <div class="article-summary-box-inner media-object">
+                            <span class="media-object__text">
+                              <span>最近我把自己的博客完成了服务器迁移，在上周正式从 Windows 服务器搬迁到了 Linux 服务器。这台服务器配置为 2 核 CPU、40G 硬盘以及 2G 运行内存，Debian 12 操作系统，环境上只装了宝塔面板 12 版本，搭配 Nginx1.30.6，专门用来存放网站的 HTML 静态文件。
+
+
+按照我的估算，这套配置应对每日 30 万 PV 的访问是完全绰绰有余的，再加上我的站点本身就是纯静态网站，本身抗压能力就更强，短时间之内基本不用担忧流量带来的性能压力。
+
+
+最开始我的计划，是把整个博客程序从 Z-Blog 迁移到 Hugo，前期绝大部分迁移工作其实都已经做完了。Hugo 生成出来的站点页面效果看着很不错，但有一个很大的短板：它没有可视化的网站后台，不像原来的 Z-Blog，自带集成后台，写文章、管理旧博文、发布内容都能在后台直接操作。习惯了后台操作之后，改用 Hugo 这种模式，没有便捷的管理入口，用起来处处别扭，实在适应不来。
+
+
+我对于Hugo的编辑和管理界面感觉不太习惯，打算还是用原来的ZBlog进行文章管理，本地Windows11搭建了一个IIS，让AI装上SSL证书，用SwitchHosts切换域名到本地，在本地域名下新建和管理文章，然后让AI编写了一个WinSCP的同步命令，同步本地html到服务器上。
+
+
+权衡过后，我放弃直接完整迁移到 Hugo，换成一套更加平滑过渡的折中方案，依旧沿用 Z-Blog 原有的内容生成逻辑，整套工作流程是这样的：
+
+
+在我自己日常使用的 Windows11 本机电脑上，开启系统自带的 IIS 组件，本地搭建一套完整的博客站点，让AI装上SSL证书，再借助 SwitchHosts 工具，把我的博客域名做本地映射，访问域名就会指向本机搭建的网站，在本地域名下新建和管理文章，之后所有写稿、编辑…</span>
                                 &ensp;<span class="article-reading-time">(&hairsp;1
                                   min&hairsp;)</span>
                             </span>
@@ -483,57 +545,10 @@
             </li>
         </ul>
       </section>
-      <section class="daily-content js-toggle-accordions-scope">
-        <h2 class="daily-heading">
-          <button
-            class="daily-heading-toggle"
-            data-action="toggle-accordions"
-            title="Click to toggle the day, Ctrl + click to toggle all."
-          >
-            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2026-10-18 datetime="2026-10-18T14:43:00.000Z">2026-10-18</time>
-            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2026-10-18 datetime="2026-10-18T14:43:00.000Z"></time>
-          </button>
-        </h2>
-        <ul class="sources card">
-            <li class="card__section">
-              <section class="js-toggle-accordions-scope">
-                <h3 class="source-heading">
-                  <button
-                    class="source-heading__name"
-                    data-action="toggle-accordions"
-                    title="Click to toggle the source, Ctrl + click to toggle all."
-                  >拾月的博客</button>
-                  <a class="source-heading__link" href="https://www.skyue.com/">Open</a>
-                </h3>
-                <section class="articles-per-source">
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://www.skyue.com/26101822.html"
-                        open
-                      >
-                        <summary class="article-expander__title">2026W42：桂博园和良渚遗址公园</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://www.skyue.com/26101822.html">
-                          <div class="article-summary-box-inner media-object">
-                            <span class="media-object__text">
-                              <span>恢复写周记。</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;2
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                </section>
-              </section>
-            </li>
-        </ul>
-      </section>
 
     <footer>
-      <a class="footer-link" href="https://github.com/TiG000/rss0521/actions/runs/43797583852">
-        <time id="build-timestamp" datetime="2026-11-16T03:20:38.719Z">2026-11-16T03:20:38.719Z</time>
+      <a class="footer-link" href="https://github.com/TiG000/rss0521/actions/runs/44023348954">
+        <time id="build-timestamp" datetime="2026-11-17T05:20:16.817Z">2026-11-17T05:20:16.817Z</time>
       </a>
       <a class="footer-link" href="https://github.com/osmoscraft/osmosfeed">osmosfeed 1.15.1</a>
     </footer>
