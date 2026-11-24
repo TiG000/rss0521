@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-11-23T04:11:51.336Z</id>
+    <id>urn:2026-11-24T07:11:18.807Z</id>
     <title>osmos::feed</title>
-    <updated>2026-11-23T04:11:51.336Z</updated>
+    <updated>2026-11-24T07:11:18.807Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[两次售后，几番折腾]]></title>
+        <id>https://www.skyue.com/26112323.html</id>
+        <link href="https://www.skyue.com/26112323.html"/>
+        <updated>2026-11-23T15:41:00.000Z</updated>
+        <summary type="html"><![CDATA[石头扫地机器人的乌龙故障家里的石头P20 Max集尘功能失效了，垃圾无法从尘盒收集到集尘袋。问题持续了一段时间，直到11月10日晚上找售后，售后建议返厂维修。返厂维修需要拆机、寄送、处理、再寄回...]]></summary>
+        <author>
+            <name>拾月</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[老树发新芽：九年老服务器焕新记]]></title>
         <id>https://www.williamlong.info/archives/7570.html</id>
@@ -194,16 +204,6 @@
 最后，愿敢说话的人，敢于揭露黑恶势力的人，都能一生平安，不必在曝光黑暗的时候，时刻担心自己的人身安全。]]></summary>
         <author>
             <name>williamlong.info@gmail.com (williamlong)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2026W43：杂记]]></title>
-        <id>https://www.skyue.com/26102522.html</id>
-        <link href="https://www.skyue.com/26102522.html"/>
-        <updated>2026-10-25T14:34:00.000Z</updated>
-        <summary type="html"><![CDATA[杂记周二出差去北京，第一次到阿里的朝阳科技园，B区的中庭风格很强烈，室内的滑滑梯给我留了下深刻的印象。原计划周五回，实际周四晚上就回来了，YB提议的提前回杭，我求之不得，也想早点回家看草莓。]]></summary>
-        <author>
-            <name>拾月</name>
         </author>
     </entry>
 </feed>
